@@ -15,20 +15,27 @@ p "The #{team} are #{name}'s favorite Quidditch team"
 speedy = "quick red fox"
 slow_poke = "lazy brown dog"
 
-p # YOUR CODE HERE
+puts "The #{speedy} jumped over the #{slow_poke}"
+
 
 # Write code that uses the variables below to form a string that reads
 # "In a predictable result, the tortoise beat the hare!":
 slow_poke = "tortoise"
 speedy = "hare"
 
-# YOUR CODE HERE
+puts "In a predictable result, the #{slow_poke} beat the #{speedy}!"
+
 
 
 # YOU DO:
-# Declare three variables, name/content/data type of your choice. Think carefully 
-# about what you name the variables. Remember, the goal is to be concise but 
-# descriptive (it's a hard balance!) Then, print ONE sentence that incorporates 
+# Declare three variables, name/content/data type of your choice. Think carefully
+# about what you name the variables. Remember, the goal is to be concise but
+# descriptive (it's a hard balance!) Then, print ONE sentence that incorporates
 # all THREE variables.
 
-# YOUR CODE HERE
+my_name = "Johnny"
+actor = "Brad Pitt"
+looks_like = false
+
+puts "Cindy told me she thinks #{my_name} looks like #{actor}. LOL, #{looks_like}.
+He wishes."
