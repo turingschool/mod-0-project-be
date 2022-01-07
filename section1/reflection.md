@@ -7,10 +7,10 @@ person at the time. I'd like to get in the habit of applying more time towards
 critically assessing the problem before I seek help (but not too much time!).
 
 2. How would you print the string `"Hello World!"` to the terminal?
-* `puts '"Hello World!"'``
+* `puts '"Hello World!"`
 
 3. What character is used to indicate comments in a ruby file?
-* "#"
+* `#`
 
 4. Explain the difference between an integer and a float?
 * An integer is any whole number, positive or negative, including zero. These are
@@ -31,15 +31,16 @@ variables *within* a string surrounding it using "#{}".
 * `puts "My favorite animal is #{animal}."`
 
 8. What method is used to get input from a user?
-* gets.chomp
+* `gets.chomp`
 
 9. Name and describe two common string methods:
-* The ".size" method allows you to find the length of a string in terms of the
+* The `.size` method allows you to find the length of a string in terms of the
 number of characters within it. For example: `"Johnny Bowman".size` would return
 a result of "13".
-* The ".include?" method allows you to find a string you're looking for within
+* The `.include?` method allows you to find a string you're looking for within
 a given string. For example, the following code would return a value of "true":
 ``` Ruby
 string = "My name is Johnny"
 
-string.include?("Johnny")```
+string.include?("Johnny")
+```
