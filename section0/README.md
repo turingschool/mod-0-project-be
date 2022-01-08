@@ -1,6 +1,6 @@
 # Section 0: PREPARING FOR THIS JOURNEY
 
-Section 0 is estimated to take 2-3 hours to complete. Students come to Turing to change their careers, and we will support you through that. Changing careers, especially get that first job in a new field, requires more than the technical skills you'll learn here. So, we have an intentionally designed Career Development curriculum and a team of Career Caoches who will be supporting you, starting in Mod 1.
+Section 0 is estimated to take 2-3 hours to complete. Students come to Turing to change their careers, and we will support you through that. Changing careers, especially get that first job in a new field, requires more than the technical skills you'll learn here. So, we have an intentionally designed Career Development curriculum and a team of Career Coaches who will be supporting you, starting in Mod 1.
 
 Participating in Career Development is an expectation for all students as it is just as important as learning the technical skills. There will be times when you are tempted to put this work on the backburner because you get so deep in the apps you are building, but because we care about you, we will hold you accountable to keeping up with your professional growth as well.
 
@@ -32,8 +32,8 @@ You can find all information on the curriculum and job search support [on the Ca
 - [The Homeroom Groups](https://careerdev.turing.edu/student_discussion_groups/index) and [Mix It Up](https://careerdev.turing.edu/mixed_groups/index) information. Within your cohort, you’ll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you’ll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
 - [The Module 5 section](https://careerdev.turing.edu/module-5/index), which covers what job search support looks like once you’ve graduated from Turing.
 1. Reflect on the following questions in the survey you’ll submit:
-- How do you feel about the expectations of the professional development curriculum? 
-- What are you excited about when it comes to professional development? 
+- How do you feel about the expectations of the professional development curriculum?
+- What are you excited about when it comes to professional development?
 - What are your questions or concerns about these expectations?
 
 ## Part B Pairin Survey
