@@ -1,6 +1,7 @@
 ## Section 2 Reflection
 
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
+
   - 1. The idea that no matter how many years you've been doing something there is always an opportunity to learn more and you should never sit back and think 'ok I don't need to learn anything new.'
   - 2. Not to be afraid to ask for help when you need it. There's so  much information out there and everyone will probably know something you don't and vice versa and that's why collaboration is also so important.
 
@@ -12,6 +13,7 @@
 
 3. What is a conditional statement? Give three examples.
   - A conditional statement is checking to see if something is true or false. If it's true then it will run the code and if it's false it will move on
+  
     - 1. an `if` statement
     - 2. an `if/elsif/else` to check multiple conditions
     - 3. a `case` statement which also checks multiple conditions
