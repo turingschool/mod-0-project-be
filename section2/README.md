@@ -30,8 +30,15 @@ Read/watch one or both of the following:
 
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 - What are two points from the article or video that either resonated with you, or were brand new to you?
+*The article seems closely tied to a philosophy in climbing training: mastery over success. It's to think of each problem we face in coding as a momentary obstacle, and once we push past it we've finished with the problem. A more helpful mindset - and one that ties to the growth mindset - is to spend time understanding each problem AND its solution at their most fundamental levels, so that you develop a mastery of those concepts that you may carry with you as you continue on your journey in coding.*
+
+*Seeking out challenges is often times intimidating, but something we need to do if we accept growth and development as being a valuable thing in our careers. It's hard, but that's the point! Dive into what you don't understand.*
+
 - In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+  *I find a lot of enjoyment in challenging myself to learn difficult things, and spend a good amount of time learning elements of coding from multiple sources to deepen my level of understanding. One way I could improve, however, is in being an active part of the community. I tend to try and do things solo, and that mindset will surely slow my progress down significantly. I should learn to feel comfortable reaching out for help!*
+
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+  *I spent my undergrad studying Audio Engineering & Sound Production. I've always been musical, and I remember vividly being a naive freshman sitting in my first lecture, mortified by the level of technicality and boring mathematics/practices involved in the recording process. I was completely sure that I would never be able to grasp it and that I'd made a huge mistake in selecting my major. Over time, however, I dug my heels in and spent time going over the software we were using on my own for hours, getting the commands and processes under my fingers to the point where I didn't have to think about them. It was then that my musicality could shine through, the moment the technical side of the work became a tool, rather than an obstacle.*
 
 ## Part B: Conditionals
 
