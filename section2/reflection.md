@@ -1,15 +1,15 @@
 ## Section 2 Reflection
 
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
-*The article seems closely tied to a philosophy in climbing training: mastery over success. It's to think of each problem we face in coding as a momentary obstacle, and once we push past it we've finished with the problem. A more helpful mindset - and one that ties to the growth mindset - is to spend time understanding each problem AND its solution at their most fundamental levels, so that you develop a mastery of those concepts that you may carry with you as you continue on your journey in coding.*
+* The article seems closely tied to a philosophy in climbing training: mastery over success. It's to think of each problem we face in coding as a momentary obstacle, and once we push past it we've finished with the problem. A more helpful mindset - and one that ties to the growth mindset - is to spend time understanding each problem AND its solution at their most fundamental levels, so that you develop a mastery of those concepts that you may carry with you as you continue on your journey in coding.*
 
-*Seeking out challenges is often times intimidating, but something we need to do if we accept growth and development as being a valuable thing in our careers. It's hard, but that's the point! Dive into what you don't understand.*
+* Seeking out challenges is often times intimidating, but something we need to do if we accept growth and development as being a valuable thing in our careers. It's hard, but that's the point! Dive into what you don't understand.*
 
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
-*I find a lot of enjoyment in challenging myself to learn difficult things, and spend a good amount of time learning elements of coding from multiple sources to deepen my level of understanding. One way I could improve, however, is in being an active part of the community. I tend to try and do things solo, and that mindset will surely slow my progress down significantly. I should learn to feel comfortable reaching out for help!*
+* I find a lot of enjoyment in challenging myself to learn difficult things, and spend a good amount of time learning elements of coding from multiple sources to deepen my level of understanding. One way I could improve, however, is in being an active part of the community. I tend to try and do things solo, and that mindset will surely slow my progress down significantly. I should learn to feel comfortable reaching out for help!*
 
 3. What is a conditional statement? Give three examples.
-*A conditional statement creates a branch in the code and is typically a boolean expression that, if true, runs a given line of code, or instructions. If the boolean is false, further instructions can be run if another given expression is true.*
+* A conditional statement creates a branch in the code and is typically a boolean expression that, if true, runs a given line of code, or instructions. If the boolean is false, further instructions can be run if another given expression is true.*
 
 Ex 1:
   ``` ruby
@@ -73,7 +73,7 @@ Ex 3:
   ```
 
 4. Why might you want to use an if-statement?
-*It allows your script to run specific code only if certain criteria are met. In a way your script becomes more flexible and powerful, and `if-statements` also allow user-input to affect what code the script runs.*
+* It allows your script to run specific code only if certain criteria are met. In a way your script becomes more flexible and powerful, and `if-statements` also allow user-input to affect what code the script runs.*
 
 5. What is the Ruby syntax for an if statement?
 ``` ruby
