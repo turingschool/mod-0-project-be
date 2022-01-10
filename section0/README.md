@@ -32,9 +32,12 @@ You can find all information on the curriculum and job search support [on the Ca
 - [The Homeroom Groups](https://careerdev.turing.edu/student_discussion_groups/index) and [Mix It Up](https://careerdev.turing.edu/mixed_groups/index) information. Within your cohort, you’ll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you’ll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
 - [The Module 5 section](https://careerdev.turing.edu/module-5/index), which covers what job search support looks like once you’ve graduated from Turing.
 1. Reflect on the following questions in the survey you’ll submit:
-- How do you feel about the expectations of the professional development curriculum? 
-- What are you excited about when it comes to professional development? 
+- How do you feel about the expectations of the professional development curriculum?
+I feel confident that the professional development curriculum will prepare me well for my job hunting later on.
+- What are you excited about when it comes to professional development?
+I particular enjoy the networking portion of it as I did not have as much experience before.
 - What are your questions or concerns about these expectations?
+I do not have any questions or concerns for now.
 
 ## Part B: Pairin Survey
 
