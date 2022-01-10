@@ -12,21 +12,35 @@ print_name
 
 # Write a method that takes a name as an argument and prints it:
 def print_name(name)
-  # YOUR CODE HERE
+  p name
 end
 
-print_name("Albus Dumbledore")
+print_name("Remus Lupin")
 
-# Write a method that takes in 2 numbers as arguments and prints 
+# Write a method that takes in 2 numbers as arguments and prints
 # their sum. Then call your method three times with different arguments passed in:
 # YOUR CODE HERE
 
+def print_sum(a, b)
+  p a + b
+end
 
-# Write a method that takes in two strings as arguments and prints 
-# a concatenation of those two strings. Example: The arguments could be 
-# (man, woman) and the end result might output: "When Harry Met Sally".  
-# Then call your method three times with different arguments passed in. 
+print_sum(1, 2)
+print_sum(100, 1)
+print_sum(42, 0)
 
+# Write a method that takes in two strings as arguments and prints
+# a concatenation of those two strings. Example: The arguments could be
+# (man, woman) and the end result might output: "When Harry Met Sally".
+# Then call your method three times with different arguments passed in.
+
+def print_teams(home_team, away_team)
+  puts home_team + " vs. " + away_team
+end
+
+print_teams("Denver Broncos", "Kansas City Chiefs")
+print_teams("Colorado Rockies", "Los Angeles Dodgers")
+print_teams("Colorado Rapids", "Seattle Sounders")
 
 #-------------------
 # PART 3: Naming is Hard
@@ -39,7 +53,9 @@ print_name("Albus Dumbledore")
 
 # Look at the code you wrote for the previous YOU DO🎈 - what did you name the
 # function, and why?
-# YOUR ANSWER HERE
+# I named my function print_teams because its purpose is to print the two teams
+# that are given as arguments
 
 # What did you name each parameter, and why?
-# YOUR ANSWER HERE
+# The parameters are named home_team and away_team because those are the two
+# sides in most professional sporting matchups
