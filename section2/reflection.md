@@ -53,7 +53,7 @@
   - ```ruby
       if <conditional>
         code
-      elsif
+      elsif <conditional>
         code
       else
         code
