@@ -5,27 +5,39 @@
 
 # Example: Write a method that when called will print your name:
 def print_name
-  p "Severus Snape"
+  p "Kim G"
 end
 
 print_name
 
 # Write a method that takes a name as an argument and prints it:
 def print_name(name)
-  # YOUR CODE HERE
+  puts name
 end
 
 print_name("Albus Dumbledore")
 
-# Write a method that takes in 2 numbers as arguments and prints 
+# Write a method that takes in 2 numbers as arguments and prints
 # their sum. Then call your method three times with different arguments passed in:
 # YOUR CODE HERE
 
+def number_sum(num1,num2)
+  puts num1+num2
+end
 
-# Write a method that takes in two strings as arguments and prints 
-# a concatenation of those two strings. Example: The arguments could be 
-# (man, woman) and the end result might output: "When Harry Met Sally".  
-# Then call your method three times with different arguments passed in. 
+number_sum(3,4)
+
+# Write a method that takes in two strings as arguments and prints
+# a concatenation of those two strings. Example: The arguments could be
+# (man, woman) and the end result might output: "When Harry Met Sally".
+# Then call your method three times with different arguments passed in.
+
+def bears_type(type1, type2)
+  puts "The best bears are #{type1} and #{type2}!"
+end
+
+bears_type("brown","grizzly")
+
 
 
 #-------------------
@@ -39,7 +51,6 @@ print_name("Albus Dumbledore")
 
 # Look at the code you wrote for the previous YOU DO🎈 - what did you name the
 # function, and why?
-# YOUR ANSWER HERE
-
+# I named them number_sum and bears_type as they were the subjects of my codes.
 # What did you name each parameter, and why?
-# YOUR ANSWER HERE
+# Each parameter was named num1, num2, and typ1, and type2 because they are descriptive and equal in nature.
