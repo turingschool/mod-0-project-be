@@ -33,9 +33,8 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 <img width="500" alt="week_one" src="https://user-images.githubusercontent.com/85247765/149214017-c0358549-1d11-40c5-b3ef-45657b1cd981.png">
-<img width="500" alt="week_three" src="https://user-images.githubusercontent.com/85247765/149214146-a8459a83-89df-491b-b3ff-39da1bf3877c.png">
 <img width="500" alt="week_two" src="https://user-images.githubusercontent.com/85247765/149214155-a87b2717-b60f-4f2d-9f54-d62fbe52be15.png">
-
+<img width="500" alt="week_three" src="https://user-images.githubusercontent.com/85247765/149214146-a8459a83-89df-491b-b3ff-39da1bf3877c.png">
 
 ### Mentorship Prep
 
