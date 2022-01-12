@@ -32,3 +32,19 @@ end
 
 # now we can print them out too
 elements.each {|i| puts "Element was: #{i}"}
+
+animals = ['bear', 'ruby', 'peacock', 'kangaroo', 'whale', 'platypus']
+
+# The animal at 1 is ruby
+# the third animal is at 2 and is peacock
+# The first animal is at 0 and is a bear
+# The animal at 3 is a kangaroo.
+# The fifth animal is 4 and is a whale.
+# The animal at 2 is peacock.
+# The sixth animal is at 5 and is a platypus
+# The animal at 4 is a whale.
+#
+#
+#
+#
+#
