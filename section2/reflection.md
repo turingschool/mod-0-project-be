@@ -6,7 +6,7 @@
 
 3. What is a conditional statement? Give three examples.
   
-  A conditional statement is a statement where a variable is either true or false. Examples of this would be if, ifelse and else statements.
+  A conditional statement is a statement where a variable is either true or false. Examples of this would be if, elsif and else statements.
 
 4. Why might you want to use an if-statement?
   
@@ -25,5 +25,11 @@
    Using && between the conditions if both need to be true. Or || if either can be true
    
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
-
-   if (
+```
+   if (calories >= 2200)
+    puts "You over ate today"
+   elsif (calories >= 1800)
+    puts "You ate the right amount today"
+   else 
+    puts "You ate too little today"
+   end
