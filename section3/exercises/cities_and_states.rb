@@ -1,5 +1,5 @@
 
-family_cities = {
+family_in_cities = {
   "Brendan" => "San Jose",
   "Mom & Dad" => "Capistrano Beach",
   "My family" => "Denver"
@@ -20,7 +20,7 @@ family_in_states = {
 }
 
 puts "-" * 10
-family_cities.each do |name, city|
+family_in_cities.each do |name, city|
   puts "#{name} lives in #{city}."
 end
 
@@ -35,7 +35,7 @@ family_in_states.each do |person, state|
 end
 
 puts "-" * 10
-family_cities.each do |person, city|
+family_in_cities.each do |person, city|
   state = family_in_states[person]
   puts "#{person} lives in #{city}, #{state}."
 end
