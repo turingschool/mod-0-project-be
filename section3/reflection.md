@@ -15,10 +15,10 @@ An array, on the other hadn, is an *ordered* list of items with a designated pos
 pet_store = {bones: 40, fish_species: 9, combs: 10}
 ```
 5. Given the following `states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}`, how would you access the value `"Iowa"`?
-`puts states['IA']`
+- `puts states['IA']`
 
 6. With the same hash above, how would we get all the keys?  How about all the values?
-`puts states.keys`, `puts states.values`
+- `puts states.keys`, `puts states.values`
 
 7. What is another example of when we might use a hash?  In your example, why is a hash better than an array?
 - In Google Earth, a list of countries would probably be a hash as opposed to an array, because the countries likely wouldn't need to be listed in any particular order. Similarly, cities within those countries would be listed as a hash for the same reason. Key words would be more easy to work with than position values in these cases.
