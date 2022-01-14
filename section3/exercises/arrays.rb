@@ -60,7 +60,7 @@ puts food_items
 
 # YOU DO: Write code below that removes the last item of food from the foods array and
 # print the changed array to verify that item has been removed
-food_items.delete_at(4)
+food_items.pop
 puts food_items
 
 # YOU DO: Write code to add 3 new foods to the array.
@@ -73,6 +73,7 @@ food_items.push "Ice Cream"
 puts food_items
 
 # YOU DO: Remove the food that is in index position 0.
+food_items.shift 
 food_items.delete_at(0)
 
 #-------------------
@@ -97,4 +98,4 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 
 # 1: One app that may be using arrays to store data is my fantasy football app.  Players on each individuals team could be stored in an array assigned to that profile.
 # 2: Another app that may be using arrays is that mobie retail app for the Ace Hardware I work at.  On that App you can look up items based on what sort of product it is, such as looking up items listed under "Cleaning Supplies", these items could be stored in an array.
-# 3: The uber app may store a list of previous rides taken in an array. 
+# 3: The uber app may store a list of previous rides taken in an array.
