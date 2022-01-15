@@ -31,29 +31,33 @@ Take your time as you go back and refactor your exercises from each section. We'
 
 Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry. 
 
-- [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [ ] Add a link for your gist here: 
+- [x] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
+  - [x] Add a link for your gist here: [Gear Up](https://gist.github.com/sueboyd922/2ff26234d12d861f4936a6e9a4c550a4)
 
 ## Time Management Prep
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
 
-- [ ] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Back End curriculum site](https://backend.turing.edu/))
-- [ ] Study/Project work time (usually about 25 hours/week outside of class time)
-- [ ] Personal, Health + Wellness
+- [x] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Back End curriculum site](https://backend.turing.edu/))
+- [x] Study/Project work time (usually about 25 hours/week outside of class time)
+- [x] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 - `Add Week 1 Screenshot Here`
+<img width="1440" alt="Screen Shot 2022-01-15 at 1 49 07 AM" src="https://user-images.githubusercontent.com/96309924/149612481-dc0214f8-fc48-46a3-81f9-558e2803325a.png">
 - `Add Week 2 Screenshot Here`
+<img width="1440" alt="Screen Shot 2022-01-15 at 1 52 32 AM" src="https://user-images.githubusercontent.com/96309924/149612676-d09fb15f-fb71-4c6a-bc7b-97d664403217.png">
 - `Add Week 3 Screenshot Here`
+<img width="1440" alt="Screen Shot 2022-01-15 at 1 53 08 AM" src="https://user-images.githubusercontent.com/96309924/149612584-4091e0bb-2d24-4f82-86b3-6e38c0c8841f.png">
 
+       
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
-- [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+- [x] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
+  - [x] Add link to your gist here: [Mentorship Prep](https://gist.github.com/sueboyd922/ebb9f4eb8e00387492a659b9e6708b9f) 
 
 ## Lesson Prep
 
@@ -66,8 +70,8 @@ You've learned a lot about how to take strong notes during Mod 0. Show us your s
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
-- [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+- [x] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
+  - [x] Add a link to your gist here: [Group work](https://gist.github.com/sueboyd922/bf2c5c49e03e7832c232bd902daea02e)
 
 ## Mod 0 Project Submission
 
