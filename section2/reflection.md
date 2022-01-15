@@ -23,9 +23,10 @@
 
 5. What is the Ruby syntax for an if statement?
   - ```ruby
-    if (condition)
-       action
-    end```
+      if (condition)
+        action
+       end
+    ```
   - if this condition is true then do the action
 
 6. How do you add multiple conditions to an if statement?
@@ -33,10 +34,11 @@
 
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
   - ```ruby
-    if x < y
+      if x < y
         puts "x is less than y"
-     elsif x > y
+      elsif x > y
         puts "x is more than y"
-     else
+      else
         puts "x is y"
-     end```
+      end
+    ```
