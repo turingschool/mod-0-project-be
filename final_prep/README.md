@@ -47,7 +47,9 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 - `Add Week 1 Screenshot Here`
 - <img width="1440" alt="Screen Shot 2022-01-15 at 1 49 07 AM" src="https://user-images.githubusercontent.com/96309924/149612481-dc0214f8-fc48-46a3-81f9-558e2803325a.png">
 - `Add Week 2 Screenshot Here`
-- <img width="1440" alt="Screen Shot 2022-01-15 at 1 52 32 AM" src="https://user-images.githubusercontent.com/96309924/149612562-2e915ff0-9a1b-4303-9adc-b20e8eb03b04.png"
+- <img width="1440" alt="Screen Shot 2022-01-15 at 1 52 32 AM" src="https://user-images.githubusercontent.com/96309924/149612676-d09fb15f-fb71-4c6a-bc7b-97d664403217.png">
+ 
+
 - `Add Week 3 Screenshot Here`
 - <img width="1440" alt="Screen Shot 2022-01-15 at 1 53 08 AM" src="https://user-images.githubusercontent.com/96309924/149612584-4091e0bb-2d24-4f82-86b3-6e38c0c8841f.png">
 
