@@ -30,8 +30,8 @@ puts "If you are #{your_age} years old and your mom is #{mom_age} years old that
 
 # get two numbers as input, change to integer and return a math problem
 puts "Enter x"
-num_1 = gets.chomp.to_i
+num_1 = gets.chomp
 puts "Enter y"
-num_2 = gets.chomp.to_i
+num_2 = gets.chomp
 
 puts "x + y = #{num_1 * num_2}"

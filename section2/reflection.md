@@ -13,7 +13,7 @@
 
 3. What is a conditional statement? Give three examples.
   - A conditional statement is checking to see if something is true or false. If it's true then it will run the code and if it's false it will move on
-  
+
     - 1. an `if` statement
     - 2. an `if/elsif/else` to check multiple conditions
     - 3. a `case` statement which also checks multiple conditions
@@ -22,19 +22,21 @@
   - To check to see if a condition is true or false, if the code needs to make a decision on what it needs to do next
 
 5. What is the Ruby syntax for an if statement?
-  - `if (condition)
+  - ```ruby
+    if (condition)
        action
-    end`
+    end```
   - if this condition is true then do the action
 
 6. How do you add multiple conditions to an if statement?
   - if you are checking for multiple conditions you start with `if` and then add however many `elsif`s to check other conditions with the final check being `else`.
 
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
-  - `if x < y
+  - ```ruby
+    if x < y
         puts "x is less than y"
      elsif x > y
         puts "x is more than y"
      else
         puts "x is y"
-     end`
+     end```
