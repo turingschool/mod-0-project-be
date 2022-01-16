@@ -5,6 +5,8 @@
 
 # EXAMPLE: print to the terminal the result of 1 is equal to 2:
 p 1 === 2
+p 1 == 2
+# what is the difference between using == and ===?
 
 # EXAMPLE: print to the terminal the result of 7 is greater than 2:
 p 7 > 2

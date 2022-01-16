@@ -6,9 +6,6 @@ eyes = 'Blue'
 teeth = 'White'
 hair  = 'Brown'
 
-height_cm = height * 2.54
-weight_kg = weight * 0.4535
-
 puts "Let's talk about #{name}."
 puts "He's #{height} inches tall."
 puts "He's #{weight} pounds heavy."
@@ -17,6 +14,9 @@ puts "He's got #{eyes} eyes and #{hair} hair."
 puts "His teeth are usually #{teeth} depending on the coffee."
 
 # using the cm and kg for height and weight variables
+height_cm = height * 2.54
+weight_kg = weight * 0.4535
+
 puts "If he wasn't American he would say he weighed #{weight_kg} kg and was #{height_cm} cm tall."
 
 # this line is tricky, try to get it exactly right

@@ -34,4 +34,4 @@ num_1 = gets.chomp
 puts "Enter y"
 num_2 = gets.chomp
 
-puts "x + y = #{num_1 * num_2}"
+puts "x + y = #{num_1.to_i * num_2.to_i}"

@@ -25,5 +25,4 @@ puts "We need to put about #{average_passengers_per_car} in each car."
 
 
 #Study drill error: "ex4.rb:14 undefined local variable or method `carpool_capacity`
-# for main:Object (Name error)" would mean that on the line specified there isn't
-# the variable used doesn't exist or isn't defined. This case would refer to line 14
+# for main:Object (Name error)" would mean that on the line specified there is variable used that doesn't exist or isn't defined. This case would refer to line 14
