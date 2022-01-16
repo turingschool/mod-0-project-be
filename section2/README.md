@@ -1,87 +1,158 @@
-# Section 2 - GROWTH MINDSET, Conditionals
+# Mod 0 Project - Back End
 
-Section 2 is estimated to take a total of 8-12 hours to complete. Similar to Section 1, this section of the project involves 📒reading, 👨🏽‍💻exercises, and 📝reflection questions. Make sure to manage your time well so that should you get stuck and need help, you have plenty of time to do so and meet the deadline.
+This repository will guide you through the Mod 0 Project for the Back End program at Turing. **Read this page thoroughly** to understand the purpose and find the instructions for getting your project setup on your computer.
 
-- [Vocabulary](#vocabulary)
-- [Get Set Up](#get-set-up)
-- [Part A: Growth Mindset](#part-a-growth-mindset)
-- [Part B: Conditionals](#part-b-conditionals)
-- [Vocabulary](#vocabulary-1)
-- [Reflections](#reflections)
-- [Commit Your Work in Git](#commit-your-work-in-git)
-- [Push to GitHub](#push-to-github)
+Each section has a folder containing a `README.md` file with instructions for the section, exercises, and questions. Please complete all the exercises and reflections.
 
-## Vocabulary
+### Project Index
 
-This section will introduce a number of new terms, that may feel a bit more complex. Write these terms in that special spot in your notebook now. Work to hold yourself accountable to updating definitions _as you work through this section_.
+* [Section 0 - PREPARING FOR THIS JOURNEY](section0)
+* [Section 1 - ASKING QUESTIONS, Terminal and Ruby Foundations](section1)
+* [Section 2 - GROWTH MINDSET, Conditionals](section2)
+* [Section 3 - HOW YOU SPEND YOUR TIME, Arrays & Hashes](section3)
+* [Final Prep - Final Deliverables and Submission](final_prep)
 
-- if statements
-- method
+## What to Expect
 
-## Get Set Up
+By completing this project, you will reinforce what you learn in Mod 0, deepen your technical understanding, and reflect on your mindsets and habits. You will also be challenged to consider which of your habits will help you become a software developer and which may hinder your progress.
 
-Using the Terminal, open the local copy of the repository that you created during setup.  To do this, you will need to use the terminal command `cd` to change into the directory that holds the repository. Once you are in the correct directory, use the terminal command `atom .` to open the project repository. If you are having trouble with this, see the `section1` instructions.
+## Best Practices: Learning to Write Code
 
-## Part A: Growth Mindset
+To ground yourself in the work ahead, read these best practices carefully.
 
-Read/watch one or both of the following:
-- This [2-part blog post series](https://blog.mindsetworks.com/entry/how-having-a-growth-mindset-can-help-you-learn-to-code) discusses how having a growth mindset is helpful when learning to code, and how coding promotes a growth mindset!
-- This [video interview](https://dev.to/hackflix_dev/how-to-hack-a-growth-mindset-b1g) where an experienced Front-End engineer discusses learning about the concept of Growth Mindset and how that's changed how she sees her work and career. (The first 7 minutes are intros and a discussion on Developer Relations. After that, the conversation about Growth Midnset begins.)
+### Recognize Unproductive Struggle
 
-Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
-- What are two points from the article or video that either resonated with you, or were brand new to you?
-- In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
-- What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+**If you are stuck for longer than 30 minutes, ask for help!** At some point, everyone struggles. Struggle is a normal, healthy part of the learning process—don't give up if you hit a hard spot.
 
-## Part B: Conditionals
+When you reach out for help, challenge yourself to ask clear questions and use technical vocabulary. Speaking accurately about code is a great way to help lock in technical understanding. Use [this guide](https://gist.github.com/ericweissman/fb0241e226227867b6bc70a4d49227f5) to learn the optimal way to ask for help when you get stuck.
 
-One of the most important concepts in computer programming is knowing when and how to tell the computer to do either _one_ thing or _another_ thing based on a set of simple criteria.  We accomplish this with ***If-Statements*** and ***Conditionals***, which you will learn about today.
+### Process Over Product
 
-When you are all done with the lessons, exercises, and questions for today, you will once again use git to save your work locally, and then send your work to GitHub.
+When asking for help, seek understanding rather than just `the answer` or `the solution`. Even if your helper gets you a solution that works, your learning opportunity is to ask, "*why*?"
 
-### If statement and Conditional Lessons
+### Type Every Line of Code
 
-1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
+Copying and pasting won't help you solidify these concepts, manually typing all the code examples in the exercises will. *Do not* copy and paste unless instructed. The more hands-on-keyboard practice you can give yourself, the better.
 
-    - [ ] [What If?](https://learnrubythehardway.org/book/ex29.html) from Learn Ruby the Hard Way.
+### Details Matter
 
-    - [ ] [Else and If](https://learnrubythehardway.org/book/ex30.html) from Learn Ruby the Hard Way.
+Pay close attention to small details in syntax, spacing, and language. The most detailed oriented you are as you're working, the more reliable and well-crafted your code will be. In programming, being detail oriented catches bugs _before they become bugs_.
 
-    - [ ] [Making Decisions](https://learnrubythehardway.org/book/ex31.html) from Learn Ruby the Hard Way.
+## Terminal
 
-    - [ ] [Conditionals](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals) from Ruby in 100 Minutes.
+We will be referencing many Terminal commands throughout the project. It is recommended that you practice using commands before getting started. See the [`terminal.md` lesson](https://github.com/turingschool/mod-0-project-be/tree/main/section1#Part-B-Terminal) located in the `section1` directory. Then, continue to Project Setup.
 
-1. Work through the `if_statements.rb` file in the `section2/exercises` directory.
+## Project Setup
 
-## Vocabulary
+To set this project up, you are going to *fork this repository*. Forking is when you copy a GitHub repository to your GitHub account so that you can make changes to your copy without affecting the original repository.
 
-Look back at that special spot in your notebook for vocabulary. Hopefully you updated it with definitions, diagrams, and code samples as you went through this section. If not, do so now. This will be part of this sections deliverables.
+### Fork This Repository
 
-## Reflections
+In this scenario, the [Turing GitHub account](https://github.com/turingschool) owns this `mod-0-project-be` repository. You do not have permission to change anything in this repository, so you need your own copy to work on. In order to fork this repository, follow these steps:
 
-📝 Answer the prompts in the `reflection.md` file in the `section2` directory. If you need a reminder on how to format your markdown, [this is the Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)!
+> Note that the screenshots for the directions that follow are for a different repository, and may have a slightly different GitHub interface, which changes frequently. Be flexible and use this as a guide.
 
-## Commit Your Work in Git
+1. Make sure you are logged in to GitHub (if you are not logged in, first, log in. Then, come back to this page)
+2. Scroll to the top of [*this* page that you're reading right now](#top).
+3. Click on `Fork` in the upper right corner of the screen
+![click fork button](/images/be_step1.png)
+1. On the new page, confirm you're now on _your fork_, with your username included in the URL and repository name.
+![confirm fork](/images/be_step2.png)
 
-When you are finished with all of the `section2` activities, use the Terminal to run the following commands in order to save your work to your local Git repository.
+### Clone _Your_ Forked Repository
 
-1. `git add section2/exercises`
-2. `git add section2/reflection.md`
-3. `git status` - you should see only green filenames - if you see any that are red, continue to `git add` those files until `git status` shows all green files.
-4. `git commit -m "Add Section 2 work"`
+Now that you have your own forked repository—which is _your_ Mod 0 Project—the next thing to do is *clone the repository* to your computer.
 
-## Push to GitHub
+Cloning is a Git operation that allows us to copy a remote Git repository to our local computer. In this case, we're cloning the Git repository from GitHub to your local computer. 
 
-You've saved your work to Git on your local machine, but your repository on GitHub doesn't reflect it yet. You update the remote GitHub repository with your new local commits when you `push` your changes.
+1. In YOUR project repository that you just forked, click on `Clone or Download`
+![clone your copy](/images/be_step3.png)
+1. If `Clone with HTTPS` is selected, click on `Use SSH`
+1. Click on the copy icon to copy the SSH link to your clipboard
+1. Open the Terminal (`command + space` and begin typing Terminal) and follow these steps:
 
-Run:
+Change into your Home directory:
 
 ```
-git push origin main
+$ cd ~
 ```
 
-You should now be able to log in to GitHub, navigate to your remote repository and see all the work you did in this section!
+Make a new directory where you'll organize your Turing work:
 
-***
+```
+$ mkdir turing
+```
 
-🚀 [Go to Section 3](../section3)
+Change directories to that new directory:
+
+```
+$ cd turing
+```
+
+Make a new directory for your Mod 0 work, then `cd` into it:
+
+```
+$ mkdir 0module
+$ cd 0module
+```
+
+Clone the Git repository into your current working directory:
+
+```
+$ git clone $(pbpaste)
+```
+
+> Don't worry about `$(pbpaste)` in that last step. It's a Terminal command that pastes the GitHub SSH link you copied to your clipboard earlier (the same thing `command + v` does)!
+
+You should see output like this:
+
+```
+Cloning into 'mod-0-project-be'...
+remote: Enumerating objects: 678, done.
+remote: Total 678 (delta 0), reused 0 (delta 0), pack-reused 678
+Receiving objects: 100% (678/678), 237.94 KiB | 851.00 KiB/s, done.
+Resolving deltas: 100% (332/332), done.
+```
+
+A new directory was created by Git with all the files from the remote repository on GitHub! Let's `cd` into your local project repository:
+
+```
+$ cd mod-0-project-be
+```
+
+Next, run this command to double check what remote repository your local repository was cloned from:
+
+```
+$ git remote -v
+```
+
+If you followed these instructions correctly, you should see:
+
+```
+origin	git@github.com:YOUR-GITHUB-USERNAME/mod-0-project-be.git (fetch)
+origin	git@github.com:YOUR-GITHUB-USERNAME/mod-0-project-be.git (push)
+```
+
+If you instead see references to `git@github.com:turingschool/...`, you missed an important step and need to start over.
+
+> Do you see an error that's not documented in this section? Something is likely wrong with your computer setup. This is a good opportunity to seek help in your Mod 0 Slack channel.
+
+## Important Note: Please Read Carefully
+
+From here on out, all Mod 0 Project work will be completed on your computer using Atom. You will make changes to your _local clone_ of your _forked repository_. In the project directions, this is referred to as your `project repository` and `Mod 0 Project`.
+
+The project involves using Git to "commit" your work and "push" your changes from your local clone to your remote repository (your fork) on GitHub. We also give explicit instructions on how to do this during each section of the project.
+
+Do **NOT** work directly in the GitHub interface or use the `Edit` button to work directly from the GitHub version of your project repository.
+
+### Also Important
+
+Does the Git and GitHub process we just completed feel like a lot? Don't stress, because it is. Throughout Mod 0, you will get plenty of practice with Git and GitHub—which are different but related tools.
+
+The expectation by the end of Mod 0 is that you are _familiar_ with why and how we use these tools in software development.
+
+## Get Started
+
+Each section's `README` will walk you through the steps you need to take to save your work.
+
+To start, in your Terminal, `cd` into the `section0` directory. Follow the instructions contained in the `README.md` file, and have a great time learning and exploring!
