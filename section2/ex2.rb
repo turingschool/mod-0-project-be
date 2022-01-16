@@ -1,5 +1,5 @@
-people = 8
-cars = 9
+people = 10
+cars = 5
 trucks = 1
 
 if cars > people
