@@ -48,7 +48,7 @@ Read the three blog posts that follow:
 * [Asking better questions](https://dev.to/josefine/asking-better-questions-2e2k)
 * [Your Questions Are Dumb; Ask Them Anyway](https://dev.to/kathryngrayson/your-questions-are-dumb-ask-them-anyway-3cm6)
 
-Reflect on these posts, and how you feel about asking questions (specifically, technical questions as you enter your technical work at Turing). How might this positively or negatively impact your growth? 
+Reflect on these posts, and how you feel about asking questions (specifically, technical questions as you enter your technical work at Turing). How might this positively or negatively impact your growth?
 
 It's going to take some time to find that balance between googling and pushing yourself to solve a problem without hand-holding, and reaching out for help. That's ok! Be patient with yourself. The way you will find that balance is by being aware of how you currently operate. Keep this on your mind as you work through this section, and...there is no time like the present to start asking questions.
 
@@ -167,11 +167,11 @@ This will open the `section1` directory in Atom. You should be able to see the d
 
 ### Ruby Basics Lessons
 
-1. Next, you will complete several lessons from the Learn Ruby the Hard Way Tutorial. 
-   
+1. Next, you will complete several lessons from the Learn Ruby the Hard Way Tutorial.
+
    *For ***each*** lesson* ***follow these directions closely***:
 
-    1. Create a file within your `section1` directory that will contain this lesson's work. Verify that you are within the directory by using terminal command `pwd`. If you are not, `cd` into your `section1` directory. Once you are there, use the `touch` command in the Terminal to create a file. For the first lesson, name this file `ex1.rb`. For each subsequent lesson, use `ex2.rb`, `ex3.rb`, so on, so forth. 
+    1. Create a file within your `section1` directory that will contain this lesson's work. Verify that you are within the directory by using terminal command `pwd`. If you are not, `cd` into your `section1` directory. Once you are there, use the `touch` command in the Terminal to create a file. For the first lesson, name this file `ex1.rb`. For each subsequent lesson, use `ex2.rb`, `ex3.rb`, so on, so forth.
 
     2. Work through the lesson, **typing** the code into your file, and running it in the Terminal with `ruby ex1.rb`, replacing `ex1` with the actual file name of what you'd like to run. Make sure the output you get is similar to what the lesson shows. If you get an error saying "No such file or directory", be sure to verify the directory you are located in via the Terminal- running command `ls` should show the file you are trying to run.
 
