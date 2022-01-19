@@ -23,42 +23,43 @@ print animals
 print animals[0]
 
 # YOU DO: Write code below that will print the number of elements in array of
-# animals from above.
-
+print animals.count
 
 # YOU DO: Write code that will reassign the last item in the animals
-# array to "Gorilla"
-
+print animals.last
 
 # YOU DO: Write code that will add a new animal (type of your choice) to position 3.
-
+print animal.insert(2, Panda)
 
 # YOU DO: Write code that will print the String "Elephant" in the animals array
-
+print animal[3, Elephant]
 
 #-------------------
 # PART 2: Foods: Array Methods
 #-------------------
 
 # YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
-
+food = [Burger, Speghetti, Steak, Salad]
 
 # YOU DO: Write code below that will print the number of elements in the array of
 # foods from above.
+print food.count
 
 
 # YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 # print the changed array to verify "broccoli" has been added
-
+food.insert(0,Apple, 1, Pizza, 2, Taco)
+  print food
 
 # YOU DO: Write code below that removes the last item of food from the foods array and
 # print the changed array to verify that item has been removed
-
+food.pop
+  print food
 
 # YOU DO: Write code to add 3 new foods to the array.
   # There are several ways to do this - choose whichever you'd like!
 # Then, print the changed array to verify the new items have been added
-
+food.insert(0,Apple, 1, Pizza, 2, Taco)
 # YOU DO: Remove the food that is in index position 0.
 
 #-------------------
@@ -81,6 +82,6 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 # may be storing data? Come up with 3 examples - they could be from different web applications or
 # all from the same one.
 
-# 1:
-# 2:
-# 3:
+# 1: Amazon
+# 2: Pandora
+# 3: Spotify

@@ -13,4 +13,4 @@ p "Welcome to Turing!"
 p "99 bottles of pop on the wall..."
 
 # Write out code to print one line from your favorite song or movie.
-p "I get by with a little help from my friends.""
+p "I get by with a little help from my friends."

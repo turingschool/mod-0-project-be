@@ -24,7 +24,7 @@ p zoo.keys
 # you created above:
 puts '-' * 10
 zoo.each do |animals, count|
-  puts "I have #{count} of a certain animal."
+  puts "I have some #{count} on my farm."
 end
 
 p zoo.values
@@ -49,17 +49,21 @@ p zoo
 # Declare a variable that stores hash. Each key should be an attribute of an email and each
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
 
-# Write code that prints your email hash to the terminal.
-
+recipients = {cc:4, bcc: 6, email:80}
+p foods
 
 # Write code that prints all of the 'keys' of the email hash
 # you created above:
-# YOUR CODE HERE
+puts '-' * 5
+recipients.each do |email, count|
+  puts "I have emailed #{email} recipients."
+end
+
+p recipients.keys
 
 # Write code that prints all of the 'values' of the email hash
 # you created above:
-# YOUR CODE HERE
-
+p recipients.count
 
 #-------------------
 # Part 3: Many Emails - OPTIONAL EXTENSION
