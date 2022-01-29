@@ -32,7 +32,7 @@ Take your time as you go back and refactor your exercises from each section. We'
 Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry.
 
 - [x] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [x] Add a link for your gist here: https://github.com/Hutchins13531/mod-0-project-be/blob/main/final_prep/reflection.md
+  - [x] Add a link for your gist here: https://github.com/Hutchins13531/gear-up.git
 
 ## Time Management Prep
 
@@ -44,9 +44,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- [Week-1](https://drive.google.com/file/d/19gf-2bYPRMHfbhnWas4ffNl4NkG4Sh8n/view?usp=sharing)
-- [Week-2](https://drive.google.com/file/d/1EKgbT_1T2nkyFfvKw2-NnRNDDIIQOPBU/view?usp=sharing)
-- [Week-3](https://drive.google.com/file/d/1TRIRlRLYpWC3zGiQUDrztMNIfw_R0BOS/view?usp=sharing)
+- [MOD_1-OVERVIEW](https://drive.google.com/file/d/11YqJXwB5hv4HFDieP8hA_vNA1yReXorh/view?usp=sharing)
+- [MOD_1/Week-1](https://drive.google.com/file/d/1DtI_5-SwsBi_puJuojvFdcpMARaXuN21/view?usp=sharing)
+- [MOD_1/DAY-1](https://drive.google.com/file/d/1CHeshcF9ebcXX0Mn40nbG5DT1qXzJVGl/view?usp=sharing)
 
 ## Mentorship Prep
 
