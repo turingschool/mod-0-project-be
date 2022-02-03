@@ -3,14 +3,19 @@
 1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between?
 
 2. How would you print the string `"Hello World!"` to the terminal?
+  + `puts "Hello World!"`
 
 3. What character is used to indicate comments in a ruby file?
+  + #
 
 4. Explain the difference between an integer and a float?
+  + A float is just an integer that includes a value after the decimal. Integers are even numbers.
 
 5. In the space below, create a variable `animal` that holds the string `"zebra"`
+  + `animal == "zebra"`
 
 6. How would you print the string `"zebra"` using the variable that you created above?
+  + `puts animal`
 
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 
