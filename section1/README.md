@@ -167,6 +167,8 @@ This will open the `section1` directory in Atom. You should be able to see the d
 
 ### Ruby Basics Lessons
 
+>In this Section, you may see references to `irb`. `irb` is short of "Interactive Ruby" and is a tool that allows us to run Ruby code inside the Terminal. To open and `irb` _session_, type `irb` in your Terminal. At that point, you can type any valid Ruby code, then press return. To exit the `irb` session, run `exit`.
+
 1. Next, you will complete several lessons from the Learn Ruby the Hard Way Tutorial. 
    
    *For ***each*** lesson* ***follow these directions closely***:
