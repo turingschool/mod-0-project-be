@@ -9,8 +9,9 @@ hair = 'Brown'
 puts "Let's talk about #{name}"
 puts "They're #{height} centimeters tall."
 puts "They're #{weight} kilograms heavy."
-#original line was "Actually that's not too heavy."
-puts "I don't want to put this because it feels fatphobic in implying that there is a 'too heavy'?"
+# original line was "Actually that's not too heavy."
+puts "Actually that's not too heavy"
+# this line could be interpreted as outdated and potentially harmful to fat folks
 puts "They've got #{eyes} eyes and #{hair} hair."
 puts "Their teeth are usually #{teeth} depending on the coffee."
 
