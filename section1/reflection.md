@@ -1,12 +1,13 @@
 ## Section 1 Reflection
 
-1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between? I normally don't ask questions often unless I really feel lost. I think I wait too long on average.
+1. Regarding the blog posts in Part A, how do you feel about asking questions? Do you tend to ask them too soon, or wait too long, or somewhere in between?
+I normally don't ask questions often unless I really feel lost. I think I wait too long on average.
 
 2. How would you print the string `"Hello World!"` to the terminal?
 puts "Hello World!"
 
 3. What character is used to indicate comments in a ruby file?
-# octothorpe/pound
+octothorpe/pound
 
 4. Explain the difference between an integer and a float?
 Integers are whole numbers, floats have decimals.
