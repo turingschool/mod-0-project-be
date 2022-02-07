@@ -5,7 +5,9 @@
 
 2. How would you print the string `"Hello World!"` to the terminal?
 * I prefer puts, because it is easier for me to read -prints out on a second line, as opposed to print, which prints it on the same line. That is why all of my exercises were done with puts instead of print
+
  `puts "Hello World!"`
+
  `print "Hello World!"`
 
 3. What character is used to indicate comments in a ruby file?
@@ -15,13 +17,16 @@
 * An integer is any positive or negative whole number, a float is any positive or negative number with decimals
 
 5. In the space below, create a variable `animal` that holds the string `"zebra"`
+
 `animal = "zebra"`
 
 6. How would you print the string `"zebra"` using the variable that you created above?
+
 `puts "#{animal}"`
 
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 * An interpolation is sticking data in the middle of a string
+
 `puts "#{animal} mussel is an invasive species found in Eurasia found to harm native species of that area."`
 
 8. What method is used to get input from a user?
