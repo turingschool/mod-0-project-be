@@ -1,6 +1,6 @@
 # In the below exercises, write code that achieves
 # the desired result. To check your work, run this
-# file by entering the following command in your terminal: 
+# file by entering the following command in your terminal:
 # `ruby section3/exercises/hashes.rb`
 
 # Example: Write code that prints a hash holding grocery store inventory:
@@ -8,24 +8,25 @@ foods = {apples: 23, grapes: 507, eggs: 48}
 p foods
 
 # Write code that prints a hash holding zoo animal inventory:
-zoo = #YOUR CODE HERE
+zoo = {reptiles: 243, mammels: 583, birds: 104, bugs: 100000}
 p zoo
 
-# Write code that prints all of the 'keys' of the zoo variable 
+# Write code that prints all of the 'keys' of the zoo variable
 # you created above:
-# YOUR CODE HERE
+p zoo.keys
 
-# Write code that prints all of the 'values' of the zoo variable 
+# Write code that prints all of the 'values' of the zoo variable
 # you created above:
-# YOUR CODE HERE
+p zoo.values
 
-# Write code that prints the value of the first animal of the zoo variable 
+# Write code that prints the value of the first animal of the zoo variable
 # you created above:
-# YOUR CODE HERE
+p zoo.values[0]
 
-# Write code that adds an animal to the zoo hash. 
+# Write code that adds an animal to the zoo hash.
 # Then, print the updated hash:
-# YOUR CODE HERE
+zoo[:underwater] = 73
+p zoo
 
 
 #-------------------
@@ -38,18 +39,18 @@ p zoo
 
 # Declare a variable that stores hash. Each key should be an attribute of an email and each
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
-
+components = {sender: "Chani Nicholas", subject: "Your Guide to the week of February 7th", body: "themes, related tarot cards, how to make the most of the week", recepient: "cfazio@gmail.com", attachments: 3}
 # Write code that prints your email hash to the terminal.
 
 
-# Write code that prints all of the 'keys' of the email hash 
+# Write code that prints all of the 'keys' of the email hash
+# you created above:
+p components.keys
+
+# Write code that prints all of the 'values' of the email hash
 # you created above:
 # YOUR CODE HERE
-
-# Write code that prints all of the 'values' of the email hash 
-# you created above:
-# YOUR CODE HERE
-
+p components.values
 
 #-------------------
 # Part 3: Many Emails - OPTIONAL EXTENSION
@@ -76,7 +77,7 @@ posts = [
     timestamp: "4:37 PM August 13, 2019",
     number_likes: 0,
     comments: []
-  }, 
+  },
   {
     image_src: "./images/holiday-party.png",
     caption: "What a great holiday party omg",
@@ -90,12 +91,36 @@ p posts
 p posts[0]
 
 
-# The code snippet above shows an Array with 2 elements. Each element in the Array is a 
-# Hash. Each of those Hashes has 4 key-value pairs. This may LOOK 
+# The code snippet above shows an Array with 2 elements. Each element in the Array is a
+# Hash. Each of those Hashes has 4 key-value pairs. This may LOOK
 # a bit daunting - it's OK! You don't need to be 100% comfortable with this, but it's
 # good to have some exposure before going into Mod 1.
 
 
-# YOU DO: Create an array of at least 3 EMAIL Hashes, using the same 
+# YOU DO: Create an array of at least 3 EMAIL Hashes, using the same
 # key-value pairs you used in your email Hash above.
 # Then, print the email Array to the terminal.
+emails = [
+  {
+    sender: 'Chani Nicholas',
+    subject: "Your Guide to the week of February 7th",
+    body: "themes, related tarot cards, how to make the most of the week",
+    recepient: "witchesrkewl@gmail.com",
+    attachments: 3
+  },
+  {
+    sender: "Pizzeria Locale",
+    subject: "Rewards at Pizzeria Locale",
+    body: "claim your rewards",
+    recepient: "joe@joeschimdt.org",
+    attachments: 0
+  },
+  {
+    sender: "Dogs R Us",
+    subject: "Free treats 4 lyfe",
+    body: "your dog deserves free treats",
+    recepient: "dogfanatic@aol.com",
+    attachments: 100
+  }
+]
+p emails
