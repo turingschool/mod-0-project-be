@@ -43,7 +43,7 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
 
-    - [ ] [What If?](https://learnrubythehardway.org/book/ex29.html) from Learn Ruby the Hard Way.
+    - [x] [What If?](https://learnrubythehardway.org/book/ex29.html) from Learn Ruby the Hard Way.
 
     - [ ] [Else and If](https://learnrubythehardway.org/book/ex30.html) from Learn Ruby the Hard Way.
 
