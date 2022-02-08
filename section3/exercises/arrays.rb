@@ -47,7 +47,7 @@ puts animals[4]
 #-------------------
 
 # YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
-foods = ["Pizza", "Pasta", "Rice", "Tofu"]
+foods = %w[Pizza Pasta Rice Tofu]
 
 # YOU DO: Write code below that will print the number of elements in the array of
 # foods from above.
@@ -96,4 +96,4 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 
 # 1: In music players arrays might be used when you generate a playlist since playlists are usually designed to be played in a specific order. Or at least added in a specific order
 # 2: Notification trackers in most apps will store in arrays and essentially each new notification is just a record being added to the end of the notifications array.
-# 3: Email clients sort mail in arrays based on what came in most recently. Once again just adding a new record to the end of the array. 
+# 3: Email clients sort mail in arrays based on what came in most recently. Once again just adding a new record to the end of the array.
