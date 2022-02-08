@@ -64,7 +64,7 @@ Let's get a little more practice!
 
 Visit the [Turing Terminal](https://learn-terminal.turing.io/) and read through the Learn section as needed. Explore the Playground as needed.
 
-👩‍💻 Complete all three Challenges.
+👩‍💻 Complete all three Challenges. [x]
 
 ### Making Things, Navigating
 
@@ -98,6 +98,16 @@ In the following section, you will get a little practice using `touch` and `mkdi
        |--patron.js
        |--library_system.js
 ```     
+```
+mkdir secret_library_project
+cd secret_library_project
+mkdir lib test
+touch README.md package.json
+cd lib
+touch secret_library.js secret_book.js secret_librarian.js patron.js library_system.js
+cd ../test
+touch secret_library.js secret_book.js secret_librarian.js patron.js library_system.js
+```
 
 Don't worry about putting any text or content into these files. For now, create this structure with empty files.
 
