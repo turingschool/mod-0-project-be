@@ -32,8 +32,8 @@ You can find all information on the curriculum and job search support [on the Ca
 - [The Homeroom Groups](https://careerdev.turing.edu/student_discussion_groups/index) and [Mix It Up](https://careerdev.turing.edu/mixed_groups/index) information. Within your cohort, you’ll be put into a small group to work on PD activities and discussion together as a way to foster collaboration weekly. Twice a mod, you’ll also be put into groups mixed across program and cohorts to meet others in the Turing community and share resources based on specific topics.
 - [The Module 5 section](https://careerdev.turing.edu/module-5/index), which covers what job search support looks like once you’ve graduated from Turing.
 1. Reflect on the following questions in the survey you’ll submit:
-- How do you feel about the expectations of the professional development curriculum? 
-- What are you excited about when it comes to professional development? 
+- How do you feel about the expectations of the professional development curriculum?
+- What are you excited about when it comes to professional development?
 - What are your questions or concerns about these expectations?
 
 ## Part B: Pairin Survey
@@ -63,15 +63,30 @@ As you begin this new chapter of your career, the Career Development team is her
 The first step for networking in your new career as a software developer is to assess the network you currently have. [Please complete this activity](https://careerdev.turing.edu/module-1-prework/networking_prework_activity) and be prepared to share the link to the tracker you create (note: to make your own copy, go to File>Make a Copy). You’ll also respond to these questions in the submission survey:
 
 - Please rate on a scale of 1-4 how easy the networking activity was for you.
+
+2, I have a decent amount of connections and friends involved in the programming community but I'm not used to this type of assessment of the connections like this.
+
 - As you start at Turing, what are your biggest questions or concerns about networking?
+
+How effective are methods like this in contrast to non-tracked communication and relationship development?
 
 ### Interviewing
 
 Whatever your comfort level with interviewing, an effective interview comes down to being able to communicate about who you are. Please prepare responses to these questions to fill into the Submission Survey:
 
 - Tell us about yourself. What is your background? Why are you pursuing a career in software development?
+
+  I used to have more of a focus in art, design & illustration in college, but I've wanted other skills and to pursue something different for a while now. I still enjoy art as a hobby & for personal projects but I'd rather work on developing new apps or games with code as a full time career. I believe that my history with art will help me when it comes to future projects in the long term of software development but I'm invested in learning the fundamentals and seeing where I can go from there.
+
+
 - What are your goals for this career?
+
+  To be able to successfully develop intriguing apps & programs, find a fulfilling position that works on interesting projects and be able to merge a lot of my passions into potential projects thru coding. Another goal is having a good structural knowledge of different parts of the process from backend to frontend in order to eventually become a full stack developer.
+
 - As you start at Turing, what are your biggest questions or concerns about interviewing?
+
+  How do I prepare for the types of challenges + procedures that will happen in the interviewing process, and who do most graduates usually go to 1st after they graduate? What part of the software industry looks for Turing Graduates most often?
+
 
 ### Materials
 
@@ -86,7 +101,13 @@ It’s important for the team to know about each student’s level of experience
 Please prepare responses to these questions to submit in the survey:
 
 - Describe your approach to job searching in the past. What steps were part of your strategy? What was effective for you? What wasn’t effective for you?
+
+  I think the biggest for me was a consistent presence - be it on indeed, thru email, other sites even craigslist
+  I would regularly check back with people or introduce myself w/ resume & cover letter thru email to new clients or employers.
+
 - When you think about job searching for a software developer position, what are your biggest questions or concerns?
+
+  If I know some friends that wouold potentially help me get hired right after I finish this program are those the 1st connections that I go for or do I seek out other offers 1st?
 
 ### Negotiations
 
