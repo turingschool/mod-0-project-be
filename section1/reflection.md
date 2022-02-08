@@ -37,4 +37,4 @@ the "gets" method
 9. Name and describe two common string methods:
 
 puts - will print the string following it with a /n to end the line
-prints - will print the string following it without the /n
+prints - will print the string following it without the /ncd
