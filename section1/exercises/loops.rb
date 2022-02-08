@@ -11,8 +11,9 @@ end
 # Write code that prints the sum of 2 plus 2 seven times:
 7.times do
   p "2 + 2"
-  # YOUR CODE HERE
 end
+  # YOUR CODE HERE
+
 
 # Write code that prints the phrase 'She sells seashells down by the seashore'
 # ten times:

@@ -61,8 +61,8 @@ puts "So that guy #{first_name} had #{is_hungry} and picked up food for #{number
 # Using the variables below, print the total number of snacks to the terminal:
 healthy_snacks = 6;
 junk_food_snacks = 8;
-
-puts "#{healthy_snacks} + #{junk_food_snacks} = #{6+8}"
+total_snacks = 14;
+puts "#{healthy_snacks} + #{junk_food_snacks} = #{total_snacks}"
 
 #-------------------
 # FINAL CHECK
