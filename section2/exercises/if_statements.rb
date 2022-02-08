@@ -82,3 +82,7 @@ end
 
 cups_of_flour = 1
 has_sauce = true
+
+if cups_of_flour = 1 and has_sauce = true
+  p "I cannot make pizza"
+if cups_of_flour = 5 and has_sauce = false
