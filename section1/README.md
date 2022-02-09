@@ -167,8 +167,15 @@ This will open the `section1` directory in Atom. You should be able to see the d
 
 ### Ruby Basics Lessons
 
+<<<<<<< HEAD
 1. Next, you will complete several lessons from the Learn Ruby the Hard Way Tutorial.
 
+=======
+>In this Section, you may see references to `irb`. `irb` is short of "Interactive Ruby" and is a tool that allows us to run Ruby code inside the Terminal. To open and `irb` _session_, type `irb` in your Terminal. At that point, you can type any valid Ruby code, then press return. To exit the `irb` session, run `exit`.
+
+1. Next, you will complete several lessons from the Learn Ruby the Hard Way Tutorial. 
+   
+>>>>>>> 15aeecef96dd57231c177e9aeca43b07a236f29f
    *For ***each*** lesson* ***follow these directions closely***:
 
     1. Create a file within your `section1` directory that will contain this lesson's work. Verify that you are within the directory by using terminal command `pwd`. If you are not, `cd` into your `section1` directory. Once you are there, use the `touch` command in the Terminal to create a file. For the first lesson, name this file `ex1.rb`. For each subsequent lesson, use `ex2.rb`, `ex3.rb`, so on, so forth.
