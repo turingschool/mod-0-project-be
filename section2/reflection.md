@@ -9,6 +9,7 @@ I am willing to fail forward as long as I get to learn for greater success. I do
 
 3. What is a conditional statement? Give three examples.
 A conditional statement is one that checks the correlation between two variables. It is represented as an if_statement, implying *if condition is blank, then output correct corresponding variable*.
+```
   - If I am hungry, then I will eat
      if hungry == true
        eat == true
@@ -27,6 +28,7 @@ A conditional statement is one that checks the correlation between two variables
     else  
       get_gas == false
     end
+```
 
 4. Why might you want to use an if-statement?
 If you need a code to create a decision or define an output based upon conditions defined by differing variables.
