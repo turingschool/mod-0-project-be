@@ -44,6 +44,6 @@ puts "The #{animal} is a most extraordinary animal. "
 * `gets` is used to get input from a user
 
 9. Name and describe two common string methods:
-* `.length` counts the number of characters in a string
+* `.length` counts the number of characters in a string.
 * `.sub` is comparable to using find and replace: (item 1 is find, Item 2 is what to replace with)
 * `.gsub` is "global substitute", which is similar to replace all
