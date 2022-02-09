@@ -15,17 +15,47 @@ def print_name(name)
   # YOUR CODE HERE
 end
 
-print_name("Albus Dumbledore")
+def print_name
+  p "Albus Dumbledore"
+end
 
-# Write a method that takes in 2 numbers as arguments and prints 
+print_name
+
+# Write a method that takes in 2 numbers as arguments and prints
 # their sum. Then call your method three times with different arguments passed in:
 # YOUR CODE HERE
 
+def print1(n, n2)
+  puts "n: #{n}, n2: #{n2}"
+end
 
-# Write a method that takes in two strings as arguments and prints 
-# a concatenation of those two strings. Example: The arguments could be 
-# (man, woman) and the end result might output: "When Harry Met Sally".  
-# Then call your method three times with different arguments passed in. 
+def print2(n, n2, n3)
+  puts "#{n}, #{n2}, #{n3}"
+end
+
+def print3()
+  puts "Zilch!"
+end
+
+print1("1","2")
+print2("Oh","Hello","There")
+print3()
+
+
+# Write a method that takes in two strings as arguments and prints
+# a concatenation of those two strings. Example: The arguments could be
+# (man, woman) and the end result might output: "When Harry Met Sally".
+# Then call your method three times with different arguments passed in.
+
+def printx(n1, n2)
+  puts "There's #{n1} and also #{n2}"
+  puts "My #{n2} is far away"
+end
+
+printx('Alaska', 'Hawaii')
+
+miles_al = 400
+miles_hw = 600
 
 
 #-------------------
