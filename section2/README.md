@@ -30,8 +30,18 @@ Read/watch one or both of the following:
 
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 - What are two points from the article or video that either resonated with you, or were brand new to you?
+```
+The SMART acronym is something I will try to remember for the future.
+Focusing on the process and challenging myself are two things I need to work and focus on.
+```
 - In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+```
+I am willing to fail forward as long as I get to learn for greater success. I do need to work on challenging myself more, though - break outside the comfort zone!
+```
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+```
+Communication and research are skills I've developed. I never have much trouble Googling solutions to questions as they arise. It took time to understand how to keyword search appropriately, but time was the only real resource spent.
+```
 
 ## Part B: Conditionals
 
