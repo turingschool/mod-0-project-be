@@ -18,7 +18,7 @@ cities = {
 cities['NY'] = 'New York'
 cities['OR'] = 'Portland'
 
-# puts out somem cities
+# puts out some cities
 puts '-' * 10
 puts "NY State has: #{cities['NY']}"
 puts "OR State has: #{cities['OR']}"
