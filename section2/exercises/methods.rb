@@ -48,14 +48,30 @@ print3()
 # Then call your method three times with different arguments passed in.
 
 def printx(n1, n2)
-  puts "There's #{n1} and also #{n2}"
-  puts "My #{n2} is far away"
+  puts "You are #{n1} miles from Alaska"
+  puts "You are #{n2} miles from Hawaii"
 end
 
-printx('Alaska', 'Hawaii')
+printx('600', '900')
 
-miles_al = 400
-miles_hw = 600
+al_miles = 400
+hw_miles = 700
+
+la_to_al = 300
+ny_to_hw = 1000
+
+printx(al_miles, hw_miles)
+printx(la_to_al, ny_to_hw)
+
+def printy(n1, n2)
+  puts "LA is #{n1} miles from Alaska"
+  puts "Hawaii is #{n2} miles from New York"
+end
+
+la_to_al = 300
+ny_to_hw = 1000
+
+printy(la_to_al, ny_to_hw)
 
 
 #-------------------
@@ -71,5 +87,11 @@ miles_hw = 600
 # function, and why?
 # YOUR ANSWER HERE
 
+# I chose print as it felt the most simple & effective to recall, the variable x
+# for if I decided to add another function
+
 # What did you name each parameter, and why?
 # YOUR ANSWER HERE
+
+# The parameter was the distance between states & cities, felt like an easy kind
+# of way to connect the variables to a physical location and keep track of data.
