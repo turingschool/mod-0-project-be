@@ -36,21 +36,22 @@ e = "a string with a right side."
 puts w + e
 
 
-# Go through this program and write a comment above each line explaining it.
-# done
+# Q: Go through this program and write a comment above each line explaining it.
+# A: done
 
-# Find all the places where a string is put inside a string.
+# Q: Find all the places where a string is put inside a string.
+# A: below
 # x = "There are #{types_of_people} types of people."
 # y = "Those who know #{binary} and those who #{do_not}."
 # puts "I said: #{x}."
 # puts "I also said: '#{y}'."
 # joke_evaluation = "Isn't that joke so funny?! #{hilarious}"
 
-# Are you sure there are only four places? How do you know? Maybe I like lying.
-# looks directly at camera >.> he lied.
+# Q: Are you sure there are only four places? How do you know? Maybe I like lying.
+# A: looks directly at camera >.> he lied.
 
-# Explain why adding the two strings w and e with + makes a longer string.
-# because w & e had different values assigned to each variable, as such their values printed
+# Q: Explain why adding the two strings w and e with + makes a longer string.
+# A: because w & e had different values assigned to each variable, as such their combined values printed when added together
 
-# What happens when you change the strings to use ' (single-quote) instead of " (double-quote)? Do they still work? Try to guess why.
-# they do work, because anything within ' ' or " " is considered a string 
+# Q: What happens when you change the strings to use ' (single-quote) instead of " (double-quote)? Do they still work? Try to guess why.
+# A: they do work, because anything within ' ' or " " is considered a string 

@@ -22,16 +22,16 @@ puts "We can transport #{carpool_capacity} people today."
 puts "We have #{passengers} to carpool today."
 puts "We need to put about #{average_passengers_per_car} in each car."
 
-# I used 4.0 for space_in_a_car, but is that necessary? What happens if it's just 4?
-# it would be a less accurate red out with integers as opposed to floating numbers
+# Q: I used 4.0 for space_in_a_car, but is that necessary? What happens if it's just 4?
+# A: it would be a less accurate red out with integers as opposed to floating numbers
 
 # Remember that 4.0 is a floating point number. It's just a number with a decimal point, and you need 4.0 instead of just 4 so that it is floating point.
 
-# Write comments above each of the variable assignments.
-# done
+# Q: Write comments above each of the variable assignments.
+# A: done
 
-# Make sure you know what = is called (equals) and that its purpose is to give data (numbers, strings, etc.) names (cars_driven, passengers).
-# single equal assigns the value on the right to a variable on the left
+# Q: Make sure you know what = is called (equals) and that its purpose is to give data (numbers, strings, etc.) names (cars_driven, passengers).
+# A: single equal assigns the value on the right to a variable on the left
 
 # Remember that _ is an underscore character.
 

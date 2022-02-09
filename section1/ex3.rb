@@ -77,14 +77,14 @@ puts "Is it greater or equal? #{5.0 >= -2.0}"
 #prints the string and tells you the value of the statement within #{}
 puts "Is it less or equal? #{5.0 <= -2.0}"
 
-# Above each line, use the # to write a comment to yourself explaining what the line does.
-# done
+# Q: Above each line, use the # to write a comment to yourself explaining what the line does.
+# A: done
 
-# Remember in Exercise 0 when you started irb? Start irb this way again and, using the math operators, use Ruby as a calculator.
-# irb to start ruby in terminal and exit to close
+# Q: Remember in Exercise 0 when you started irb? Start irb this way again and, using the math operators, use Ruby as a calculator.
+# A: irb to start ruby in terminal and exit to close
 
-# Find something you need to calculate and write a new .rb file that does it.
-# in file calc_ex.rb
+# Q: Find something you need to calculate and write a new .rb file that does it.
+# A: in file calc_ex.rb
 
-# Rewrite ex3.rb to use floating point numbers so it's more accurate. 20.0 is floating point
-# done
+# Q: Rewrite ex3.rb to use floating point numbers so it's more accurate. 20.0 is floating point
+# A: done

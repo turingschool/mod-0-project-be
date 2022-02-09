@@ -15,7 +15,7 @@ p "The #{team} are #{name}'s favorite Quidditch team"
 speedy = "quick red fox"
 slow_poke = "lazy brown dog"
 
-puts "The #{speedy} jumped over the #{slow_poke}"
+p "The #{speedy} jumped over the #{slow_poke}"
 
 # Write code that uses the variables below to form a string that reads
 # "In a predictable result, the tortoise beat the hare!":
@@ -32,6 +32,6 @@ puts "In a predictable result, the #{slow_poke} beat the #{speedy}!"
 
 
 number_of_dogs = 3
-third_dog = "Squiggles"
-final_claim = 4 + 2 >= 1 + 3
-puts "I have #{number_of_dogs} dogs named Pancakes, Kosa, and #{third_dog}. #{third_dog} is a goblin who tries to drink the water from the gutters. I swear this is #{final_claim}!"
+favorite_dog = "Squiggles"
+claim = 4 + 2 >= 1 + 3
+puts "I have #{number_of_dogs} dogs named Pancakes, Kosa, and #{favorite_dog}. #{favorite_dog} is a goblin who tries to drink the water from the gutters. I swear this is #{claim}!"

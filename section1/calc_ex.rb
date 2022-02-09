@@ -6,10 +6,10 @@ car = 200
 groceries = 400
 turing = 20000
 
-puts "monthly expenses #{100 + 850 + 200 + 400}"
+p "monthly expenses #{100 + 850 + 200 + 400}"
 
-puts "monthly turing #{20000 / 7}"
+p "monthly turing #{20000 / 7}"
 
-puts "monthly total #{100 + 850 + 200 + 400 + 20000 / 7}"
+p "monthly total #{100 + 850 + 200 + 400 + 20000 / 7}"
 
-puts "total loans needed #{100 * 7 + 850 * 7 + 200 * 7 + 400 * 7 + 20000}"
+p "total loans needed #{100 * 7 + 850 * 7 + 200 * 7 + 400 * 7 + 20000}"
