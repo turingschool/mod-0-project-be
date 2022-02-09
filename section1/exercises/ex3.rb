@@ -28,9 +28,9 @@ puts "Is it true that 3 + 2 < 5 - 7?"
 puts 3 + 2 < 5 - 7
 
 # Double checking our boolean by calculating each value separately
-puts "What is 3 + 2 #{3 + 2}"
+puts "What is 3 + 2? #{3 + 2}"
 # The code that is inside the curly braces runs that opperation inside the string
-puts "What is 5 - 7 #{5 - 7}"
+puts "What is 5 - 7? #{5 - 7}"
 
 # Prints string to console
 puts "Oh, that's why it's false."

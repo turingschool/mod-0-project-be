@@ -43,8 +43,8 @@ p is_hungry
 p number_of_pets
 # IN WORDS:
 # How did you decide to use the data type you did for each of the three variables above?
-
 # Explain.
+
 =begin
 I decided to make first_name a string because it is just a word and has no value as a number or boolean.
 I made is_hungry a boolean so I could use it as a simple true or false evaluation.

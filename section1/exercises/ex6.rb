@@ -35,11 +35,12 @@ e = "a string with a right side."
 # printing w and e to the console added together
 puts w + e
 
-# there are 4 strings inside strings. line 25 does not print a string it prints a boolean
+# Study Drills
+# 3. there are 4 strings inside strings. line 25 does not print a string it prints a boolean
 
-# Ruby will add to strings together one after another when the + opperator is applied to them. You can think like an &.
+# 4. Ruby will add to strings together one after another when the + opperator is applied to them. You can think like an &.
 # puts "this string" & "this string"
 
-# In this case you can't change the "" to '' becuase the ' mess with words that
+# 5. In this case you can't change the "" to '' becuase the ' mess with words that
 # are contractions. You also need to have "" if you plan on nesting quotes within
 # other quotes.

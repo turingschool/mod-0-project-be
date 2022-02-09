@@ -14,4 +14,4 @@ p "Welcome to Turing!"
 p "99 bottles of pop on the wall..."
 
 # Write out code to print one line from your favorite song or movie.
-p "I'm a bad man, how about that? Growing hungry on a pilar of fat."
+p "I'm a bad man, how about that? Growing hungry on a pillar of fat."

@@ -33,6 +33,6 @@ p "In a predictable result, the #{slow_poke} beat the #{speedy}!"
 
 current_state = "Illinois"
 current_season = "winter"
-feeling = "quite chilly"
+feeling = "chilly"
 
 p "When it is #{current_season} in #{current_state}, it is no surprise for the weather to feel #{feeling}!"

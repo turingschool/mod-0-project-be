@@ -30,4 +30,5 @@ puts "We need to put about #{average_passengers_per_car} in each car."
 # because the variable was not defined.
 
 
-# Nothing changes when you make space_in_a_car an Integer
+# 1. Nothing changes when you make space_in_a_car an Integer
+# 4. = is called the assignment operator
