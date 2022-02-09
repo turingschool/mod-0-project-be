@@ -10,7 +10,19 @@
 
 3. What is a Hash, and how is it different from an Array?
 
++ Hashes differ from arrays in 2 main ways. 1.) They are not indexed so the contents are not considered "ordered" 2.) They have key => value pairs instead of just being values in an index. This means that you can call them based on their keys and not just based on an indexed position.
+
 4. In the space below, create a Hash stored to a variable named `pet_store`.  This hash should hold an inventory of items and the number of that item that you might find at a pet store.
+
+```
+pet_store = {
+  cat_food: 30,
+  dog_food: 25,
+  cat_trees: 12,
+  chew_toys: 55,
+  water_bowls: 20
+}
+```
 
 5. Given the following `states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}`, how would you access the value `"Iowa"`?
 
@@ -18,6 +30,18 @@
 
 6. With the same hash above, how would we get all the keys?  How about all the values?
 
+```
+# to print keys
+puts states.keys
+
+# to print values
+puts states.values
+```
+
 7. What is another example of when we might use a hash?  In your example, why is a hash better than an array?
 
++ A hash might be used in a music player for sorting all of the information about each artist. This would be better than using an array because the information could be sorted by any of the keys you created instead of just appearing in a big list. It is a good case of likely having an array of hashes though. All of the meta-data for each song would likely be kept in a hash that was in an array.
+
 8. What questions do you still have about hashes?
+
++ I got stuck for awhile on hashes and read a lot of articles on hashes so I feel pretty good about them now. 
