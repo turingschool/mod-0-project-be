@@ -13,4 +13,4 @@ puts "Welcome to Turing!"
 puts "99 bottles of pop on the wall..."
 
 # Write out code to print one line from your favorite song or movie.
-puts "The fishies in the sea are staring at me"
+puts "The fishies in the sea are staring at me."
