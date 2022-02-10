@@ -9,7 +9,7 @@
   + #
 
 4. Explain the difference between an integer and a float?
-  + A float is just an integer that includes a value after the decimal. Integers are even numbers.
+  + A float is just an integer that includes a value after the decimal. Integers are whole numbers.
 
 5. In the space below, create a variable `animal` that holds the string `"zebra"`
   + `animal = "zebra"`
