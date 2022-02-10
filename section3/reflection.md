@@ -20,7 +20,7 @@
   * All values `states.values`
 
 7. What is another example of when we might use a hash?  In your example, why is a hash better than an array?
-  * You might use a hash when you have a bunch of items that are in no particular order but need to be cataloged. Such as store inventory, store inventory you have an item and the value of the item either that may be monetary value or how many pieces you have of the item associated with it. You can use a hash to associated those values with the item itself. Array would not work because it will index all the items which will not be useful in this secenario.
+  * You might use a hash when you have a bunch of items that are in no particular order but need to be cataloged. Such as store inventory, store inventory you have an item and the value of the item either that may be monetary value or how many pieces you have of the item associated with it. You can use a hash to associated those values with the item itself. Array would not work because it will index all the items which will not be useful in this scenario.
 
 8. What questions do you still have about hashes?
   * Not really a question but excited to utilize them in more exciting and complex ways and integrate them in formulas.
