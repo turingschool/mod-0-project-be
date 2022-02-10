@@ -53,11 +53,13 @@ raining("turtles", "goats")
 
 # Look at the code you wrote for the previous YOU DO🎈 - what did you name the
 # function, and why?
+
 # I named the function raining to refer to the saying that I was going to be using.
 # This is the first word you think of when you think of the saying so I thouhgt
-# it made sense as a function name. 
+# it made sense as a function name.
 
 # What did you name each parameter, and why?
+
 # I named the parameters animal1 and animal2 becuase there isn't really anything
 # unique or important about the order they fall in. It is just important that you
 # name 2 of them.

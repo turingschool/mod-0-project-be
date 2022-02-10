@@ -40,12 +40,15 @@ end
 
 #Study Drills
 
-#1.) The if statement checks to see if the statement is true. If it is, the code block below is passed. If it is false, the code block below is skipped
+#1.) The if statement checks to see if the statement is true. If it is, the code
+# block below is passed. If it is false, the code block below is skipped
 
-#2.) Ruby will run this code block if it is indented or not, but it helps to see the block separate from the condition. It makes the code more readable.
+#2.) Ruby will run this code block if it is indented or not, but it helps to see
+# the block separate from the condition. It makes the code more readable.
 
 #3.) Nothing happens.
 
 #4.) Added != in a new block on line 37
 
-#5.) Changed values, all of the booleans were re-evaluated and different statements printed.
+#5.) Changed values, all of the booleans were re-evaluated and different
+# statements printed.

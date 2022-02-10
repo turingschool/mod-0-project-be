@@ -39,7 +39,7 @@ end
 if people > trucks
 # Prints string to console
   puts "Alright, let's just take the trucks."
-r# run this block if the above statement is false
+# run this block if the above statement is false
 else
 # Prints string to console
   puts "Fine, let's stay home then."
