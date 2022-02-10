@@ -6,8 +6,8 @@
   * Another point that resonated with me is from the article where the author talks about S.M.A.R.T Goals and how they should be utilized to breakdown larger coding projects and tackle things in a timely manner, like the MOD 0 project.
 
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
-  * Ways that i demonstrate a growth mindset is believing in my ability to learn and not compare myself to others. My own self belief allows to me to take in information more, ask questions, and admit that I may not be right.
-  * I way I do not demonstrate a growth mindset is working through challenges as much as I should. Sometimes i'll be handling a problem for like 30 - 40 minutes and then ill kind of get take a long break. In the long break it could seen as procrastinating or getting my mind right.
+  * Ways that I demonstrated a growth mindset is believing in my ability to learn and not compare myself to others. My own self belief allows to me to take in information more, ask questions, and admit that I may not be right.
+  * The way I do not demonstrate a growth mindset is working through challenges as much as I should. Sometimes i'll be handling a problem for like 30 - 40 minutes and then i'll take a long break. In the long break it could seen as procrastinating or getting my mind right.
 
 3. What is a conditional statement? Give three examples.
   * A conditional statement could be defined as a fork where the data you are using needs to be defined more so whatever you type, will lead to an outcome that is true.
@@ -15,7 +15,7 @@
   1. Money = 100
 
   if x == 100
-    puts "Thats a lot of money!"
+    puts "That's a lot of money!"
   end
 
   2. if x = 6
@@ -41,10 +41,10 @@
 
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
 
-  1. if lemons < 1
+  1. `if lemons < 1
     puts "Sorry we are out of stock"
   elseif lemons == 4
     puts "Here is a coupon for a discount"
   else
     puts "Thank you for your order"
-  end  
+  end` 
