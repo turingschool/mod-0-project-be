@@ -30,8 +30,22 @@ Read/watch one or both of the following:
 
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 - What are two points from the article or video that either resonated with you, or were brand new to you?
-- In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+
+  * "S.M.A.R.T" goals : "Setting Specific, Measurable, Achievable, Relevant, and Time-Bound goals helps you to approach learning to code with clarity, focus, and use of appropriate strategies"
+
+  *
+
+- In which ways do you currently demonstrate a Growth Mindset?
+
+  * Understanding mistakes are essential to learning
+
+-  In which ways do you _not_?
+
+  * Seeking out challenges: I need to get better at this.
+
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
+
+  * Understanding mistakes are essential: I did not use to take this as well, but now i understand it is part of the growth process and helps you get better at catching mistakes in the final run
 
 ## Part B: Conditionals
 
