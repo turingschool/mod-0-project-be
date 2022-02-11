@@ -46,6 +46,11 @@ else
 end
 
 
-
-#if is telling the code that there are multiple options depending on the true/false properties of the values
-#
+# Q: Try to guess what elsif and else are doing.
+# A: elsif assigns specific possibilities to print, else is for "everything else"
+# Q: Change the numbers of cars, people, and trucks, and then trace through each if-statement to see what will be printed.
+# A: done
+# Q: Try some more complex boolean expressions like cars > people || trucks < cars.
+# A: done
+# Q: Above each line write an English description of what the line does.
+# A: done above

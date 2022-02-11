@@ -38,6 +38,7 @@
 #   puts "You stumble around and fall on a knife and die. Good job!"
 # end
 
+# Q: Write a completely new game. Maybe you don't like this one, so make your own. This is your computer; do what you want.
 puts "In the middle of a clearing within a dark forest you stumble upon a small cottage with a thatched roof and heavy iron door. Option 1 is to enter the cottage through the door, option 2 is to walk away pretending you never saw anything. Which option do you choose?"
 
 
