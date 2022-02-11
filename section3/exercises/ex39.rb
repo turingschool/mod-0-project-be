@@ -66,8 +66,8 @@
 # puts "The city for the state 'TX' is: #{city}"
 
 
-# Do this same kind of mapping with cities and states/regions in your country or some other country.
-# this is to map out the land of Exandria, tm Critical Role
+# Q: Do this same kind of mapping with cities and states/regions in your country or some other country.
+# A: this is to map out the land of Exandria, tm Critical Role
 continents = {
 'TalDorei': 'TD',
 'Issylra': 'IS',
@@ -120,9 +120,9 @@ end
 
 
 
-# Find the Ruby documentation for hashes and try to do even more things to them.
-  # can be used to give names to objects, method arguments, initialize objects
+# Q: Find the Ruby documentation for hashes and try to do even more things to them.
+# A: can be used to give names to objects, method arguments, initialize objects
 
-# Find out what you can't do with hashes. A big one is that they do not have order, so try playing with that.
-  #can't look them up by a numberic index
-  #keys in hash /must be unique/
+# Q: Find out what you can't do with hashes. A big one is that they do not have order, so try playing with that.
+# A: can't look them up by a numberic index
+# A: keys in hash /must be unique/

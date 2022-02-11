@@ -34,14 +34,14 @@ end
 #now we can print them out too
 elements.each {|i| puts "Element was: #{i}" }
 
-# Take a look at how you used (0..5) in the last for-loop. Look up Ruby's "range operator" (.. and ...) online to see what it does.
-  # ranges represent an interval, a set of values with a beginning and an end specifically using ..
+# Q: Take a look at how you used (0..5) in the last for-loop. Look up Ruby's "range operator" (.. and ...) online to see what it does.
+# A: ranges represent an interval, a set of values with a beginning and an end specifically using ..
 
 # Change the first for number in the_count to be a more typical .each style loop like the others.
-the_count.each do |number|
+the_count.pop
   puts "This is count #{number}"
-end
 
-# Find the Ruby documentation on arrays and read about them. What other operations can you do besides the push function? Try <<, which is the same as push but is an operator. fruits << x is the same as fruits.push(x).
-  # done above
-  # https://www.freecodecamp.org/news/common-array-methods-in-ruby/
+
+# Q: Find the Ruby documentation on arrays and read about them. What other operations can you do besides the push function? Try <<, which is the same as push but is an operator. fruits << x is the same as fruits.push(x).
+# A: done above
+# A: https://www.freecodecamp.org/news/common-array-methods-in-ruby/
