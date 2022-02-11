@@ -11,21 +11,38 @@ end
 print_name
 
 # Write a method that takes a name as an argument and prints it:
-def print_name(name)
-  # YOUR CODE HERE
+def print_name
+  p "Albus Dumbledore"
 end
 
-print_name("Albus Dumbledore")
+print_name
 
-# Write a method that takes in 2 numbers as arguments and prints 
+# Write a method that takes in 2 numbers as arguments and prints
 # their sum. Then call your method three times with different arguments passed in:
-# YOUR CODE HERE
+def x(number)
+  number + 1
+end
 
+def y(number)
+  number = x(number)
+  x(number)
+end
 
-# Write a method that takes in two strings as arguments and prints 
-# a concatenation of those two strings. Example: The arguments could be 
-# (man, woman) and the end result might output: "When Harry Met Sally".  
-# Then call your method three times with different arguments passed in. 
+puts y(3)
+puts y(5)
+puts y(-1)
+
+# Write a method that takes in two strings as arguments and prints
+# a concatenation of those two strings. Example: The arguments could be
+# (man, woman) and the end result might output: "When Harry Met Sally".
+# Then call your method three times with different arguments passed in.
+def tough(tough1, tough2)
+  p "Get #{tough1} or get #{tough2}!"
+end
+
+tough("up", "out")
+tough("on", "off")
+tough("strong", "weak")
 
 
 #-------------------
@@ -39,7 +56,8 @@ print_name("Albus Dumbledore")
 
 # Look at the code you wrote for the previous YOU DO🎈 - what did you name the
 # function, and why?
-# YOUR ANSWER HERE
+puts "I put 'tough' because my back is tweeked and I'm supposed to play in a
+tournament this weekend. So I was kind of me talking to myself..."
 
 # What did you name each parameter, and why?
-# YOUR ANSWER HERE
+puts "I really couldn't think of what to put here. This piece tends to confuse me the most in what I should place there..."
