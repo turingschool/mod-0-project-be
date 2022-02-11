@@ -4,3 +4,4 @@ puts 100 - 37
 
 puts "And how much wil I then have after dinner if I spend half at a club?"
 puts (100 - 37) * 0.5
+scan(/pattern/) { |match|  }
