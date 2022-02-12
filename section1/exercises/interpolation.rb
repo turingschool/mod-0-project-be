@@ -31,8 +31,8 @@ p "In a predictable result, the #{slow_poke} beat the #{speedy}"
 # descriptive (it's a hard balance!) Then, print ONE sentence that incorporates
 # all THREE variables.
 
-first_name = "the greatest"
-last_name = "ever"
-verse = "like a sprined ankle, I ain't nothin to play with."
+first_name = "Bilbo"
+last_name = "Baggins"
+verse = "I'm going on an adventure."
 
-p "I am #{first_name} #{last_name} and my mom says #{verse}"
+p "I am #{first_name} #{last_name} and #{verse}"
