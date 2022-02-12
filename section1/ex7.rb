@@ -11,7 +11,7 @@ puts "So, you're #{age} old, #{height} tall and #{weight} heavy."
 # 1) Go online and find out what Ruby's gets.chomp does.
 # => "'gets' is a method that asks the user to input something. “chomp” is a
 # => method that removes the blank line that is automatically created by “gets”
-# => after the input." This is the clearest explaination I found
+# => after the input."
 
 # 2) Can you find other ways to use it? Try some of the samples you find.
 print "Hi, what's your name?"
@@ -24,4 +24,4 @@ breed = gets.chomp
 print "Oh, I must not have my glasses on. Where could they be?"
 glasses_location = gets.chomp
 print "So your name is #{first_name}, your pet's name is #{dog_name}, they're a
-#{breed}, not a dog, and my glasses are #{glasses_location}? Wild"
+#{breed}, and my glasses are #{glasses_location}? Wild!"
