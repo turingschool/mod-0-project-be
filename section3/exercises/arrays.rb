@@ -20,14 +20,11 @@ animals = ["Zebra", "Giraffe", "Elephant"]
 puts animals
 
 puts "\r\n"
-
-
 # EXAMPLE: Write code below that will print "Zebra" from the animals array
 # YOUR CODE HERE
 puts animals[0]
 
 puts "\r\n"
-
 # YOU DO: Write code below that will print the number of elements in array of
 # animals from above.
 animals.each_with_index do |animals, index|
@@ -73,19 +70,31 @@ foods.each_with_index do |foods, index|
   puts "#{foods}"
 end
 
+puts "\r\n"
 # YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 # print the changed array to verify "broccoli" has been added
 
+foods.push('broccoli')
 
+puts foods
+puts "\r\n"
 # YOU DO: Write code below that removes the last item of food from the foods array and
 # print the changed array to verify that item has been removed
 
-
+foods.pop #can also use foods.delete_at(4)
+puts foods
+puts "\r\n"
 # YOU DO: Write code to add 3 new foods to the array.
   # There are several ways to do this - choose whichever you'd like!
 # Then, print the changed array to verify the new items have been added
+foods.push("Gumbo", "Tom Yum", "Miso")
 
+puts foods
+puts "\r\n"
 # YOU DO: Remove the food that is in index position 0.
+foods.shift
+puts foods
+puts "\r\n"
 
 #-------------------
 # PART 3: Where are Arrays used?
@@ -100,13 +109,12 @@ end
 
 # The post itself likely has more complex data, but here is one way we can think about it:
 
-
 posts = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"]
 
 # YOU DO: Think of a web application you commonly use. Where do you see LISTS utilized, where arrays
 # may be storing data? Come up with 3 examples - they could be from different web applications or
 # all from the same one.
 
-# 1:
-# 2:
-# 3:
+# 1: Netflix/ Hulu/ Crunchyroll - My watch list, stores data of shows that I like
+# 2: Google Chrome - My bookmarks list
+# 3: Calendar - Keeps track of my daily tasks in a list
