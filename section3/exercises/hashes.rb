@@ -13,12 +13,19 @@ p zoo
 puts '-' * 10
 # Write code that prints all of the 'keys' of the zoo variable
 # you created above:
+p zoo.keys
+
+puts "OR using a loop..."
+
 zoo.each do |animal, number|
   puts animal #puts was less messy output in terminal
 end
 puts '-' * 10
 # Write code that prints all of the 'values' of the zoo variable
 # you created above:
+p zoo.values
+
+puts "OR using a loop..."
 zoo.each do |animal, number|
   puts number #again, puts was less messy output in terminal
 end
@@ -44,17 +51,34 @@ puts '-' * 10
 
 # Declare a variable that stores hash. Each key should be an attribute of an email and each
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
+example_email = {
+  to: "lucas@gmail.com",
+  from: "reservations@united.com",
+  subject: "flight reservations to San Diego",
+  is_urgent: false,
+  # note- this would use code grabbing the first X characters of the email,
+  # but that is for later
+  message_preview: "Thank you for reserving your flight to..."
+  }
 
 # Write code that prints your email hash to the terminal.
 
+p example_email
+puts '-' * 10
 
 # Write code that prints all of the 'keys' of the email hash
 # you created above:
-# YOUR CODE HERE
 
+#hope the easy way is ok. loop/each method used above
+
+p example_email.keys
+puts '-' * 10
 # Write code that prints all of the 'values' of the email hash
 # you created above:
-# YOUR CODE HERE
+p example_email.values
+puts '-' * 10
+puts '-' * 10
+puts '-' * 10
 
 
 #-------------------
