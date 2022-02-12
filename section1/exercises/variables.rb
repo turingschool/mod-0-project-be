@@ -56,7 +56,7 @@ p "#{first_name} is #{is_hungry} hungry so he still has all #{number_of_pets} of
 # Using the variables below, print the total number of snacks to the terminal:
 healthy_snacks = 6;
 junk_food_snacks = 8;
-p healthy_snacks + junk_food_snacks
+p "We have #{healthy_snacks + junk_food_snacks} snacks"
 
 #-------------------
 # FINAL CHECK
