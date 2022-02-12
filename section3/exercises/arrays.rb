@@ -19,35 +19,59 @@
 animals = ["Zebra", "Giraffe", "Elephant"]
 puts animals
 
+puts "\r\n"
+
+
 # EXAMPLE: Write code below that will print "Zebra" from the animals array
 # YOUR CODE HERE
 puts animals[0]
+
+puts "\r\n"
+
 # YOU DO: Write code below that will print the number of elements in array of
 # animals from above.
-
-
-
-
+animals.each_with_index do |animals, index|
+  puts "Animal ##{index}"
+  puts "#{animals}"
+end
+puts "\r\n"
 # YOU DO: Write code that will reassign the last item in the animals
 # array to "Gorilla"
 
+animals[2] = 'Gorilla'
 
+puts animals
+puts "\r\n"
 # YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 
+animals[3] = "Pigeons"
 
+puts animals
+puts "\r\n"
 # YOU DO: Write code that will print the String "Elephant" in the animals array
 
+animals[2]= "Elephant"
+puts "\r\n"
 
+puts animals[2]
 #-------------------
 # PART 2: Foods: Array Methods
 #-------------------
 
 # YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
 
+foods = ['Ramen', 'Udon', 'Chili', 'Pho']
 
+puts foods
+
+puts "\r\n"
 # YOU DO: Write code below that will print the number of elements in the array of
 # foods from above.
 
+foods.each_with_index do |foods, index|
+  puts "This is soup ##{index}"
+  puts "#{foods}"
+end
 
 # YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 # print the changed array to verify "broccoli" has been added
