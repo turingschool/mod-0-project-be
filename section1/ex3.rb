@@ -3,7 +3,7 @@ puts "I will now count my chickens:"
 
 # printing a string with an equation in it
 puts "Hens #{25.0 + 30.0 / 6.0}"
-# printing a string with an equation in it. I need to look into the modulus more
+# printing a string with an equation in it
 puts "Roosters #{100.0 - 25.0 * 3.0 % 4.0}"
 # printing a string
 puts "Now I will count the eggs"
@@ -11,9 +11,7 @@ puts "Now I will count the eggs"
 puts 3.0 + 2.0 + 1.0 - 5.0 + 4.0 % 2.0 - 1.0 / 4.0 + 6.0
 
 # How does it know to print that this is false from just this string?
-# Below we had to put the equation in brackets to get it to print the
-# answer
-# "Is it" command?
+# Shouldn't it just print what's between the quotes?
 puts "Is it true that 3.0 + 2.0 < 5.0 -7.0?"
 #Printing an equation
 puts 3.0 + 2.0 < 5.0 - 7.0
