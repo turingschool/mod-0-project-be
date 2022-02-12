@@ -57,18 +57,17 @@ puts '-' * 10
 # by default ruby says "nil" when something isn't in there
 state = states['Texas']
 
-# this line of code is looking at line 58 which will return the value "nil" because there is no 'Texas' key in the hash.
-# the !state is a boolean function asking "If value of state is nil or false then true" which can also be done with state.nil?
-# you can change this function to look for true, by adding .nil? to the end of !state which is basically asking "Is !state nil or false?" but we see that !state is true, so adding .nil? means it returns false.
-# in short:
-# !state "Is state variable nil or false?" In this case it's true because it is nil.
-# !state.nil? "Is !state variable nil or false?" In this case it's false because of line 64's explanation
+# this line of code below is looking at line 58 which will return the value "nil" because there is no 'Texas' key in the hash.
+# !state is a boolean function asking "Is the value of state nil or false?"
+# since the value of the state variable is "nil" !state will be true and the code beneath it will print
 if !state
   puts "Sorry, no Texas."
 end
 
 # default values using ||= with the nil result
 city = cities['TX']
+# ||= is a conditional assignment operator. in this case, it is saying that if the
+# city variable is false or nil, then it will assign the message 'Does Not Exist'
 city ||= 'Does Not Exist'
 puts "The city for the state 'TX' is: #{city}"
 

@@ -12,8 +12,14 @@ puts animals[4] + ": The fifth (5th) animal is at index 4 and is a whale. The an
 
 puts ""
 
+puts "Here's a list of Janet Evanovich novels to help identify the difference between the index numbers and the ordinal numbers."
+puts ""
+
 janet_evanovich = ["One for the Money", "Two for the Dough", "Three to Get Deadly", "Four to Score", "High Five", "Hot Six", "Seven Up", "Hard Eight", "To the Nines", "Ten Big Ones", "Eleven on Top"]
 
 janet_evanovich.each_with_index do |books, index|
   puts "#{books} is at index #{index}."
 end
+
+puts ""
+puts "This list goes up to '11'!"

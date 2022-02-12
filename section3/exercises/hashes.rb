@@ -144,7 +144,7 @@ emails = [
   }
 ]
 
-emails.each do |email_hash|
-  puts email_hash
+emails.each do |emails_hash|
+  puts emails_hash
   puts "-" * 10
 end
