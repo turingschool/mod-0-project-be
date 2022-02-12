@@ -39,8 +39,7 @@ puts w + e
 
 # 1) Go through this program and write a comment above each line explaining it.👍🏼.
 # 2) Find all the places where a string is put inside a string.
-# => line 10 (does this count even though its creating a variable and not
-# => printing a sting?), line, 15, line 18, line 20.
+# => line 10 , line, 15, line 18, line 20.
 # 3) Are you sure there are only four places? How do you know? Maybe I like lying.
 # => Ran through the logic of all the stings to check and I think I have it right
 # 4) Explain why adding the two strings w and e with + makes a longer string.
@@ -51,7 +50,7 @@ x = 'gonna give it to ya'
 puts x
 # this prints correctly. So far they seem to be interchangeable but after a
 # => quick google I see that the difference is that double quotes allow for
-# => escape sequences(?) while single quotes do not. "A string literal created
-# => by single quotes does not support string interpollation and does not
-# => escape sequences." I dont understand this but I assume I will as I learn
-# => these concepts and vocab.
+# => escape sequences while single quotes do not. "A string literal created
+# => by single quotes does not support string interpollation and does not support
+# => escape sequences." So if you want to use #{} to reference a variable you will
+# => have to use double quotes. 
