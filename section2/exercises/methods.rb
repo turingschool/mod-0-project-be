@@ -46,6 +46,7 @@ end
 
 movie_couples("Harold", "Maude")
 movie_couples("Tristan", "Isolde")
+movie_couples("Romeo", "Juliet")
 
 #-------------------
 # PART 3: Naming is Hard
@@ -57,7 +58,9 @@ movie_couples("Tristan", "Isolde")
 
 # Look at the code you wrote for the previous YOU DO🎈 - what did you name the
 # function, and why?
+
 # I feel like my variable names were descriptive enough to infer meaning. I was going to use 'numbers' as one of my variables, but did not use it because my text editor kept trying to auto type it, and I wasn't sure if it was going to be an issue or not, like if it was already a function or something.
 
 # What did you name each parameter, and why?
+
 # I made the parameter similar enough to the variable that they could be associated, with being confused for each one.

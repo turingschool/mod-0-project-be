@@ -51,26 +51,27 @@ end
 
 # Everything below here is practice from the study drills.
 # This line is determining if cars are greater than people OR trucks, but using a higher precedence operator than `or`
-if cars > people || trucks
+if cars > people || cars > trucks
   # If cars are greater than people or trucks, then this will print and code will stop running in this block.
-  puts "What does this do?"
+  puts "Cars are greater than people or trucks"
   #this line is determining if cars are less than people or trucks
-elsif cars < people || trucks
+elsif cars < people || cars < trucks
   # If cars are less than people or trucks, then this line will print
-  puts "gonna figure this out."
+  puts "Cars are less than people or trucks"
 # This line is determining what to do if both statements above are false
 else
   # If both statements above are false, then this will print.
-  puts "I guess I'll never know..."
+  puts "Cars, People, and Trucks are all equal."
 # This line ends this code block of if-statements
 end
 
 if cars > people
-  puts "Cars are greater than people."
+  puts "There are more cars than people."
 elsif cars > trucks
-  puts "This should only display if cars are not greater than people, but still greater than trucks. Even if both are true."
+  # This will only display if cars are less than people, but still greater than trucks.
+  puts "There are more cars than trucks, but less cars than people."
+elsif cars == people && cars == trucks
+  puts "Cars, Trucks, and People have reached equilibrium."
 else
-  puts "I guess cars are less than both people and trucks."
+  puts "It stands to reason that cars are less than both people and trucks."
 end
-
-#123456789#123456789#123456789#123456789#123456789#123456789#123456789#123456789

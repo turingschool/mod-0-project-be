@@ -75,6 +75,7 @@ cups_of_flour = [1,2,3,4].sample
 has_sauce = [true, false].sample
 
 puts "I have #{cups_of_flour} cups of flour"
+
 if has_sauce == true
   puts "I do have sauce! \n \n"
 else
