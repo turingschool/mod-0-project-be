@@ -65,5 +65,7 @@ city = cities['TX']
 city ||= 'Does Not Exist'
 puts "The city for the state 'TX' is: #{city}"
 
-# I believe I understand this example and will review it later to add
+# I believe I understand this example and will review it later to add.
+# The combination of "=>" syntax and geography made me stumble over this one
+# Once I read jumpstartlab 8: hashes it made sense to me
 # think of info that can be put in hashes: come back to add example other than states/cities
