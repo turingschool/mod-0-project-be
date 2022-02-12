@@ -18,10 +18,11 @@
 # Store the array in a variable.
 animals = ["Zebra", "Giraffe", "Elephant"]
 print animals
+puts ""
 
 # EXAMPLE: Write code below that will print "Zebra" from the animals array
 # YOUR CODE HERE
-puts ""
+puts '-' * 10
 puts animals[0]
 
 # YOU DO: Write code below that will print the number of elements in array of
@@ -34,17 +35,17 @@ puts animals.count
 puts ""
 animals[2] = "Gorilla"
 puts "position 2 has been changed to #{animals[2]}"
-puts ""
+puts '-' * 10
 # YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 animals.push("Fish")
 print animals
 puts ""
-puts ""
+puts '-' * 10
 
 # YOU DO: Write code that will print the String "Elephant" in the animals array
 puts animals[2]
-puts "the string 'elephant' was replaced by 'Gorilla' as instructed in line 32-33'..."
-puts ""
+puts "the string 'elephant' was replaced by 'Gorilla' as instructed in line 33-37'..."
+puts '-' * 10
 #-------------------
 # PART 2: Foods: Array Methods
 #-------------------
@@ -69,7 +70,7 @@ puts "new array: #{foods}"
 puts ""
 foods.pop
 puts "new array: #{foods}"
-puts ""
+puts '-' * 10
 
 # YOU DO: Write code to add 3 new foods to the array.
   # There are several ways to do this - choose whichever you'd like!
@@ -79,13 +80,13 @@ foods.push("oranges")
 foods.push("hot dogs")
 print foods
 puts ""
-puts ""
+puts '-' * 10
 # YOU DO: Remove the food that is in index position 0.
 
 foods.shift
 print foods
 puts ""
-puts ""
+puts '-' * 10
 
 #-------------------
 # PART 3: Where are Arrays used?
