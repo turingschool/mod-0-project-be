@@ -33,19 +33,21 @@ Then, consider on the following questions. We will ask you to share some of thes
 
   * "S.M.A.R.T" goals : "Setting Specific, Measurable, Achievable, Relevant, and Time-Bound goals helps you to approach learning to code with clarity, focus, and use of appropriate strategies"
 
-  *
+  * Tracking your own progress is more important than comparing yourself to others.
 
 - In which ways do you currently demonstrate a Growth Mindset?
 
   * Understanding mistakes are essential to learning
 
+  * Setting goals and always learning
+
 -  In which ways do you _not_?
 
-  * Seeking out challenges: I need to get better at this.
+  * Seeking out challenges: I need to get better at pushing my comfort levels (breaking code to learn etc).
 
 - What is something you are good at or knowledgeable at now, that you once weren't? How did you get those skills/knowledge? Was it hard at some point?
 
-  * Understanding mistakes are essential: I did not use to take this as well, but now i understand it is part of the growth process and helps you get better at catching mistakes in the final run
+  * Understanding mistakes are essential: I did not use to take this as well, but now i understand it is part of the growth process and helps you get better at catching mistakes in the final run.
 
 ## Part B: Conditionals
 
@@ -57,13 +59,13 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
 
-    - [ ] [What If?](https://learnrubythehardway.org/book/ex29.html) from Learn Ruby the Hard Way.
+    - [X] [What If?](https://learnrubythehardway.org/book/ex29.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Else and If](https://learnrubythehardway.org/book/ex30.html) from Learn Ruby the Hard Way.
+    - [X] [Else and If](https://learnrubythehardway.org/book/ex30.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Making Decisions](https://learnrubythehardway.org/book/ex31.html) from Learn Ruby the Hard Way.
+    - [X] [Making Decisions](https://learnrubythehardway.org/book/ex31.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Conditionals](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals) from Ruby in 100 Minutes.
+    - [X] [Conditionals](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals) from Ruby in 100 Minutes.
 
 1. Work through the `if_statements.rb` file in the `section2/exercises` directory.
 
