@@ -17,7 +17,7 @@ puts "Now I will count the eggs:"
 # This line will follow the order off operations to return "7", or "6.75" using floating numbers
 puts 3.0 + 2.0 + 1.0 - 5.0 + 4.0 % 2.0 - 1.0 / 4.0 + 6.0
 
-#This line will print the text in quotes
+#This line will print the string
 puts "Is it true that 3 + 2 < 5 - 7?"
 
 # This line will print "false" because of the less-than notation
