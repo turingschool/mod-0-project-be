@@ -27,3 +27,5 @@ puts "We can transport #{carpool_capacity} people today."
 puts "We have #{passengers} to carpool today."
 # Prints a line showing us the variable average passengers per car in a sentence.
 puts "We need to put about #{average_passengers_per_car} in each car."
+
+# Nothing changes when using 4 rather than 4.0 its just a integer vs a floating number.

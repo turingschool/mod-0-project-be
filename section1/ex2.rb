@@ -8,3 +8,6 @@ puts "I could have code like this" # and the comment after is ignored
 
 puts "This will run."
 puts "The octothorpe can be used to ignore, as well as comment on different lines of code"
+
+# I was right about what the # character does.
+# Fixed mistakes when reviewing lines, and read them out loud. 
