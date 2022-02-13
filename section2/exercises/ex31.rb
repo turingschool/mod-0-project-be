@@ -1,4 +1,4 @@
-puts "You enter a dark room with three doors.  Do you go through door #1 or door #2?"
+puts "You enter a dark room with four doors.  Do you go through door #1, #2, #3, or #4?"
 
 print "> "
 door = $stdin.gets.chomp
@@ -41,6 +41,20 @@ elsif door == "2"
 
 elsif door == "3"
   puts "A clown appears and throws a pie in your face."
+
+elsif door == "4"
+  puts "There is a puppy in a hallway"
+  puts "1.  Follow the puppy"
+  puts "2.  It's a trap. run!"
+  puppy_option = $stdin.gets.chomp
+
+  if puppy_option == "1"
+    puts "The puppy shows you the way out"
+  elsif puppy_option == "2"
+    puts "Puppy turns into a dragon and eats you"
+  else
+    puts "A trap door opens and you fall eternally"
+  end
 
 else
   puts "You stumble around and fall on a knife and die.  Good job!"
