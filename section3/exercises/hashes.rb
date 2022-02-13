@@ -36,7 +36,7 @@ puts "The value of the first animal is #{zoo.values[0]}"
 puts '-' * 10
 # Write code that adds an animal to the zoo hash.
 # Then, print the updated hash:
-zoo["walrus" => 7]
+zoo["walrus"] = 7
 
 puts zoo
 
