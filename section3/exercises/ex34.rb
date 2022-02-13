@@ -25,7 +25,8 @@ animals = ['bear', 'ruby', 'peacock', 'kangaroo', 'whale', 'platypus']
 #The animal at 4 is the fifth animal and is a whale.
 
 #With what you know of the difference between these types of numbers, can you explain why the year 2010 in "January 1, 2010," really is 2010 and not 2009? (Hint: you can't pick years at random.)
-#In this case, 2010 is part of a string of data rather than a position in an index base.  Also, when I think about the way time and years work, I think about age.  When you are born, you are 0 years old, and you remain 0 years old until you've been alive for one year and turn 1.  The first year of your life is essentially your 'zeroth' year in an index.
+
+#When I think about the way time and years work, I think about age.  When you are born, you are 0 years old, and you remain 0 years old until you've been alive for one year and turn 1.  The first year of your life is essentially your 'zeroth' year in an index.
 
 #Write some more arrays and work out similar indexes until you can translate them.
 #Use Ruby to check your answers.
@@ -34,7 +35,6 @@ pizza_ingredients = ['dough', 'sauce', 'cheese', 'tomatoes', 'onion', 'peppers',
 
 #The seventh ingredient.
 #The seventh ingredient is at 6 and is olives.
-
 
 #The ingredient at 1.
 #The ingredient at 1 is the second ingredient and is sauce.

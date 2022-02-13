@@ -12,7 +12,7 @@ cars_not_driven = cars - drivers
 cars_driven = drivers
 #defines total number of spots available in cars_driven
 carpool_capacity = cars_driven * space_in_a_car
-#calculates how many passengers can ride in each car 
+#calculates how many passengers can ride in each car
 average_passengers_per_car = passengers / cars_driven
 
 puts "There are #{cars} cars available."
@@ -38,6 +38,7 @@ puts "We need to put about #{average_passengers_per_car} in each car."
 
 #I used 4.0 for space_in_a_car, but is that necessary? What happens if it's just 4?
 #Remember that 4.0 is a floating point number. It's just a number with a decimal point, and you need 4.0 instead of just 4 so that it is floating point.
+
 #I get the same output with using just 4. But it seems like the floating point would be useful when you are doing equations involving fractions or have variables that are able to be split up into fractions or pieces.  Obviously you cannot split people into fractions in this example, but you could split the space in the car into fractions..?
 
 #Write comments above each of the variable assignments.

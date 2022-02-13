@@ -12,6 +12,7 @@ In my current job as a brewery manager and bartender, I have consistently taken 
 3. What is a conditional statement? Give three examples.
 
 A conditional statement tells Ruby to do a certain thing or give a certain output based on an if-statement. For example, the following snippet contains three conditionals:
+
 ```ruby
 bank_balance = 75.25
 

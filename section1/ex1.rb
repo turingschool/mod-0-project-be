@@ -14,7 +14,7 @@ puts "#{i}"
 #line 8
 
 #Make your script print only one of the lines.
-#Googled this for a bit and then figured it out next lesson with the next lesson
+#Googled this for a bit and then figured it out with the next lesson
 
 #Put a # (octothorpe) character at the beginning of a line. What did it do? Try to find out what this character does.
-#Didn't realize quite how to use this function correctly until the next lesson! 
+#Didn't realize quite how to use this function correctly until the next lesson!

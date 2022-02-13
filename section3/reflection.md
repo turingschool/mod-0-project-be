@@ -2,15 +2,15 @@
 
 1. How different did your workflow feel this week, considering we asked you to follow the Pomodoro technique?
 
-The pomodoro techinique proved useful for me!  I worked for longer stretches before I took a pom, usually 40-45 minutes, and sometimes my pom was longer than five minutes.  But I found it helpful to step away from the computer and give my brain a rest, and the pom time was grea to get small chores done or a quick bite or stretch.  Looking at something with fresh eyes even if it has only been a few minutes since I looked at it worked well for me.  
+The pomodoro technique proved useful for me!  I worked for longer stretches before I took a pom, usually 40-45 minutes, and sometimes my pom was longer than five minutes.  But I found it helpful to step away from the computer and give my brain a rest, and the pom time was great for getting small chores done, a quick bite, or a stretch.  Looking at something with fresh eyes even if it had only been a few minutes since I looked at it worked well for me.  
 
 2. Regarding the work you did around setting intentions in Step 1 of the Pomodoro technique - how did that go? Were you surprised by anything (did you find yourself way more focused than you realized, more distracted that you thought you'd be, estimating times accurately or totally off, etc)?
 
-I didn't stick to the Pomodoro method as rigorously as I wanted to.  Sometimes I was in a working groove and wanted to keep going.  I found it helpful to break my work up into chunks, and focus on finishing specific sections/exercises at a time.  My time estimates have become more accurate as I have become more comfortable and knowledgeable as I've gone through Mod 0; in the first few sessions everything was taking me much longer than estimated and I think Section 1 of the project took me the longest.  I also have discovered I need to keep my cell phone somewhere that is not on my desk or in my immediate workspace, otherwise I will absent-mindedly pick it up way more times than I'd like to admit.
+I didn't stick to the Pomodoro method as rigorously as I wanted to.  Sometimes I was in a working groove and wanted to keep going.  I found it helpful to break my work up into chunks, and focus on finishing specific sections/exercises at a time.  My time estimates have become more accurate as I have become more comfortable and knowledgeable through Mod 0; in the first few sessions everything was taking me much longer than estimated and I think Section 1 of the project took me the longest.  I also have discovered I need to keep my cell phone somewhere that is not on my desk or in my immediate workspace, otherwise I will absent-mindedly pick it up way more times than I'd like to admit.
 
 3. What is a Hash, and how is it different from an Array?
 
-A hash is similar to an Array in that it stores data but each piece of data is addressed by a name rather than a number.  The name that calls the element of data is the key, and any other data assigned to the key is the value.  
+A Hash is similar to an Array in that it stores data but each piece of data is addressed by a name rather than a number.  The name that calls the element of data is the key, and any other data assigned to the key is the value.  
 
 4. In the space below, create a Hash stored to a variable named `pet_store`.  This hash should hold an inventory of items and the number of that item that you might find at a pet store.
 
@@ -37,4 +37,4 @@ A hash would work better in this case per storing all the different names of the
 
 8. What questions do you still have about hashes?
 
-In some of the reading, including in Ruby Docs, there were methods listed that I was unable to get to work with various hashes I tried throughout the exercises, although I think this is maybe because they work with an older version of ruby.  Is it better to use strings for keys and values, is that easier to work with?  Does it matter if I use simplified syntax vs. using a rocket?  This has been the most difficult concept I've encountered so far and I look forward to receiving formal instruction on hashes!
+In some of the reading, including in Ruby Docs, there were methods listed that I was unable to get to work with various hashes I tried throughout the exercises, although I think this is maybe because they work with an older version of ruby.  Is it better to use strings with double quotes for keys and values, is that easier to work with?  Does it matter if I use simplified syntax vs. using a rocket?  This has been the most difficult concept I've encountered so far and I look forward to receiving formal instruction on hashes!

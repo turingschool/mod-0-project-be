@@ -63,9 +63,7 @@ else
 end
 
 
-
-
 #Make new parts of the game and change what decisions people can make. Expand the game out as much as you can before it gets ridiculous.
 
 #Write a completely new game. Maybe you don't like this one, so make your own. This is your computer; do what you want.
-#File name sandwich.rb.  I liked the pizza example! 
+#File name sandwich.rb.  I liked the pizza example!

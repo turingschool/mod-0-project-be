@@ -39,6 +39,7 @@ p zoo
 
 # Declare a variable that stores hash. Each key should be an attribute of an email and each
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
+
 email = {sender_name: "Tuesdee Balderas", sender_email: "tuesdee@bargreen.com", date: "02/10/22", time: "4:56 PM", subject: "Your Invoice is Ready"}
 
 # Write code that prints your email hash to the terminal.
@@ -102,6 +103,7 @@ p posts[0]
 # YOU DO: Create an array of at least 3 EMAIL Hashes, using the same
 # key-value pairs you used in your email Hash above.
 # Then, print the email Array to the terminal.
+
 
 emails = [
   {

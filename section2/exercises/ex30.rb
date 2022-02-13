@@ -63,14 +63,18 @@ end
 
 
 #Try to guess what elsif and else are doing.
-#I think elsif and else are adding more conditionals for the variables.  IF the first conditional is met, print the first string.  ELSIF the first conditional is not met but the second conditional is, print the second string. ELSE if neither of the above conditionals are met, print the third string.  The further I get into this exercise it seems like 'if and elsif' generally represent an 'either or' condtional statement while 'else' represents any value outside of  'either or', maybe 'neither?'.
+
+#I think elsif and else are adding more conditionals for the variables.  IF the first conditional is met, print the first string.  ELSIF the first conditional is not met but the second conditional is, print the second string. ELSE if neither of the above conditionals are met, print the third string.  The further I get into this exercise it seems like 'if and elsif' generally represent an 'either or' conditional statement while 'else' represents any value outside of  'either or', maybe 'neither'?.
 
 #Change the numbers of cars, people, and trucks, and then trace through each if-statement to see what will be printed.
+
 #I tried this several times adjusting the numbers up, down, and finally making them all equal to get this pouty output:
 "We can't decide.
-We still cant' decide.
+We still can't decide.
 Fine, let's stay home then."
+
 #Try some more complex boolean expressions like cars > people || trucks < cars.
-#Lines 50 - 62
+
+#lines 50 - 62
 
 #Above each line write an English description of what the line does.

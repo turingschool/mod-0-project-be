@@ -20,7 +20,6 @@ animals = ["Zebra", "Giraffe", "Elephant"]
 print animals
 
 # EXAMPLE: Write code below that will print "Zebra" from the animals array
-# YOUR CODE HERE
 print animals[0]
 
 # YOU DO: Write code below that will print the number of elements in array of
@@ -94,6 +93,6 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 
 # 1: At my current job, we use an app called 7shifts.  Two lists utilized in this app are the list of my shifts each week, and the list of current employees and their contact information.
 
-# 2: I use Spotify quite a bit, lots of lists in there including playlists, artist albums lists, and lists of the songs the user listens to the most.
+# 2: I use Spotify quite a bit, lots of lists in there including playlists, artist albums lists, and lists of the songs the user listens to most frequently.
 
-# 3: I am very new at cooking and have been using Hello Fresh to teach myself.  Each week they have lists of the meal kits available and within each meal there is a list of ingredients and a list of cooking instructions.
+# 3: I am very new at cooking and have been using the Hello Fresh app to teach myself.  Each week they have lists of the meal kits available and within each meal there is a list of ingredients and a list of cooking instructions.

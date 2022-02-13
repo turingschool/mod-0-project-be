@@ -34,11 +34,16 @@ puts w + e
 
 #Find all the places where a string is put inside a string.
 
+# Strings within strings occur on lines 4, 10, 16, 18, and 22.
+
 #Are you sure there are only four places? How do you know? Maybe I like lying.
-#I actually only think there is one string within a string and it's line 17.  At first I was counting variables within strings but then realized he said string put inside a string and this is the only line with single quotes inside the double quotes.
+
+#I counted five instances of strings within strings, in the lines listed above. Each of these strings has a variable with data inside of it.
 
 #Explain why adding the two strings w and e with + makes a longer string.
+
 #It makes a longer string because you are just adding together two variables that each represent shorter strings.
 
 #What happens when you change the strings to use ' (single-quote) instead of " (double-quote)? Do they still work? Try to guess why.
-#I couldn't get the program to run per a syntax error in line 8.  The single quotes around 'don't' seem to violate syntax? I changed line 8 back to double quotes and ran the program again and found a syntax error in line 22, similarly with 'Isn't'.  When I changed that line back to double quotes I was able to run the program, although line 18 was not able to recognize the varible #{y} with single quotes and therefore it printed blank; it was commented out by the #.  Seems like if inside the string you are using any contractions or strings within strings you will need to use double quotes around the entire string itself. 
+
+#I couldn't get the program to run per a syntax error in line 8.  The single quotes around 'don't' seem to violate syntax. I changed line 8 back to double quotes and ran the program again and found a syntax error in line 22, similarly with 'Isn't'.  When I changed that line back to double quotes I was able to run the program, although line 18 was not able to recognize the varible #{y} with single quotes and therefore it printed blank; it was commented out by the #.  Seems like if inside the string you are using any contractions you will need to use double quotes around the entire string itself.

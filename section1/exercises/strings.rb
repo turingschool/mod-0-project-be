@@ -7,11 +7,11 @@
 p "Alan Turing"
 
 # Write code that prints `Welcome to Turing!` to the terminal:
-p "Welcome to Turing!"#YOUR CODE HERE
+p "Welcome to Turing!"
 
 # Write code that prints `99 bottles of pop on the wall...` to the terminal:
-p "99 bottles of pop on the wall.."
+p "99 bottles of pop on the wall..."
 
 # Write out code to print one line from your favorite song or movie.
 p "Then he explained the name was the important thing for inspiring the necessary terror.  You see, no one would surrender to the Dread Pirate Westley."
-# I realize that this is two lines but felt they were both important for context!
+# I realize this is two lines but felt they were both important for context!
