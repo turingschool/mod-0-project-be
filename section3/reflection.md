@@ -29,7 +29,11 @@ puts states.values
 
 7. What is another example of when we might use a hash?  In your example, why is a hash better than an array?
 
+The biggest example of when you would use a hash would be passwords. Hash functions have a one way nature where it's easy to make a hashed password into a one word string that acts as a key.  The issue is if you don't have the key then its extremely hard to get in as hashing functions are not reversible.
 
+Arrays cannot perform this function nearly as well, as this is not a fundamental part of it's function; Arrays are more for order and organization of an index.
 
 
 8. What questions do you still have about hashes?
+
+In that last question I technically saw a code written that would use an array as a relatively effective way of securing passwords. They utilized a cryptographic number generator (Ruby's SecureRandom). In regular hashes are those generators used or are they called upon differently? And how much overlap happens between hashes and arrays?
