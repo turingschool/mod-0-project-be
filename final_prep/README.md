@@ -32,7 +32,7 @@ Take your time as you go back and refactor your exercises from each section. We'
 Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry.
 
 - [x] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [x] Add a link for your gist here:[Gear Ups Pre-work](https://gist.github.com/deannahburke/319f7b827df4b7889204c9bf65271cd2)
+  - [x] Add a link for your gist here: [Gear Ups Pre-work](https://gist.github.com/deannahburke/319f7b827df4b7889204c9bf65271cd2)
 
 ## Time Management Prep
 
@@ -47,12 +47,16 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 My screenshots are all essentially identical, as the calendar for my cohort is not on Turing's website yet.  I added what events were on the Mod 1 calendar for my cohort, and then most everything else is repeating on each day of the week.  I didn't want to spend too much time putting hypothetical events on my calendar just to be deleted later when my Mod 1 calendar becomes available.  
 
 - `Add Week 1 Screenshot Here`
-(<img width="1045" alt="Week 1" src="https://user-images.githubusercontent.com/98491210/153770025-0b00bc0b-0c2c-45ca-b6ec-f2780701ca38.png">
-)
+<img width="1045" alt="Week 1" src="https://user-images.githubusercontent.com/98491210/153770025-0b00bc0b-0c2c-45ca-b6ec-f2780701ca38.png">
+
 
 - `Add Week 2 Screenshot Here`
+<img width="1028" alt="Week 2" src="https://user-images.githubusercontent.com/98491210/153770291-c7fa0864-54af-4d44-9014-4897b7788ffa.png">
+
 
 - `Add Week 3 Screenshot Here`
+<img width="1043" alt="Week 3 " src="https://user-images.githubusercontent.com/98491210/153770306-a1ec945e-fade-499a-82a7-dddf8678ec95.png">
+
 
 
 ## Mentorship Prep
@@ -74,8 +78,8 @@ You've learned a lot about how to take strong notes during Mod 0. Show us your s
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
-- [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here:
+- [x] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
+  - [x] Add a link to your gist here: [Group Work Prep](https://gist.github.com/deannahburke/187f6d04a1d9a2f7e6311312d8121ae8)
 
 ## Mod 0 Project Submission
 
