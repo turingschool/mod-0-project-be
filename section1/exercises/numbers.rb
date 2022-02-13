@@ -7,7 +7,7 @@
 p 2 + 2
 
 # Write code that prints the result of 7 subtracted from 83:
-p 7 - 83
+p 83 - 7
 
 # Write code that prints the result of 6 multiplied by 53:
 p  6 * 53
