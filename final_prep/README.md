@@ -40,13 +40,13 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 - [X] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Back End curriculum site](https://backend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
 - [X] Study/Project work time (usually about 25 hours/week outside of class time)
-- [X] Personal, Health + Wellness 
+- [X] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+-  <img width="1333" alt="Screen Shot 2022-02-13 at 12 45 56 AM" src="https://user-images.githubusercontent.com/98673086/153744214-923961b7-8cac-4206-a3e5-0b1d76d96d0d.png">
+- <img width="1333" alt="Screen Shot 2022-02-13 at 12 46 08 AM" src="https://user-images.githubusercontent.com/98673086/153744218-ebf322a0-a074-468b-aa58-1f359a4c26e8.png">
+- <img width="1333" alt="Screen Shot 2022-02-13 at 12 46 22 AM" src="https://user-images.githubusercontent.com/98673086/153744227-267473c6-5122-48ec-98e8-8f88bd9f0f3d.png">
 
 ## Mentorship Prep
 
