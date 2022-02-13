@@ -31,6 +31,6 @@ puts "In a predictable result, the #{slow_poke} beat the #{speedy}!"
 # all THREE variables.
 pets_name = "Moose"
 pet_age = 2
-pet_type = "Dog"
+pet_type = "dog"
 
 puts "#{pets_name} is a great name for a #{pet_age} year old #{pet_type}!"
