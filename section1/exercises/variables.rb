@@ -40,9 +40,7 @@ is_hungry = !false
 number_of_pets = 42
 number_of_pets = 312
 
-p first_name
-p is_hungry
-p number_of_pets
+p "#{first_name} is a goblin disguised as a dog and her hunger can never be satiated. It's #{is_hungry}, and she's one of #{number_of_pets} dogs in our household."
 # IN WORDS:
 # Q: How did you decide to use the data type you did for each of the three variables above?
 

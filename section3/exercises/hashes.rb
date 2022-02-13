@@ -41,7 +41,7 @@ p zoo
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
 components = {sender: "Chani Nicholas", subject: "Your Guide to the week of February 7th", body: "themes, related tarot cards, how to make the most of the week", recepient: "cfazio@gmail.com", attachments: 3}
 # Write code that prints your email hash to the terminal.
-
+p components
 
 # Write code that prints all of the 'keys' of the email hash
 # you created above:

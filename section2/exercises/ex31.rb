@@ -46,7 +46,7 @@ print "> "
 option = $stdin.gets.chomp
 
 if option == "1"
-  puts "It's clear you've entered a witches cottage. They appears to be out at the moment, but the cauldron is simmering, dry herbs are hanging on the wall and a raven is perched above a set of appendages marinating in glass jars. What do you do?"
+  puts "It's clear you've entered a witches cottage. They appear to be out at the moment, but the cauldron is simmering, dry herbs are hanging on the wall and a raven is perched above a set of appendages marinating in glass jars. What do you do?"
   puts "1. Talk to the raven."
   puts "2. Try to use the materials to cast a spell of your own."
   puts "3. Wreak havoc on the small cabin."

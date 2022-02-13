@@ -4,11 +4,7 @@
 * I really appreciated the various approaches to asking questions. I find that I tend to ask as soon as I have a questions, and feel that I would benefit from troubleshooting and saying the questions out loud, wording it very specifically with examples before finally pulling the trigger to ask. I also ordered a "rubber ducky" for out loud problem solving.
 
 2. How would you print the string `"Hello World!"` to the terminal?
-* I prefer puts, because it is easier for me to read -prints out on a second line, as opposed to print, which prints it on the same line. That is why all of my exercises were done with puts instead of print
-
- `puts "Hello World!"`
-
- `print "Hello World!"`
+* `p "Hello World!"`
 
 3. What character is used to indicate comments in a ruby file?
 * The octothorpe aka pound character #
@@ -22,7 +18,7 @@
 
 6. How would you print the string `"zebra"` using the variable that you created above?
 
-`puts "#{animal}"`
+`p animal`
 
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 * An interpolation is sticking data in the middle of a string
@@ -33,5 +29,5 @@
 * `gets.chomp`
 
 9. Name and describe two common string methods:
-* .reverse
-* .gsub
+* .reverse - prints the string in reverse
+* .length - prints out the number of characters in the string

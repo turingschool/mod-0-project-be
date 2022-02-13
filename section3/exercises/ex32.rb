@@ -35,7 +35,7 @@ end
 elements.each {|i| puts "Element was: #{i}" }
 
 # Q: Take a look at how you used (0..5) in the last for-loop. Look up Ruby's "range operator" (.. and ...) online to see what it does.
-# A: ranges represent an interval, a set of values with a beginning and an end specifically using ..
+# A: ranges represent an interval, a set of values with a beginning and an end specifically using .. includes the last variable, while using ... excludes the end variable
 
 # Change the first for number in the_count to be a more typical .each style loop like the others.
 the_count.pop

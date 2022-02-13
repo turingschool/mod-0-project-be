@@ -10,14 +10,14 @@
   # if it is snowy, print "coat"
   # if it is icy, print "yak traks"
 
-  weather = 'snowy'
+  weather = 'rainy'
 
   if weather == 'sunny'
     p "sunscreen"
   elsif weather == 'rainy'
     p "umbrella"
   elsif weather == 'snowy'
-    p "boots"
+    p "coat"
   elsif weather == 'icy'
     p "yak traks"
   else
@@ -64,10 +64,10 @@ end
 # Experiment with manipulating the value held within both variables
 # to make sure all above conditions output what you expect.
 
-cups_of_flour = 3
+cups_of_flour = 0
 has_sauce = true
 
-if cups_of_flour == 1 && has_sauce == true
+if cups_of_flour <= 1 && has_sauce == true
   puts "I cannot make pizza"
 elsif cups_of_flour == 5 && has_sauce == false
   puts "I cannot make the pizza"

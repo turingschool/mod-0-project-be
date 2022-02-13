@@ -8,10 +8,19 @@
 * I really appreciated both the video and the article as I struggle with not giving up, or asking questions immediately when I don't get something right away. They both highlighted the value in struggling and how it's a sign of learning and growth. I also like how closely related to meditation the growth mindset is.
 
 3. What is a conditional statement? Give three examples.
-- they evaluate to true or false
-   3 >= 10
-   4 + 7 == 11
-   36 / 15 <= 2
+-
+```Ruby
+book = 11
+
+if book <= 9
+  p "not enough book"
+elsif book == 11
+  p "just enough book"
+elsif book >= 12
+  p "WOW, look at all them book"
+end
+
+```
 
 4. Why might you want to use an if-statement?
 * in order to control conditional instructions, or instructions that change depending on the input/answer
@@ -19,7 +28,7 @@
 5. What is the Ruby syntax for an if statement?
 ```Ruby
 if
-  puts ""
+  puts " "
 end
 ```
 
