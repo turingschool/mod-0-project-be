@@ -37,7 +37,7 @@ else
   puts "You stumble around and fall on a knife and die. Good job!"
 end
 
-
+puts "You now are transported to the second part of the game, a treasure hunt!"
 
 
 puts "You enter a cave, and in this cave you are looking for treasure hidden by the pirate Black Beard. There is cave #1, or #2. Which do you enter"
