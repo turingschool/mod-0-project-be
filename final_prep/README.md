@@ -44,7 +44,7 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
+- `Add Week 1 Screenshot Here`i tied but coildnt get the calender for my class 
 - `Add Week 2 Screenshot Here`
 - `Add Week 3 Screenshot Here`
 
@@ -54,21 +54,21 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 - [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+  - [ ] Add link to your gist here: https://gist.github.com/k-jundi/05c6cda3f563d0698775714ffe0b6836
 
 ## Lesson Prep
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
 - [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+  - [ ] Add a link to your gist here:https://gist.github.com/k-jundi/7e1fdd54c8b9210737d07c01485344a9
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+  - [ ] Add a link to your gist here: <script src="https://gist.github.com/k-jundi/4feed1ca7337a5515bcca4e40841eb8d.js"></script>
 
 ## Mod 0 Project Submission
 
