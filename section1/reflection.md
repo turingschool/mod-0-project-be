@@ -6,13 +6,17 @@
 
 2. How would you print the string `"Hello World!"` to the terminal?
 
-```
+```ruby
 print "Hello World!"
+```
+
+```ruby
+puts "Hello World"
 ```
 
 3. What character is used to indicate comments in a ruby file?
 
-* # octothrorpe or pound character
+* # pound character (octothorpe according to site author)
 
 4. Explain the difference between an integer and a float?
 
@@ -34,7 +38,7 @@ puts animal
 
 * Using (or calling) a variable within a string
 
-```
+```ruby
 puts "*David Attenborough voice*"
 puts "The #{animal} is a most extraordinary animal. "
 ```
