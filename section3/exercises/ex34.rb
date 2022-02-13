@@ -19,7 +19,7 @@
    # puts "#{animals[4]}"
 
 # Q: With what you know of the difference between these types of numbers, can you explain why the year 2010 in "January 1, 2010," really is 2010 and not 2009? (Hint: you can't pick years at random.)
-# A: This stumped me
+# A: When you are born you're considered 0 years old until you turn 1, you count the zero in the years, which would make 2010 just that, instead of 2009
 
 # Q: Write some more arrays and work out similar indexes until you can translate them.
 cartoons = ['apple and onion', 'avatar the last airbender', 'young justice', 'harley quinn', 'adventure time', 'steven universe', 'samurai champloo']
