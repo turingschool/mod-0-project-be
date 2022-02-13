@@ -8,24 +8,33 @@ foods = {apples: 23, grapes: 507, eggs: 48}
 p foods
 
 # Write code that prints a hash holding zoo animal inventory:
-zoo = #YOUR CODE HERE
-p zoo
+zoo = {"lion" => 3, "bears" => 4 ,"monkeys" => 8}
+puts zoo
 
 # Write code that prints all of the 'keys' of the zoo variable 
 # you created above:
-# YOUR CODE HERE
+puts "we have those animals : "
+zoo.each do |animal,quantity|
+  puts "#{animal}"
+end
 
 # Write code that prints all of the 'values' of the zoo variable 
 # you created above:
-# YOUR CODE HERE
+puts "we have this numbers of animals"
+zoo.each do |animal,quantity|
+  puts "#{quantity}"
+end
 
 # Write code that prints the value of the first animal of the zoo variable 
 # you created above:
-# YOUR CODE HERE
+zoo.each do |animal,quantity|
+  puts "we have #{quantity} of #{animal}"
+end
 
 # Write code that adds an animal to the zoo hash. 
 # Then, print the updated hash:
-# YOUR CODE HERE
+zoo['zebra'] = 5
+puts zoo
 
 
 #-------------------
@@ -35,21 +44,26 @@ p zoo
 
 # Think about all the pieces of information associated with one single email in your inbox.
 # It has a sender, a subject, ...
-
+e_mail = {"sender" => "amy@turing.edu" , "subject" => "Turing School Mod 0 Information - 2201-01
+" , "to" => "ks.aljundi@gmail.com" , "greeting" => "Hi Everyone!" , "date" => "01/21/2022"}
 # Declare a variable that stores hash. Each key should be an attribute of an email and each
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
 
 # Write code that prints your email hash to the terminal.
-
+puts e_mail
 
 # Write code that prints all of the 'keys' of the email hash 
 # you created above:
 # YOUR CODE HERE
-
+e_mail.each do |key,value| 
+ puts "#{key}"
+end 
 # Write code that prints all of the 'values' of the email hash 
 # you created above:
 # YOUR CODE HERE
-
+e_mail.each do |key,value| 
+ puts value
+end 
 
 #-------------------
 # Part 3: Many Emails - OPTIONAL EXTENSION
