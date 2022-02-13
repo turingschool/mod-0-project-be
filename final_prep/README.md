@@ -94,12 +94,19 @@ You can absolutely do both, but to do so successfully, **you need a plan**. We r
 What is your plan and how are you going to hold yourself to it? Specifically...
 
 - What are you going to work on?
+* review old materials and read ahead on lessons
 - What days are you going to work?
+* Whenever I can. I intend to start following my study calender before mod 1 starts
 - What times on those days are you going to work?
+* I intend to start following calender before mod 1 starts
 - Where you going to be sitting/standing as you do this?
+* my office, colorado springs, and san diego (will be there for orientation)
 - Where are you documenting this plan? Google Calendar, calendar on your wall, your journal?
+* calender and chiseled stone
 - Do any stakeholders in your life know about this plan? (The answer needs to be yes by the time you answer this...)
+* yes, now if only i could find investors
 - What personal items/events are important to you during this time? How are you going to make sure those are not neglected? (Hint, block time on the calendar for them!)
+* visit grandparents on break week or easter.
 
 ### Extensions
 
