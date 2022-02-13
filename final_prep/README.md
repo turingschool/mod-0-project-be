@@ -68,7 +68,7 @@ You've learned a lot about how to take strong notes during Mod 0. Show us your s
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+  - [ ] Add a link to your gist here: [DTR Guide](https://gist.github.com/philmarcu/1ba7bca94d0a93f2a13491082ed02577)
 
 ## Mod 0 Project Submission
 
