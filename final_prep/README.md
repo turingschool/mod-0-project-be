@@ -47,11 +47,11 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 My screenshots are all essentially identical, as the calendar for my cohort is not on Turing's website yet.  I added what events were on the Mod 1 calendar for my cohort, and then most everything else is repeating on each day of the week.  I didn't want to spend too much time putting hypothetical events on my calendar just to be deleted later when my Mod 1 calendar becomes available.  
 
 - `Add Week 1 Screenshot Here`
-<img width="1045" alt="Week 1" src="https://user-images.githubusercontent.com/98491210/153770025-0b00bc0b-0c2c-45ca-b6ec-f2780701ca38.png">
+<img width="1028" alt="Week 2" src="https://user-images.githubusercontent.com/98491210/153770291-c7fa0864-54af-4d44-9014-4897b7788ffa.png">
 
 
 - `Add Week 2 Screenshot Here`
-<img width="1028" alt="Week 2" src="https://user-images.githubusercontent.com/98491210/153770291-c7fa0864-54af-4d44-9014-4897b7788ffa.png">
+<img width="1045" alt="Week 1" src="https://user-images.githubusercontent.com/98491210/153770025-0b00bc0b-0c2c-45ca-b6ec-f2780701ca38.png">
 
 
 - `Add Week 3 Screenshot Here`
