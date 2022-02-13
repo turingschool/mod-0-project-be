@@ -3,7 +3,7 @@ puts "You're walking alone at night, about to head home and then you realize the
 
 print "> "
 park = $stdin.gets.chomp
-
+puts "\r\n"
 if park == "1"
   puts "You start to walk towards the center of the park.
         There's a murder of crows flying all around the park. You open up a bag of peanuts and the murder
@@ -13,6 +13,7 @@ if park == "1"
 
   print "> "
   feed = $stdin.gets.chomp
+  puts "\r\n"
 
   if feed == "1"
     puts "The crows serenade you with their endless caw-ing as you feed them and accept you as one of their own."
