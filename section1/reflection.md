@@ -16,9 +16,7 @@ The octothorpe, or `#` character is used to indicate comments in a ruby file.
 
 An integer is a whole or positive number, for example `5` is an integer.  A float is a number that contains a decimal point and can be positive or negative, such as `12.85`.
 
-
 5. In the space below, create a variable `animal` that holds the string `"zebra"`
-
 `animal = "zebra"`
 
 6. How would you print the string `"zebra"` using the variable that you created above?
