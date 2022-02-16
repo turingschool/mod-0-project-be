@@ -19,13 +19,13 @@ print_name("Albus Dumbledore")
 
 # Write a method that takes in 2 numbers as arguments and prints
 # their sum. Then call your method three times with different arguments passed in:
-def sum(number, second_number)
-  p number + second_number
+def sum(first_number, second_number)
+  p first_number + second_number
 end
 
-sum 1,2
-sum 5,5
-sum 42,100
+sum 1, 2
+sum 5, 5
+sum 42, 100
 
 
 
@@ -34,8 +34,8 @@ sum 42,100
 # (man, woman) and the end result might output: "When Harry Met Sally".
 # Then call your method three times with different arguments passed in.
 
-def concatenate(string1, string2)
-  p string1 + " " + string2
+def concatenate(string_one, string_two)
+  p string_one + " " + string_two
 end
 
 concatenate "Hello", "World!"
