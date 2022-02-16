@@ -52,13 +52,12 @@ p zoo
 # Declare a variable that stores hash. Each key should be an attribute of an email and each
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
 
-email =
-{
+email = {
   sender: "Andrew",
-   recipient: "Turing",
-    subject: "Tuition",
+  recipient: "Turing",
+  subject: "Tuition",
   timestamp: "2022-02-10 12:00:00 -0600",
-   body: "Lorem ipsum"
+  body: "Lorem ipsum"
  }
 
 # Write code that prints your email hash to the terminal.
@@ -123,27 +122,27 @@ p posts[0]
 # Then, print the email Array to the terminal.
 
 emails = [
-{
-  sender: "Andrew",
-   recipient: "Turing",
+  {
+    sender: "Andrew",
+    recipient: "Turing",
     subject: "Tuition",
-  timestamp: "2022-02-10 12:00:00 -0600",
-   body: "Lorem ipsum"
- },
- {
-   sender: "Turing",
+    timestamp: "2022-02-10 12:00:00 -0600",
+    body: "Lorem ipsum"
+   },
+   {
+    sender: "Turing",
     recipient: "Andrew",
-     subject: "Tuition",
-   timestamp: "2022-02-10 14:06:32 -0600",
+    subject: "Tuition",
+    timestamp: "2022-02-10 14:06:32 -0600",
     body: "Lorem ipsum"
   },
   {
     sender: "Spam",
-     recipient: "Andrew",
-      subject: "Make Easy Money",
+    recipient: "Andrew",
+    subject: "Make Easy Money",
     timestamp: "2022-02-10 17:00:00 -0600",
-     body: "Lorem ipsum"
-   },
+    body: "Lorem ipsum"
+  }
 ]
 
 puts "-" * 10

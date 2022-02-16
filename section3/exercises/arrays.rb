@@ -71,7 +71,7 @@ puts
 
 # YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 # print the changed array to verify "broccoli" has been added
-def add_broccoli (array)
+def add_broccoli(array)
   array.push("Broccoli")
 end
 add_broccoli(foods)
@@ -81,12 +81,22 @@ end
 
 puts
 
+def add_food(array)
+  print "Enter a food to be added: "
+  user_food = gets.chomp
+  array.push(user_food)
+  puts "You added #{user_food}."
+end
+
+add_food(foods)
+
 # YOU DO: Write code below that removes the last item of food from the foods array and
 # print the changed array to verify that item has been removed
 foods.pop
 foods.each do |food|
   puts food
 end
+
 puts
 # YOU DO: Write code to add 3 new foods to the array.
   # There are several ways to do this - choose whichever you'd like!
