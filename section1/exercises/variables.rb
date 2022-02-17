@@ -54,7 +54,7 @@ thinking Boolean, and number_of_pets seemed like and integer."
 first_name = "Fred"
 is_hungry = false
 number_of_pets = 6
-p " #{first_name} #{is_hungry} #{number_of_pets}"
+p "#{first_name} #{is_hungry} #{number_of_pets}"
 
 # YOU DO:
 # Using the variables below, print the total number of snacks to the terminal:
