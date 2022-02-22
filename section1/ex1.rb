@@ -7,4 +7,4 @@ puts "I'd much rather you 'not'."
 puts 'I "said" do not touch this.'
 puts "Go to bed as soon as you finish at 11:00pm!"
 
-# Comments out a line so it does not show in output.
+# Comments out the line so it does not show in the output.
