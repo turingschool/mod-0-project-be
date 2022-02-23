@@ -33,3 +33,12 @@ puts "We have #{passengers} to carpool today."
 
 # prints "We need to put about 3 in each car."
 puts "We need to put about #{average_passengers_per_car} in each car."
+
+
+# Study Drill:
+# Q: ex4.rb:14: undefined local variable or method `carpool_capacity' for
+# main:Object (NameError)
+# A: Line 39-40 means there is an error in naming the variable 'carpool_capacity' and is therefore undefined.
+#
+# Q: I used 4.0 for space_in_a_car, but is that necessary? What happens if it's just 4?
+# A: People are whole. It makes more sense to assign whole numbers to people. The result equals 120 people instead of 120.0.
