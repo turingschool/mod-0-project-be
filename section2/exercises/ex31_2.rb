@@ -32,6 +32,27 @@ if answer.to_i >= 1 && answer.to_i <=9
 
           print "> "
           intention = $stdin.gets.chomp
+        elsif place == "2"
+          puts "Please set your intentions. Do you intend to..."
+          puts "1. Take over the castle?"
+          puts "2. Save someone from the dungeons?"
+          puts "3. Just have a good wholesome adventure?"
+
+          print "> "
+          intention = $stdin.gets.chomp
+        elsif place == "3"
+          puts "Please set your intentions. Do you intend to..."
+          puts "1. Claim your seat at the top of the world?"
+          puts "2. Take down an ancient evil?"
+          puts "3. Just have a good wholesome adventure?"
+
+          print "> "
+          intention = $stdin.gets.chomp
+        else
+          puts "#{place} was not an option. The game ends here." % place
+          puts "Your heroic tale ended before it began."
+          puts "'#{place}'. Jeez..." % place
+        end
     elsif gear == "2"
       puts "A magic staff! Intriguing. Where will you venture off to?"
       puts "1. On a quest to get smaller creatures to do all my work"
@@ -58,7 +79,7 @@ if answer.to_i >= 1 && answer.to_i <=9
       place = $stdin.gets.chomp
 
     else
-      puts "You don't wanna play right, you don't get to play."
+      puts "If you don't wanna play right, you don't get to play."
       puts "And it's a real shame, there was some fun to be had here."
       puts "And now you're just missing out."
     end
