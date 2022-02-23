@@ -6,7 +6,7 @@ I usually wait too long. I enjoy the satisfaction of finding things out on my ow
 
 2. How would you print the string `"Hello World!"` to the terminal?
 
-print = "Hello World!"
+``p = "Hello World!"``
 
 3. What character is used to indicate comments in a ruby file?
 
