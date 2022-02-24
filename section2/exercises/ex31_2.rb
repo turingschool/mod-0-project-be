@@ -215,9 +215,17 @@ if answer.to_i >= 1 && answer.to_i <=9
           puts "We had better get to teaching, or learning, if we want this to work."
           puts "Or, rather, if we want there to be a chance."
         elsif intention == "3"
-          puts
+          puts "A wholesome adventure in a realm of your creation?"
+          puts "I see you're big into escapism."
+          puts "I know of a few shows and things tht deal with that theme."
+          puts "Ah, but uh... yes. Your adventure. It would be a very personal experience, wouldn't it?"
+          puts "You take your staff, and you rip time and space open in the shape of a portal."
+          puts "You take the first few steps through, and the portal closes behind you."
+          puts "You were never seen again."
         else
-          puts
+          puts "A giant tentacle reaches out of the portal, wraps around you, and drags you in."
+          puts "Your screams are heard for only a moment before the portal shuts."
+          puts "If only you knew how to folow the rules. Tsk."
         end
       elsif place == "3"
         puts "Please set your intentions. Do you intend to..."
@@ -228,13 +236,36 @@ if answer.to_i >= 1 && answer.to_i <=9
         print "> "
         intention = $stdin.gets.chomp
         if intention == "1"
-          puts
+          puts "You have the best staff in all the land!"
+          puts "Everyone works hard, but is never burnt out. Why?"
+          puts "Because you, the magic manager of these magic staff, make sure they are taken care of!"
+          puts "You know everyone's strengths and weaknesses, their goals and aversions."
+          puts "And you help them grow! You encourage their vacations, and celebrate their wins!"
+          puts "All the other business people are jealous of your staff."
+          puts "But you know that your staff depend on you as much as you depend on them."
+          puts "And you know they are only magic because you helped them grow."
+          puts "Good job. :)"
         elsif intention == "2"
-          puts
+          puts "You really are the worst."
+          puts "You saw a magic staff, and you tried to exploit them, didn't you?"
+          puts "Look into their dead eyes and tell me it was worth it."
+          puts "You're probably filling in for their actual manager, aren't you?"
+          puts "They're on vacation? Well I hope you get the ass chewing of a lifetime when they get back."
+          puts "Shame on you."
         elsif intention == "3"
-          puts
+          puts "You and your magic staff are going on an adventure!"
+          puts "No, it's not a pizza party."
+          puts "Nope, you, magical manager, managed to get a company credit card."
+          puts "And you're taking you magic staff on a 'team building retreat.'"
+          puts "To Disney World."
+          puts "Are you, the manager, going to be fired for not clearing this outing with the higher ups?"
+          puts "Absolutely."
+          puts "Will your magic staff invoke your name with a wistful twinkle in their eyes for the rest of time?"
+          puts "Absolutely."
+          puts "Carry on, you freaking legend."
         else
-          puts
+          puts "You have no clue what mega business is, do you?"
+          puts "Well, you'll never get to find out, if you don't follow the rules of the game."
         end
       else
         puts "#{place} was not an option. The game ends here." % place
