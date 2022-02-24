@@ -171,11 +171,23 @@ if answer.to_i >= 1 && answer.to_i <=9
             puts "In the end the world is saved, and most of them live. Congratulations."
             puts "You're not very nice."
           elsif intention == "2"
-            puts
+            puts "The little creatures cannot read all the languages you can."
+            puts "It took longer to get the creatures to the monastary than it would have to finish it yourself."
+            puts "Their handwriting is obviously different than yours."
+            puts "This wasn't a very good plan."
+            puts "In fact, this was the most arduous way to be lazy I've ever seen."
+            puts "The creatures seem to like it here, though."
+            puts "At least some good came out of this whole debaucle."
           elsif intention == "3"
-            puts
+            puts "I'm not sure how wholesome of an adventure you wanted."
+            puts "You already said you would be taking advantage of smaller creatures."
+            puts "So, the only wholesome thing that could happen is for the authorities to be called."
+            puts "And you're in luck! I have called the authorities. They'll be here any minute."
+            puts "Me and these little critters are going to get ice cream."
+            puts "And you can't come."
           else
-            puts
+            puts "Oh, don't grow a conscience now."
+            puts "Was your decision to take advantage of creatures smaller than you not everything you hoped it would be?"
           end
       elsif place == "2"
         puts "Please set your intentions. Do you intend to..."
@@ -186,9 +198,22 @@ if answer.to_i >= 1 && answer.to_i <=9
         print "> "
         intention = $stdin.gets.chomp
         if intention == "1"
-          puts
+          puts "Statistically speaking, a random realm is not easy to take over."
+          puts "What kinds of creatures live there? Is there even oxygen to breathe?"
+          puts "Perhaps the weather, or ambient temperature is completely inhospitable?"
+          puts "You've had the staff for what, two minutes? And you created a whole realm?"
+          puts "I'm sure it's completely safe and 100% not a hell-scape."
+          puts "Congrats! You're the ruler of the surface of a star, or the core of a planet."
+          puts "Enjoy ruling over some place you can never visit."
         elsif intention == "2"
-          puts
+          puts "Awe, well that's a great intention."
+          puts "I didn't know you had extensive medical knowledge!"
+          puts "... oh. You don't? Well, this is awkward."
+          puts "We'll just have to hope someone in the realm does, then."
+          puts "..."
+          puts "Okay, so I found some creatures, but none of them speak any human languages."
+          puts "We had better get to teaching, or learning, if we want this to work."
+          puts "Or, rather, if we want there to be a chance."
         elsif intention == "3"
           puts
         else
