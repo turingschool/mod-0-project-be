@@ -12,7 +12,7 @@ if answer.to_i >= 1 && answer.to_i <=9
   puts "1. Sword "
   puts "2. Magic Staff"
   puts "3. Bow and quiver"
-  puts "4. Just my wit ;)"
+#  puts "4. Just my wit ;)"
 
   print "> "
   gear = $stdin.gets.chomp
@@ -110,7 +110,7 @@ if answer.to_i >= 1 && answer.to_i <=9
             puts "But the wolves do. You can hear them now, howling."
             puts "Say, they're getting closer. How well can you use that sword?"
             puts "... Well, at least no one saw that. And you get to keep your seat up here."
-            puts "Sort of. But the thin air isn't a probablem if you're not breathing!"
+            puts "Sort of. But the thin air isn't a problem if you're not breathing!"
             puts "Silver linings."
           elsif intention == "2"
             puts "The thing about ancient evils is they're ancient."
@@ -140,9 +140,9 @@ if answer.to_i >= 1 && answer.to_i <=9
             puts "Standing there looking silly, and vaguely threatening."
           end
         else
-          puts "#{place} was not an option. The game ends here." % place
+          puts "#{place} was not an option. The game ends here."
           puts "Your heroic tale ended before it began."
-          puts "'#{place}'. Jeez..." % place
+          puts "'#{place}'. Jeez..."
         end
     elsif gear == "2"
       puts "A magic staff! Intriguing. Where will you venture off to?"
@@ -268,9 +268,9 @@ if answer.to_i >= 1 && answer.to_i <=9
           puts "Well, you'll never get to find out, if you don't follow the rules of the game."
         end
       else
-        puts "#{place} was not an option. The game ends here." % place
+        puts "#{place} was not an option. The game ends here."
         puts "Your heroic tale ended before it began."
-        puts "'#{place}'. Jeez..." % place
+        puts "'#{place}'. Jeez..."
       end
     elsif gear == "3"
       puts "A bow! So skillful, where will your travels take you?"
@@ -280,15 +280,102 @@ if answer.to_i >= 1 && answer.to_i <=9
 
       print "> "
       place = $stdin.gets.chomp
-    elsif gear == "4"
-      puts "My, my... so clever. Where are you taking this 'wit'?"
-      puts "1. To the dumbest kingdom I can find."
-      puts "2. To the greatest libraries in all the land."
-      puts "3. To parties, duh."
+      if place == "1"
+        puts "Please set your intentions. Do you intend to..."
+        puts "1. relax, surrounded by woodland critters?"
+        puts "2. hack out a living alone in the woods?"
+        puts "3. just have a good wholesome adventure?"
 
-      print "> "
-      place = $stdin.gets.chomp
+        print "> "
+        intention = $stdin.gets.chomp
+          if intention == "1"
+            puts "I don't see how a bow and quiver were necessary to take a nap in the meadow."
+            puts "But hey, you do you. You certainly are surrounded by woodland critters."
+            puts "I mean, they live here. And as you drift off to the birdsong, you forgot one thing."
+            puts "They live here."
+            puts "And you're trespassing."
+            puts "Your eyes snap open in time with a snapping twig."
+            puts "It's dark now, no moon in the sky. How long did you sleep?"
+            puts "How will you get home in the dark? This wasn't a responsible idea."
+            puts "You take your phone out, and shine the light around you, trying to figure out how to get home."
+            puts "There are multiple sets of flashing yellow eyes squinting at you from the edge of the woods."
+            puts "You turn off the light. Take a deep breath. Close your eyes."
+            puts "Some things are better not to see coming."
+          elsif intention == "2"
+            puts "It's difficult, but you manage to fashion a knife out of some spare arrowheads."
+            puts "You build a ramshackle little shelter, and are able to survive for a while."
+            puts "Food isn't an issue at first, but your arrow supply is dwindling fast."
+            puts "You're unable to chop wood, and you can't fish well with the arrows."
+            puts "A person, who had also been living alone in the woods, finds you one day."
+            puts "You're filthy, hungry, and clutching your bow in shaking hands."
+            puts "Luckily, they're a nice person, and help you."
+            puts "At their base, they explain all the things you did wrong, and urge you to go back to a town or city."
+            puts "I hope you listened to their advice, the sores from the bowstring on your arm seemed infected."
+          elsif intention == "3"
+            puts "You set out from the meadow, bent on having an adventure with your bow and arrows."
+            puts "Deeper into the woods, you find a stream, and some small waterfalls."
+            puts "You bound across the rocks to the other side, and try your hand at climbing trees."
+            puts "All the while, you're humming your own theme music."
+            puts "You're not very good at climbing trees, but that's okay. It's fun anyway."
+            puts "You fire your bow, aiming at tree stumps and fruit hanging fat on some branches."
+            puts "It can't be wholesome if you kill anything, silly."
+            puts "After a long day of running through the forest and scraping your knees on tree bark, you head back."
+            puts "Warm at home in your bed, with a belly full of fruit, you decide to go again tomorrow."
+            puts "Who knows, with enough practice, maybe you can climb those trees?"
+            puts "Maybe you can shoot the fruit down on the first shot?"
+            puts "Rest well, you've got another busy day tomorrow. :)"
+          else
+            puts "A bow is pretty intimidating to use."
+            puts "Kind of lame to back out now, though."
+          end
+      elsif place == "2"
+        puts "Please set your intentions. Do you intend to..."
+        puts "1. defend the castle from an invading foe?"
+        puts "2. sneak about the castle walls as a master assassin?"
+        puts "3. Just have a good wholesome adventure?"
 
+        print "> "
+        intention = $stdin.gets.chomp
+        if intention == "1"
+          puts
+        elsif intention == "2"
+          puts
+        elsif intention == "3"
+          puts
+        else
+          puts
+        end
+      elsif place == "3"
+        puts "Please set your intentions. Do you intend to..."
+        puts "1. bring about the fall of the crooked emporer?"
+        puts "2. compete in a weird game show fr the right to live?"
+        puts "3. Just have a good wholesome adventure?"
+
+        print "> "
+        intention = $stdin.gets.chomp
+        if intention == "1"
+          puts
+        elsif intention == "2"
+          puts
+        elsif intention == "3"
+          puts
+        else
+          puts
+        end
+      else
+        puts "#{place} was not an option. The game ends here."
+        puts "Your heroic tale ended before it began."
+        puts "'#{place}'. Jeez..."
+      end
+#    elsif gear == "4"
+#      puts "My, my... so clever. Where are you taking this 'wit'?"
+#      puts "1. To the dumbest kingdom I can find."
+#      puts "2. To the greatest libraries in all the land."
+#      puts "3. To parties, duh."
+#
+#      print "> "
+#      place = $stdin.gets.chomp
+#
     else
       puts "If you don't wanna play right, you don't get to play."
       puts "And it's a real shame, there was some fun to be had here."
