@@ -1,3 +1,6 @@
+# Please note that the game I made will be under ex31_2.rb
+# The game was very long, and needed it's own file for clarity
+
 puts "You enter a dark room with two doors. Do you go through door #1 or door #2?"
 
 print "> "
