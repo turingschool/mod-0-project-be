@@ -152,6 +152,70 @@ if answer.to_i >= 1 && answer.to_i <=9
 
       print "> "
       place = $stdin.gets.chomp
+      if place == "1"
+        puts "Please set your intentions. Do you intend to..."
+        puts "1. Have the smaller creature risk life and limb for the continent?"
+        puts "2. Have the smaller creatures finish your shift at the monastary?"
+        puts "3. Just watch a good wholesome adventure?"
+
+        print "> "
+        intention = $stdin.gets.chomp
+          if intention == "1"
+            puts "You're a little evil, I'm not gonna lie."
+            puts "I know not everything is black and white, but you're definately a strong grey."
+            puts "You head to a settlement of smaller creatures, and you brought some medium creatures with you."
+            puts "You and your party interupt the smaller creatures meal time, and proceed to impose yourselves upon them."
+            puts "You take advantage of their good hospitality and trick them into coming with you."
+            puts "Off you go! On a grand quest to save the realm, where you're never in any real danger."
+            puts "But these creatures. Hoo boy, these creatures are often in real danger."
+            puts "In the end the world is saved, and most of them live. Congratulations."
+            puts "You're not very nice."
+          elsif intention == "2"
+            puts
+          elsif intention == "3"
+            puts
+          else
+            puts
+          end
+      elsif place == "2"
+        puts "Please set your intentions. Do you intend to..."
+        puts "1. become ruler of the portal realm?"
+        puts "2. find a cure for sickness and disease within the realm?"
+        puts "3. Just have a good wholesome adventure?"
+
+        print "> "
+        intention = $stdin.gets.chomp
+        if intention == "1"
+          puts
+        elsif intention == "2"
+          puts
+        elsif intention == "3"
+          puts
+        else
+          puts
+        end
+      elsif place == "3"
+        puts "Please set your intentions. Do you intend to..."
+        puts "1. train your magic staff based on their strengths?"
+        puts "2. overwork your magic staff until they are no longer magical?"
+        puts "3. Just have a good wholesome adventure?"
+
+        print "> "
+        intention = $stdin.gets.chomp
+        if intention == "1"
+          puts
+        elsif intention == "2"
+          puts
+        elsif intention == "3"
+          puts
+        else
+          puts
+        end
+      else
+        puts "#{place} was not an option. The game ends here." % place
+        puts "Your heroic tale ended before it began."
+        puts "'#{place}'. Jeez..." % place
+      end
     elsif gear == "3"
       puts "A bow! So skillful, where will your travels take you?"
       puts "1. A quiet meadow"
