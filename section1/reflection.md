@@ -26,7 +26,8 @@ animal = "Zebra"
 puts animal
 ```
 
-7. What is interpolation? Use interpolation to print a sentence using the variable `animal`. \
+7. What is interpolation? Use interpolation to print a sentence using the variable `animal`. 
+\
 
 Interpolation adds variables within a string.  It is useful when you want to get some input from a user, and use that in the output.
 ```
