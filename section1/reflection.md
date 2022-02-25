@@ -7,25 +7,25 @@ I tend to do both. I ask questions before looking up the answer myself, and also
 print "Hello World!"
 
 3. What character is used to indicate comments in a ruby file?
- # hash or pound
+#### # hash or pound
 
 4. Explain the difference between an integer and a float?
-Integer is a whole number (2). Float has a decimal point (2.0)
+#### Integer is a whole number (2). Float has a decimal point (2.0)
 
 5. In the space below, create a variable `animal` that holds the string `"zebra"`
-animal = "zebra"
+#### animal = "zebra"
 
 6. How would you print the string `"zebra"` using the variable that you created above?
-p animal
+#### p animal
 
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
-Interpolation is used to stick the data stored in a variable inside of a string.
-animal = "zebra"
-p "Look over there! There's a #{animal} crossing the road!"
+#### Interpolation is used to stick the data stored in a variable inside of a string.
+#### animal = "zebra"
+#### p "Look over there! There's a #{animal} crossing the road!"
 
 8. What method is used to get input from a user?
-gets.chomp
+#### gets.chomp
 
 9. Name and describe two common string methods:
-The .length method tells you how many characters (including spaces) are in the string.
-The .split method separates the string into different strings every time it encounters a space, or defined character such as a ",".
+#### The .length method tells you how many characters (including spaces) are in the string.
+#### The .split method separates the string into different strings every time it encounters a space, #### or defined character such as a ",".
