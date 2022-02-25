@@ -6,7 +6,8 @@ learning can come in all shapes and sizes, and failing / retrying things, is a g
 ```
 
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
-```I like to experiment.  I don't mind getting things wrong.
+```
+I like to experiment.  I don't mind getting things wrong.
 One way that I do not is that if I "think" I get a concept, i tend to half ass the rest of the problem.  learning by repititon is a powerful thing.
 ```
 
