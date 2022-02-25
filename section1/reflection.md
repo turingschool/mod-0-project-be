@@ -40,4 +40,5 @@ gets.chomp is an example
 ```
 
 9. Name and describe two common string methods:
-\.length and .sub seem pretty common
+\
+.length and .sub seem pretty common
