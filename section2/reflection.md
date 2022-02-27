@@ -16,7 +16,7 @@
 > - If there is noise or light, I can't sleep.
 
 4. Why might you want to use an if-statement?
-> - To respond to input from the user. e.g. When logging in, if a password is incorrect the conditional will return a "Forgot password?" link.
+> To respond to input from the user. e.g. When logging in, if a password is incorrect the conditional will return a "Forgot password?" link.
 
 5. What is the Ruby syntax for an if statement?
 ```
@@ -54,4 +54,6 @@ today = Tuesday
   else
     puts "Try again."
   end
+
+
 ```
