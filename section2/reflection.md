@@ -12,18 +12,23 @@
 
 * A conditional statement tells the computer to execute certain actions given certain conditions are met.
 * EX 1.
-``
+```
 if 1 == 1
   puts "Of course 1 equals 1!"
-end ``
-* EX 2. ``
+end
+```
+* EX 2.
+```
 if variable == "yes"
   puts "Yes? yes to what? I haven't asked a question in this example."
-end ``
-* EX 3. ``
+end
+```
+* EX 3.
+```
 if var <= 5 || var >= 25
  puts "There is either too much or too little or that."
-end ``
+end
+````
 
 4. Why might you want to use an if-statement?
 
