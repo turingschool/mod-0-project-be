@@ -14,7 +14,7 @@ I usually wait too long. I enjoy the satisfaction of finding things out on my ow
 
 4. Explain the difference between an integer and a float?
 
-integers are whole numbers and floats have a decimal point (ex 1 is an integer and 0.1 is a float)
+Integers are whole numbers and floats have a decimal point (ex 1 is an integer and 0.1 is a float)
 
 5. In the space below, create a variable `animal` that holds the string `"zebra"`
 
