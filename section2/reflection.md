@@ -21,11 +21,11 @@ example 3 - if i smell bad, go ahead and shower my man, otherwise, you are ready
 4. Why might you want to use an if-statement? <br>
 We would use an if statement if we want to have the user give input
 
-5. What is the Ruby syntax for an if statement?
-if variable equals xxx, do this (note this does not include nested ifs, or else statements)
+5. What is the Ruby syntax for an if statement? <br>
+If variable equals xxx, do this (note this does not include nested ifs, or else statements)
 
-6. How do you add multiple conditions to an if statement?
-you can use either the and (&&) or the or (||) to have multiple conditions in an if statement
+6. How do you add multiple conditions to an if statement? <br>
+You can use either the and (&&) or the or (||) to have multiple conditions in an if statement
 
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
 ```
