@@ -114,27 +114,27 @@ p posts[0]
 # Then, print the email Array to the terminal.
 
 email_list = [
+  {
+   sender: "my mom",
+   recipient: "my brother",
+   subject: "please bring this for dinner",
+   paragraphs: 1,
+   signature: "thanks!"
+ },
  {
-  sender: "my mom",
-  recipient: "my brother",
-  subject: "please bring this for dinner",
-  paragraphs: 1,
-  signature: "thanks!"
-},
-{
-  sender: "my dad",
-  recipient: "me",
-  subject: "reminder to shut the garage door",
-  paragraphs: 1,
-  signature: "you dummy!"
-},
-{
-  sender: "my brother",
-  recipient: "my mother",
-  subject: "can you help me fix the toilet",
-  paragraphs: 6,
-  signature: "I'm the dummy!!"
-}
+   sender: "my dad",
+   recipient: "me",
+   subject: "reminder to shut the garage door",
+   paragraphs: 1,
+   signature: "you dummy!"
+ },
+ {
+   sender: "my brother",
+   recipient: "my mother",
+   subject: "can you help me fix the toilet",
+   paragraphs: 6,
+   signature: "I'm the dummy!!"
+ }
 ]
 
 print email_list
