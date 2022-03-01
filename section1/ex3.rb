@@ -32,5 +32,5 @@ puts "Is it greater or equal? #{5 >= -2}"
 puts "Is it less or equal? #{5 <= -2}"
 puts 20.0 / 6
 
-#this will return 2
+#this will return 2 mod 5 which is 2
 puts 2 % 5
