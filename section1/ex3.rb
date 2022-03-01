@@ -1,7 +1,7 @@
 puts "I will now count my chickens:"
 
 # divides 30 by 6 to equal 5 and then adds 25 to it to equal 30
-puts "Hens #{25 +30 / 6}"
+puts "Hens #{25 + 30 / 6}"
 # this takes 25 * 3, equaling 75, and then performs a "mod 4" on it, dividing it by 4 and returning the remainder. in this case that would return 3.  then it takes 100 - 3
 puts "Roosters #{100 - 25 * 3 % 4}"
 
@@ -18,7 +18,7 @@ puts 3 + 2 < 5 - 7
 #returns 3 plus 2, 5
 puts "What is 3 + 2? #{3 + 2}"
 #returns 5 minus 7, or -2
-puts "What is 5- 7? #{5 - 7}"
+puts "What is 5 - 7? #{5 - 7}"
 
 puts "Oh, that's why it's false."
 
