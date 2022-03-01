@@ -16,8 +16,8 @@ puts "There are only #{drivers} drivers available."
 puts "There will be #{cars_not_driven} empty cars today."
 puts "We can transport #{carpool_capacity} people today."
 puts "We have #{passengers} to carpool today."
-puts "we need to put about #{average_passengers_per_car} in each car"
+puts "We need to put about #{average_passengers_per_car} in each car"
 
 #the error happened because the first time zed did the program he forgot to put an equals sign. i believe...
 
-#if you use 4 as space in car, nothing will functionally change, but you will lose the decimal point after "we can transport 120 people today" deadline
+#if you use 4 as space in car, nothing will functionally change, but you will lose the decimal point after "we can transport 120 people today"
