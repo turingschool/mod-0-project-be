@@ -18,7 +18,7 @@ example 2 - if i am rich, donate, if i am super rich, become less rich, otherwis
 example 3 - if i smell bad, go ahead and shower my man, otherwise, you are ready to hit the tizzown
 ```
 
-4. Why might you want to use an if-statement?
+4. Why might you want to use an if-statement? /
 We would use an if statement if we want to have the user give input
 
 5. What is the Ruby syntax for an if statement?
