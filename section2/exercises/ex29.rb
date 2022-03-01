@@ -9,7 +9,7 @@ end
 
 
 if people > cats
-  puts "not many cats! The world is saved!"
+  puts "Not many cats! The world is saved!"
 end
 
 
