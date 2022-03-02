@@ -1,7 +1,7 @@
 ## Section 3 Reflection
 
 1. How different did your workflow feel this week, considering we asked you to follow the Pomodoro technique?
-> Breaking my work periods into small chunks of 30 min and taking breaks helped sustain my energy and focus this week. My workflow feels more manageable. 30min breaks with intentional 3-5 minute breaks is my sweet spot for not getting too distracted or too tired.
+>> Breaking my work periods into small chunks of 30 min and taking breaks helped sustain my energy and focus this week. My workflow feels more manageable. 30min breaks with intentional 3-5 minute breaks is my sweet spot for not getting too distracted or too tired.
 
 2. Regarding the work you did around setting intentions in Step 1 of the Pomodoro technique - how did that go? Were you surprised by anything (did you find yourself way more focused than you realized, more distracted that you thought you'd be, estimating times accurately or totally off, etc)?
 > Some exercises took longer than I expected and time seemed to fly by.
