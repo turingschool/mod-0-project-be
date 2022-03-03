@@ -1,6 +1,6 @@
 # In the below exercises, write code that achieves
 # the desired result. To check your work, run this
-# file by entering the following command in your terminal: 
+# file by entering the following command in your terminal:
 # `ruby section3/exercises/hashes.rb`
 
 # Example: Write code that prints a hash holding grocery store inventory:
@@ -8,24 +8,25 @@ foods = {apples: 23, grapes: 507, eggs: 48}
 p foods
 
 # Write code that prints a hash holding zoo animal inventory:
-zoo = #YOUR CODE HERE
+zoo = {giraffes: 3, flamingos: 12, zebras: 7}
 p zoo
 
-# Write code that prints all of the 'keys' of the zoo variable 
+# Write code that prints all of the 'keys' of the zoo variable
 # you created above:
-# YOUR CODE HERE
+p zoo.keys
 
-# Write code that prints all of the 'values' of the zoo variable 
+# Write code that prints all of the 'values' of the zoo variable
 # you created above:
-# YOUR CODE HERE
+p zoo.values
 
-# Write code that prints the value of the first animal of the zoo variable 
+# Write code that prints the value of the first animal of the zoo variable
 # you created above:
-# YOUR CODE HERE
+p "#{zoo[:giraffes]}"
 
-# Write code that adds an animal to the zoo hash. 
+# Write code that adds an animal to the zoo hash.
 # Then, print the updated hash:
-# YOUR CODE HERE
+zoo[:tigers] = 2
+p zoo
 
 
 #-------------------
@@ -38,17 +39,17 @@ p zoo
 
 # Declare a variable that stores hash. Each key should be an attribute of an email and each
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
-
+email = {recipient: "Ada", sender: "Mina", subject: "How do I use hashes in ruby?", time_sent: "2:15pm", received: true}
 # Write code that prints your email hash to the terminal.
+p email
 
-
-# Write code that prints all of the 'keys' of the email hash 
+# Write code that prints all of the 'keys' of the email hash
 # you created above:
-# YOUR CODE HERE
+p email.keys
 
-# Write code that prints all of the 'values' of the email hash 
+# Write code that prints all of the 'values' of the email hash
 # you created above:
-# YOUR CODE HERE
+p email.values
 
 
 #-------------------
@@ -68,7 +69,6 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 # for storing more complex data. Below, we can store multiple key-value pairs
 # that relate to each individual Instagram post:
 
-
 posts = [
   {
     image_src: "./images/beach.png",
@@ -76,7 +76,7 @@ posts = [
     timestamp: "4:37 PM August 13, 2019",
     number_likes: 0,
     comments: []
-  }, 
+  },
   {
     image_src: "./images/holiday-party.png",
     caption: "What a great holiday party omg",
@@ -90,12 +90,38 @@ p posts
 p posts[0]
 
 
-# The code snippet above shows an Array with 2 elements. Each element in the Array is a 
-# Hash. Each of those Hashes has 4 key-value pairs. This may LOOK 
+# The code snippet above shows an Array with 2 elements. Each element in the Array is a
+# Hash. Each of those Hashes has 4 key-value pairs. This may LOOK
 # a bit daunting - it's OK! You don't need to be 100% comfortable with this, but it's
 # good to have some exposure before going into Mod 1.
 
 
-# YOU DO: Create an array of at least 3 EMAIL Hashes, using the same 
+# YOU DO: Create an array of at least 3 EMAIL Hashes, using the same
 # key-value pairs you used in your email Hash above.
 # Then, print the email Array to the terminal.
+p "-" * 40
+emails = [
+  {
+    recipient: "Ada",
+    sender: "Mina",
+    subject: "How do I use hashes in ruby?",
+    time_sent: "2:15pm",
+    received: true
+  },
+  {
+    recipient: "Ben",
+    sender: "Edith",
+    subject: "Assignments",
+    time_sent: "3:47pm",
+    recieved: true,
+  },
+  {
+    recipient: "Chloe",
+    sender: "Zoey",
+    subject: "Pictures from the beach!",
+    time_sent: "4:22pm",
+    recieved: true,
+  }
+]
+
+p emails
