@@ -38,16 +38,21 @@ Gear Up is a part of our curriculum where we talk about topics such as privilege
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
 
-- [ ] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Back End curriculum site](https://backend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
-- [ ] Study/Project work time (usually about 25 hours/week outside of class time)
-- [ ] Personal, Health + Wellness
+- [x] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Back End curriculum site](https://backend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
+- [x] Study/Project work time (usually about 25 hours/week outside of class time)
+> Study/Project time on these calendars exists in the white space and on weekends. I work best with benchmarks to have things completed by a certain time, rather than dedicated blocks. (Benchmarks will be added to calendar once I know what projects are/contain)
+- [x] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 - `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- ![4thweekmarchmod1](https://user-images.githubusercontent.com/99222755/156617578-c59b8a3b-efd8-45c9-b651-9821eaf83517.PNG)
 
+- `Add Week 2 Screenshot Here`
+- ![3rdweekMarchmod1](https://user-images.githubusercontent.com/99222755/156617713-55c50f94-b083-403f-9085-81dbbb656151.PNG)
+
+- `Add Week 3 Screenshot Here`
+- ![Aprilweek1mod1](https://user-images.githubusercontent.com/99222755/156617779-ae92e4ec-8081-40eb-9d65-a77c8d821216.PNG)
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
