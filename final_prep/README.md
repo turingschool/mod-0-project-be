@@ -38,15 +38,20 @@ Gear Up is a part of our curriculum where we talk about topics such as privilege
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
 
-- [ ] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Back End curriculum site](https://backend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
-- [ ] Study/Project work time (usually about 25 hours/week outside of class time)
-- [ ] Personal, Health + Wellness
+- [✓] Standard Mod 1 class schedule (find the Mod 1 calendar [on the Back End curriculum site](https://backend.turing.edu/)). The detailed classes held on your actual start date may not yet be posted; you can look back at the previous inning to get a feel for what Weeks 1-3 will be like, but know it's not guaranteed to be exactly the same. Also, as you already know, class is held from 9-12 and 1-4MT, Monday-Friday.
+- [✓] Study/Project work time (usually about 25 hours/week outside of class time)
+- [✓] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+## Wweek 1
+<img src="https://user-images.githubusercontent.com/99001315/156846206-d0ceeb6a-63e3-449b-a786-bf7e9be7ac0c.png" width="100" height="100">
+
+## Week 2
+<img src="https://user-images.githubusercontent.com/99001315/156846320-de0e9bf5-e19f-42c8-9b7d-6f25c000ce83.png" width="100" height="100">
+
+## Week 3
+<img src="https://user-images.githubusercontent.com/99001315/156846474-59a7915d-b857-43c9-a664-6a09357c21f2.png" width="100" height="100">
 
 ## Mentorship Prep
 
