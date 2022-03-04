@@ -37,9 +37,9 @@ end
 
 
 
-# 1. if sets up if the statment will run
-# 2. according to google the code under the if needs to be indented to denote
+# 1. If sets up the variable for if the string will print
+# 2. According to google the code under the if needs to be indented to denote
 # the code block
-# 3. i tried to remove the indention but nothing changed but google says all
+# 3. I tried to remove the indention but nothing changed but google says all
 # the codes will run and the output will be different
-# 5. changing the initial value changes the output
+# 5. Changing the initial value changes what strings are printed

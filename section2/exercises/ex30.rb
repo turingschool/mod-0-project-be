@@ -3,7 +3,7 @@ cars = 40
 trucks = 15
 
 # cars is greater than people "We should take the cars" will print
-# if both if statements were false then "We can't decide" will print
+# if both if_statements were false then "We can't decide" will print
 if cars > people
   puts "We should take the cars."
 elsif cars < people
