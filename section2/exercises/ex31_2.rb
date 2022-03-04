@@ -1,3 +1,6 @@
+# In refactoring I added some white space between gear trees and after user input to try to help visually split them
+# indentations, variable nmes, conventions looked fine
+
 puts "Hello! We're going to play a little game."
 puts "Please answer my questions with a single digit number."
 puts "Are you ready?"
@@ -16,6 +19,7 @@ if answer.to_i >= 1 && answer.to_i <=9
 
   print "> "
   gear = $stdin.gets.chomp
+
     if gear == "1"
       puts "A sword! Aren't you scary? Where will you take this sword?"
       puts "1. On a pirate ship."
@@ -24,6 +28,7 @@ if answer.to_i >= 1 && answer.to_i <=9
 
       print "> "
       place = $stdin.gets.chomp
+
         if place == "1"
           puts "Please set your intentions. Do you intend to..."
           puts "1. Dominate the high seas?"
@@ -32,6 +37,7 @@ if answer.to_i >= 1 && answer.to_i <=9
 
           print "> "
           intention = $stdin.gets.chomp
+
             if intention == "1"
               puts "You wish to dominate the high seas?"
               puts "All you brought was a sword... it's not even close."
@@ -67,6 +73,7 @@ if answer.to_i >= 1 && answer.to_i <=9
 
           print "> "
           intention = $stdin.gets.chomp
+
           if intention == "1"
             puts "So, castles are well fortified and usually full of knights."
             puts "I don't know how to tell you this, so I'll just be blunt."
@@ -102,6 +109,7 @@ if answer.to_i >= 1 && answer.to_i <=9
 
           print "> "
           intention = $stdin.gets.chomp
+
           if intention == "1"
             puts "Alright, you are able to claim a seat at the top of this mountain."
             puts "It's really cold and windy, but it's yours."
@@ -144,6 +152,8 @@ if answer.to_i >= 1 && answer.to_i <=9
           puts "Your heroic tale ended before it began."
           puts "'#{place}'. Jeez..."
         end
+
+
     elsif gear == "2"
       puts "A magic staff! Intriguing. Where will you venture off to?"
       puts "1. On a quest to get smaller creatures to do all my work"
@@ -152,6 +162,7 @@ if answer.to_i >= 1 && answer.to_i <=9
 
       print "> "
       place = $stdin.gets.chomp
+
       if place == "1"
         puts "Please set your intentions. Do you intend to..."
         puts "1. Have the smaller creature risk life and limb for the continent?"
@@ -160,6 +171,7 @@ if answer.to_i >= 1 && answer.to_i <=9
 
         print "> "
         intention = $stdin.gets.chomp
+
           if intention == "1"
             puts "You're a little evil, I'm not gonna lie."
             puts "I know not everything is black and white, but you're definately a strong grey."
@@ -197,6 +209,7 @@ if answer.to_i >= 1 && answer.to_i <=9
 
         print "> "
         intention = $stdin.gets.chomp
+
         if intention == "1"
           puts "Statistically speaking, a random realm is not easy to take over."
           puts "What kinds of creatures live there? Is there even oxygen to breathe?"
@@ -235,6 +248,7 @@ if answer.to_i >= 1 && answer.to_i <=9
 
         print "> "
         intention = $stdin.gets.chomp
+
         if intention == "1"
           puts "You have the best staff in all the land!"
           puts "Everyone works hard, but is never burnt out. Why?"
@@ -272,6 +286,8 @@ if answer.to_i >= 1 && answer.to_i <=9
         puts "Your heroic tale ended before it began."
         puts "'#{place}'. Jeez..."
       end
+
+
     elsif gear == "3"
       puts "A bow! So skillful, where will your travels take you?"
       puts "1. A quiet meadow"
@@ -280,6 +296,7 @@ if answer.to_i >= 1 && answer.to_i <=9
 
       print "> "
       place = $stdin.gets.chomp
+
       if place == "1"
         puts "Please set your intentions. Do you intend to..."
         puts "1. relax, surrounded by woodland critters?"
@@ -288,6 +305,7 @@ if answer.to_i >= 1 && answer.to_i <=9
 
         print "> "
         intention = $stdin.gets.chomp
+
           if intention == "1"
             puts "I don't see how a bow and quiver were necessary to take a nap in the meadow."
             puts "But hey, you do you. You certainly are surrounded by woodland critters."
@@ -336,6 +354,7 @@ if answer.to_i >= 1 && answer.to_i <=9
 
         print "> "
         intention = $stdin.gets.chomp
+
         if intention == "1"
           puts "You fire very many arrows upon the encroaching forces."
           puts "None of them hit. You're brand new to the bow and you're just \nlucky you didn't hurt yourself."
@@ -381,6 +400,7 @@ if answer.to_i >= 1 && answer.to_i <=9
 
         print "> "
         intention = $stdin.gets.chomp
+
         if intention == "1"
           puts "You're literally a regular person. You don't even have any bow training."
           puts "At least you went about it the right way, building a team around yourself for your quest."
@@ -425,6 +445,8 @@ if answer.to_i >= 1 && answer.to_i <=9
         puts "Your heroic tale ended before it began."
         puts "'#{place}'. Jeez..."
       end
+
+
 #    elsif gear == "4"
 #      puts "My, my... so clever. Where are you taking this 'wit'?"
 #      puts "1. To the dumbest kingdom I can find."
