@@ -15,3 +15,12 @@ puts "The fifth animal is #{animals[4]}"
 puts "The animal at 2 is #{animals[2]}"
 puts "The sixth animal is #{animals[5]}"
 puts "The animal at 4 is #{animals[4]}"
+
+# 2010 is the 2010th year, because there was a year zero, so our 'year tracking' operates the same as an array index.
+
+fav_food = ["pickles", "sushi", "hard salami", "mushrooms", "avocados"]
+
+puts "In my food list, #{fav_food[2]} is my third entry."
+puts "The food at 4 is #{fav_food[4]}."
+puts "#{fav_food[1]} is second on the list."
+puts "The food at 0 is #{fav_food[0]}."
