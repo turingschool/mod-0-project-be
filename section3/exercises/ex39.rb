@@ -64,3 +64,27 @@ end
 city = cities['TX']
 city ||= 'Does Not Exist'
 puts "The city for the state 'TX' is: #{city}"
+
+puts '-' * 10
+#1.
+states = {
+  'Colorado' => 'CO',
+  'Nevada' => 'NV'
+}
+
+cities = {
+  'CO' => 'Denver',
+  'NV' => 'Reno'
+}
+
+puts "CO has #{cities['CO']}"
+puts "NV has #{cities['NV']}"
+
+states.each do |state, abbrev|
+  puts "#{state} is abbreviated #{abbrev}"
+end
+
+# 2.
+foods = {'eggs' => 12, 'bread' => 5, 'butter' => 2}
+puts foods.keys
+puts foods.fetch('bread')

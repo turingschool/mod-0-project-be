@@ -15,7 +15,7 @@ fruits.each do |fruit|
   puts "A fruit of type: #{fruit}"
 end
 
-# also we can go through mixed lists # too
+# also we can go through mixed lists too
 # not this is yet another sytle, exactly like aboce
 # but a different syntax (way to write it).
 change.each {|i| puts "I got #{i}"}
@@ -27,10 +27,10 @@ elements = []
 (0..5).each do |i|
   puts "adding #{i} to the list."
   # pushes the i variable on the *end* of the lists
-  elements.push(i)
+  elements.<<(i)
 end
 
-# now we cna print them out # too
+# now we can print them out too
 elements.each {|i| puts "Element was: #{i}"}
 
 # 1. the range operator creates a sequence between two values (a..z) or (1..50)
