@@ -46,7 +46,7 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 
 - ![Image 3-4-22 at 12 23 PM](https://user-images.githubusercontent.com/99003546/156837161-18d46d7b-7f07-4878-b6af-f56bca46416d.jpg)
 - ![C5147885-5438-424D-9540-9CC3183D52ED](https://user-images.githubusercontent.com/99003546/156837267-915957c4-b7ca-409c-89af-7b881bc47192.jpeg)
-- `Add Week 3 Screenshot Here`
+- ![B449EF8F-65F1-4976-A1B9-620016101A3E](https://user-images.githubusercontent.com/99003546/156837413-cc7c1531-1334-4936-9647-aa7ec9af3eaa.jpeg)
 
 ## Mentorship Prep
 
