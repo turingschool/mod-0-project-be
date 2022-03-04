@@ -46,7 +46,7 @@ else
 end
 
 # this line says if the number of cars plus the number
-# of trucks exceeds the number of people, then
+# of trucks is less than the number of people, then
 if cars + trucks < people
 # Print this line to the console
   puts "Why did we invite so many people?"
