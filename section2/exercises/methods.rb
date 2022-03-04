@@ -29,7 +29,9 @@ def y(number)
 end
 
 puts y(3)
+
 puts y(5)
+
 puts y(-1)
 
 # Write a method that takes in two strings as arguments and prints
@@ -41,7 +43,9 @@ def tough(tough1, tough2)
 end
 
 tough("up", "out")
+
 tough("on", "off")
+
 tough("strong", "weak")
 
 

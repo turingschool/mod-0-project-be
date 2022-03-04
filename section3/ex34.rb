@@ -17,10 +17,17 @@ animals = ['bear', 'ruby', 'peacock', 'kangaroo', 'whale', 'platypus']
 # The animal at index 4 is the 5th animal and is whale.
 
 puts "#{animals[1]}"
+
 puts "#{animals[2]}"
+
 puts "#{animals[0]}"
+
 puts "#{animals[3]}"
+
 puts "#{animals[4]}"
+
 puts "#{animals[2]}"
+
 puts "#{animals[5]}"
+
 puts "#{animals[4]}"
