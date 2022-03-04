@@ -23,7 +23,3 @@ end
 9.times do
 p 5 + 7
 end
-
-9.times do
-  5 + 7
-end

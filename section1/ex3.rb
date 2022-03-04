@@ -1,18 +1,28 @@
+# this will print the string "I will now count my chickens:"
 puts "I will now count my chickens:"
-# #{} this will do the math
+# #{} this will solve the equation and print the string "Hens 30"
 puts "Hens #{25 + 30 / 6}"
+# #{} this will solve the equation and print the string "Roosers 97"
 puts "Roosters #{100 - 25 * 3 % 4}"
+# this will print the string "Now I will count the eggs:"
 puts "Now I will count the eggs:"
+# this will solve the equation and print the answer as 7
 puts 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 +6
-# thiw will answer the question as false
-puts "Is it true that 3 +2 < 5 - 7?"
+# this will print the string "Is it true that 3 + 2 < 5 - 7?"
+puts "Is it true that 3 + 2 < 5 - 7?"
+# this will solve the equation and print the boolean as false
 puts 3 + 2 < 5 - 7
-# "will show the math #{} will solve the math"
+# this will print the string "What is 3 + 2? #{} will solve it and print 5"
 puts "What is 3 + 2? #{3 + 2}"
+# this will print the string "What is 5 -7? #{} will solve it and print -2"
 puts "What is 5 - 7? #{5 - 7}"
+# this will print the string "Oh, that's why it's false."
 puts "Oh, that's why it's false."
+# this will print the string "How about some more."
 puts "How about some more."
-#Will solve the question
+# this will print the string "Is it greater? #{} will solve it and print the boolean as true"
 puts "Is it greater? #{5 > -2}"
+# this will print the string "Is it greater or equal? #{} will solve it and print the boolean as true"
 puts "Is it greater or equal? #{5 >= -2}"
+# this will print the string "Is it less or equal? #{} will solve it and print the boolean as false"
 puts "Is it less or equal? #{5 <= -1}"

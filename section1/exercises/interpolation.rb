@@ -30,10 +30,7 @@ p "In a predictable result, the #{slow_poke} beat the #{speedy}!"# YOUR CODE HER
 # about what you name the variables. Remember, the goal is to be concise but
 # descriptive (it's a hard balance!) Then, print ONE sentence that incorporates
 # all THREE variables.
-# I'm a very strong believer in listening and learning from others
 muscle = "strong"
 receiving = "listening"
 information = "learning"
 p "I'm a very #{muscle} believer in #{receiving} and #{information} from others."
-
-# YOUR CODE HERE
