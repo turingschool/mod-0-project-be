@@ -20,15 +20,15 @@ def number_of_apples(apples)
 end
 ```
 4. Why might you want to use an if-statement?
-An if statement can check a variable for a specific answer or a range
+An if statement can check a variable for a specific answer or a range.
 
 5. What is the Ruby syntax for an if statement?
-if (conditional) then (code)
+`if (conditional) then (code)`
 
 6. How do you add multiple conditions to an if statement?
-Use elsif and else
+Use elsif for any specific additional if statements and else for anything else.
 
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
-if (conditional) do (code)
+`if (conditional) do (code)
 elsif (conditional) do (code)
-else do (code)
+else do (code)`
