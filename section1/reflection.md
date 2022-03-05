@@ -15,7 +15,7 @@
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 * Interpolation is an assigned variable added to a string
 * `animal = 'zebra'`
-* `puts "My favorite animal is the #{animal}."``
+* `puts "My favorite animal is the #{animal}."`
 8. What method is used to get input from a user?
 * `gets.chomp`
 9. Name and describe two common string methods:
