@@ -7,7 +7,7 @@
 3. What is a Hash, and how is it different from an Array?
 * A hash allows you to index anything and create an association from one thing to another and an array is an ordered index of any objects.
 4. In the space below, create a Hash stored to a variable named `pet_store`.  This hash should hold an inventory of items and the number of that item that you might find at a pet store.
-* `pet_store = {'dog food' => 5, 'cat toy' => 10, 'dog bone' => 8}``
+* `pet_store = {'dog food' => 5, 'cat toy' => 10, 'dog bone' => 8}`
 5. Given the following `states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}`, how would you access the value `"Iowa"`?
 * `puts states['IA']``
 6. With the same hash above, how would we get all the keys?  How about all the values?
