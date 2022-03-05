@@ -3,7 +3,7 @@
 ### Reflections
 
 1. What are your reflections from the video?
--
+- I am not surprised
 
 2. In what ways have you examined your implicit biases before coming to Turing?
 -
