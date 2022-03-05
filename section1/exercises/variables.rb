@@ -47,7 +47,7 @@ puts "#{first_name}, #{is_hungry}, #{number_of_pets}"
 # Re-assign the values to the three variables from the previous challenge to
 # different values (but same data type).
 # Print all three variables to the terminal.
-first_name["Sage"]= "Sega"
+first_name["Sage"]= "Sabine"
 number_of_pets = number_of_pets + 1
 if number_of_pets == 2
   is_hungry = true
