@@ -9,15 +9,15 @@
 4. Explain the difference between an integer and a float?
 * An integer is a whole number and a float has a decimal point
 5. In the space below, create a variable `animal` that holds the string
-* animal = "zebra"
+* `animal = "zebra"``
 6. How would you print the string `"zebra"` using the variable that you created above?
-* puts "#{animal}"
+* `puts "#{animal}"``
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 * Interpolation is an assigned variable added to a string
-* animal = 'zebra'
+* `animal = 'zebra'`
 * puts "My favorite animal is the #{animal}."
 8. What method is used to get input from a user?
-* gets.chomp
+* `gets.chomp`
 9. Name and describe two common string methods:
-* .length this shows how many characters are in the string
-* .split cuts the string wherever there is a space in the characters
+* `.length` this shows how many characters are in the string
+* `.split` cuts the string wherever there is a space in the characters
