@@ -15,7 +15,7 @@
 5. What is the Ruby syntax for an if statement?
 - `if temp > 100
   puts "It is really hot outside!"
-end`
+- end`
 6. How do you add multiple conditions to an if statement?
 - You can add elsif or else
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
@@ -26,4 +26,4 @@ elsif temp == 75
   puts "It is warm outside"
 else temp <= 20
   puts "It is cold outside"
-end'
+end`
