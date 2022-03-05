@@ -7,23 +7,23 @@
 * I tend to be good at problem solving but it takes me too long to ask for help when I need it.
 3. What is a conditional statement? Give three examples.
 * A conditional statement controls the conditional instructions.
-* if the outside temp is 100 it is really hot outside
-* if the outside temp is 75 it is warm outside
-* if the outside temp is 20 it is cold outside
+* `if the outside temp is 100 it is really hot outside`
+* `if the outside temp is 75 it is warm outside`
+* `if the outside temp is 20 it is cold outside`
 4. Why might you want to use an if-statement?
 * To run the right statement based on the information inputed
 5. What is the Ruby syntax for an if statement?
-if temp > 100
+`if temp > 100
   puts "It is really hot outside!"
-end
+end`
 6. How do you add multiple conditions to an if statement?
 * You can add elsif or else
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
-outside_temp = 100
+`outside_temp = 100
 if temp >= 100
   puts "It is really hot outside"
 elsif temp == 75
   puts "It is warm outside"
 else temp <= 20
   puts "It is cold outside"
-end
+end`
