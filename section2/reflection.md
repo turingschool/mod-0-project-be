@@ -20,10 +20,10 @@
 - You can add elsif or else
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
 - `outside_temp = 100
-if temp >= 100
-  puts "It is really hot outside"
-elsif temp == 75
-  puts "It is warm outside"
-else temp <= 20
-  puts "It is cold outside"
-end`
+- if temp >= 100
+-  puts "It is really hot outside"
+- elsif temp == 75
+-  puts "It is warm outside"
+- else temp <= 20
+-  puts "It is cold outside"
+- end`
