@@ -11,7 +11,7 @@
 5. In the space below, create a variable `animal` that holds the string
 * `animal = "zebra"`
 6. How would you print the string `"zebra"` using the variable that you created above?
-* `puts "#{animal}"``
+* `puts "#{animal}"`
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 * Interpolation is an assigned variable added to a string
 * `animal = 'zebra'`
