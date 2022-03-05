@@ -33,4 +33,5 @@ else
   puts "Staying home was the right decision."
 end
 #Study Drills
-#1 elsif and else are extendign the if block, elsif conditionally and else if no other conditions are met
+#1
+#elsif and else are extendign the if block, elsif conditionally and else if no other conditions are met

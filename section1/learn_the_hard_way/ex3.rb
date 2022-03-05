@@ -20,6 +20,6 @@ puts "Oh, that's why it's false."
  puts "How about some more."
 #The following 3 lines ask seperate questions that each print
 #either true or falsem, determined by whether each is mathematically correct.
- puts "Is it greater? #{ 5.0 > -2.0}"
- puts "Is it greater or equal? #{5.0 >= -2.0}"
- puts "Is it less or equal? #{5.0 <= -2.0}"
+puts "Is it greater? #{ 5.0 > -2.0}"
+puts "Is it greater or equal? #{5.0 >= -2.0}"
+puts "Is it less or equal? #{5.0 <= -2.0}"
