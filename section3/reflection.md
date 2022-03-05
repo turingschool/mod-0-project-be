@@ -7,12 +7,12 @@
 3. What is a Hash, and how is it different from an Array?
 * A hash allows you to index anything and create an association from one thing to another and an array is an ordered index of any objects.
 4. In the space below, create a Hash stored to a variable named `pet_store`.  This hash should hold an inventory of items and the number of that item that you might find at a pet store.
-* pet_store = {'dog food' => 5, 'cat toy' => 10, 'dog bone' => 8}
+* `pet_store = {'dog food' => 5, 'cat toy' => 10, 'dog bone' => 8}``
 5. Given the following `states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}`, how would you access the value `"Iowa"`?
-* puts states['IA']
+* `puts states['IA']``
 6. With the same hash above, how would we get all the keys?  How about all the values?
-* puts states.keys
-* puts states.values
+* `puts states.keys`
+* `puts states.values`
 7. What is another example of when we might use a hash?  In your example, why is a hash better than an array?
 * You can use a hash to create a grocery list. this is better because I can find the value of a key if I don't know the location of the array
 8. What questions do you still have about hashes?
