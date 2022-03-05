@@ -99,13 +99,12 @@ p posts[0]
 # YOU DO: Create an array of at least 3 EMAIL Hashes, using the same
 # key-value pairs you used in your email Hash above.
 # Then, print the email Array to the terminal.
-p "-" * 40
 emails = [
   {
-    recipient: "Ada",
-    sender: "Mina",
-    subject: "How do I use hashes in ruby?",
-    time_sent: "2:15pm",
+    recipient: "Alexa",
+    sender: "Siri",
+    subject: "Secret Robot Plans",
+    time_sent: "4:34pm",
     received: true
   },
   {

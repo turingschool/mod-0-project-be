@@ -11,7 +11,6 @@ A hash is like an array but it stores key value pairs rather than being indexed 
 
 4. In the space below, create a Hash stored to a variable named `pet_store`.  This hash should hold an inventory of items and the number of that item that you might find at a pet store.
 ```ruby
-
 pet_store = {
   dog_food: 15,
   cat_food: 15,
@@ -20,7 +19,6 @@ pet_store = {
   cat_toys: 38,
   fish_tanks: 6,
 }
-
 ```
 
 5. Given the following `states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}`, how would you access the value `"Iowa"`?
