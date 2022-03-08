@@ -1,4 +1,4 @@
-# Mod 0 Project - Back End
+<!-- # Mod 0 Project - Back End
 
 This repository will guide you through the Mod 0 Project for the Back End program at Turing. **Read this page thoroughly** to understand the purpose and find the instructions for getting your project setup on your computer.
 
@@ -63,7 +63,7 @@ In this scenario, the [Turing GitHub account](https://github.com/turingschool) o
 
 Now that you have your own forked repository—which is _your_ Mod 0 Project—the next thing to do is *clone the repository* to your computer.
 
-Cloning is a Git operation that allows us to copy a remote Git repository to our local computer. In this case, we're cloning the Git repository from GitHub to your local computer. 
+Cloning is a Git operation that allows us to copy a remote Git repository to our local computer. In this case, we're cloning the Git repository from GitHub to your local computer.
 
 1. In YOUR project repository that you just forked, click on `Clone or Download`
 ![clone your copy](/images/be_step3.png)
@@ -155,4 +155,4 @@ The expectation by the end of Mod 0 is that you are _familiar_ with why and how 
 
 Each section's `README` will walk you through the steps you need to take to save your work.
 
-To start, in your Terminal, `cd` into the `section0` directory. Follow the instructions contained in the `README.md` file, and have a great time learning and exploring!
+To start, in your Terminal, `cd` into the `section0` directory. Follow the instructions contained in the `README.md` file, and have a great time learning and exploring! -->
