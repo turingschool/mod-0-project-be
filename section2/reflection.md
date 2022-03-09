@@ -20,7 +20,8 @@ until
 To decide whether a certain statement or block of statements is executed or not.  
 
 5. What is the Ruby syntax for an if statement?  
-```if x == y  
+```  
+if x == y  
   puts "yes"    
 end  
 ```
