@@ -10,23 +10,23 @@ I do not demonstrate a growth mindset when I hesitate to ask questions.
 
 3. What is a conditional statement? Give three examples.  
 A conditional statement is used to perform a certain set of instructions if a specified condition is met.  
-`if/else    
+```if/else    
 unless    
-until`
+until```
 
 4. Why might you want to use an if-statement?  
 To decide whether a certain statement or block of statements is executed or not.  
 
 5. What is the Ruby syntax for an if statement?  
-`if x == y  
+```if x == y  
   puts "yes"    
-end `
+end ```
 
 6. How do you add multiple conditions to an if statement?  
 By adding `elsif` & `else`.  
 
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:  
-`x = 2  
+```x = 2  
 y = 2  
 if x > y  
   puts "yes"  
@@ -34,4 +34,4 @@ elsif x < y
   puts "no"  
 else  
   puts "maybe"  
-end`
+end```
