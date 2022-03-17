@@ -15,8 +15,9 @@ Section 2 is estimated to take a total of 8-12 hours to complete. Similar to Sec
 
 This section will introduce a number of new terms, that may feel a bit more complex. Write these terms in that special spot in your notebook now. Work to hold yourself accountable to updating definitions _as you work through this section_.
 
-- if statements
-- method
+- if statements: conditional statements that tell a computer what to do in certain situations; help a computer know how to "make decision"
+- method: a preprogrammed procedure that is performed on an object/variable, causes given behavior (ex: moving, deleting, changing name, etc.)
+- conditional: making decisions based on if statement commands
 
 ## Get Set Up
 
@@ -55,7 +56,7 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 ## Vocabulary
 
-Look back at that special spot in your notebook for vocabulary. Hopefully you updated it with definitions, diagrams, and code samples as you went through this section. If not, do so now. This will be part of this sections deliverables.
+Look back at that special spot in your notebook for vocabulary. Hopefully you updated it with definitions, diagrams, and code samples as you went through this section. If not, do so now. This will be part of this section's deliverables.
 
 ## Reflections
 

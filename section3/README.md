@@ -14,11 +14,11 @@ Since Arrays are a bigger topic, it is the main focus of this section. Some revi
 
 ## Vocabulary
 
-- Array
-- element
-- Hash
-- key
-- value
+- Array: data structure that contains a collection of elements (values); organization: ordinally, the key is just a number from 0
+- element: each individual value or variable within an array
+- Hash: data structure that associates keys with values, similar to an array but used to create complex keys and contain different types of data together (such as different types of information about a person)
+- key: name for/attached to a value; can be used as shorthand to store information
+- value: piece of information associated with a key
 
 ## Get Set Up
 

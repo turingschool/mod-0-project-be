@@ -28,16 +28,16 @@ Here's what we ask you do:
 
 ### Vocabulary
 
-- command: asking the computer to run something
-- directory: a folder that may contain other folders or files
-- code comments: using a pound to add a comment or render code inactive
-- String: anything in quotations, something that can be exported/put in plain language
-- Number: an integer or floating point number
-- Boolean: type of logic pertaining to and/or/not statements and true/false
-- variable: anything that can be defined
+- command: asking the computer to run something; an instruction given to an application to perform a certain task or function
+- directory: a folder/collection that may contain other folders or files, used to organize
+- code comments: using a pound to annotate code/add a comment, can also be used to render code inactive
+- String: a variable that is a sequence of characters (such as a word, sentence) in quotations; something that can be exported/put in plain language
+- Number: an integer or floating point value
+- Boolean: type of logic pertaining to and/or/not statements and has only two possible outputs/variables: true/false
+- variable: anything that can be defined within a code, used to store and label information
 - assignment operator: used to assign a new value to a variable
-- variable re-assignment: changing the value of a pre-existing variable
-- string interpolation: referencing variables within a string
+- variable re-assignment: changing the value of a pre-existing variable, allows variable to hold different values at different times
+- string interpolation: referencing variables within a string; replaces placeholder with full corresponding value
 
 ## Part A: Asking Questions
 
