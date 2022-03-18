@@ -12,7 +12,7 @@
     ```
 
 3. What character is used to indicate comments in a ruby file?
-    #
+    Comments are indicated with '#''
 
 4. Explain the difference between an integer and a float?
       **Float contains decimal points such as 20.3 where as integers do not contain decimal points.**
