@@ -8,12 +8,14 @@
 
 
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+
 **I believe I show a Growth Mindset in my decision to go back to school to learn coding.  I value education and learning and throughout my life, I have continuously sought opportunities to grow and acquire new skills.  I switched from teaching high school to working as IT support because I wanted to get my foot in the door in the tech world.**
 
 **I have limited myself to one employer and one geographic area which has kept my mindset fixed in terms of the work environment and culture I experienced.  I hope that by learning new technology skills, I am able to find another employer and culture to work within so that I continue to learn and grow outside of my past experiences.**
 
 
 3. What is a conditional statement? Give three examples.
+
 **A conditional statement checks whether a given condition is true or false and takes action if the condition is met (true).**
 
 **Example 1**
