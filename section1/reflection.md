@@ -7,17 +7,20 @@
     **I will need to ensure I follow the 20-30 minute rule whereby if I can't figure something out on my own in that time length, I reach out for assistance.**
 
 2. How would you print the string `"Hello World!"` to the terminal?
-    '''puts '"Hello World!"'
+    '''ruby
+    puts '"Hello World!"'
     '''
 
 3. What character is used to indicate comments in a ruby file?
-    '''  # '''
+    '''ruby
+    #
+    '''
 
 4. Explain the difference between an integer and a float?
       **Float contains decimal points such as 20.3 where as integers do not contain decimal points.**
 
 5. In the space below, create a variable `animal` that holds the string `"zebra"`
-'''
+'''ruby
     animal = "zebra"
 '''
 6. How would you print the string `"zebra"` using the variable that you created above?
