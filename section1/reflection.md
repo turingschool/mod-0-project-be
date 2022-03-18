@@ -7,34 +7,37 @@
     **I will need to ensure I follow the 20-30 minute rule whereby if I can't figure something out on my own in that time length, I reach out for assistance.**
 
 2. How would you print the string `"Hello World!"` to the terminal?
-    '''ruby
+    ```ruby
     puts '"Hello World!"'
-    '''
+    ```
 
 3. What character is used to indicate comments in a ruby file?
-    '''ruby
+  ```ruby
     #
-    '''
+    ```
 
 4. Explain the difference between an integer and a float?
       **Float contains decimal points such as 20.3 where as integers do not contain decimal points.**
 
 5. In the space below, create a variable `animal` that holds the string `"zebra"`
-'''ruby
-    animal = "zebra"
-'''
+```ruby
+animal = "zebra"
+```
 6. How would you print the string `"zebra"` using the variable that you created above?
-'''
+```ruby
     puts zebra
-'''
+```
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
     **Interpolation is when a variable is substituted into a string.**
 
     **Example:**
-    '''puts "The #{animal} ran away very quickly." '''
+    ```ruby
+    puts "The #{animal} ran away very quickly.```
 
 8. What method is used to get input from a user?
-    '''gets.chomp'''
+  ```ruby
+  gets.chomp
+  ```
 
 9. Name and describe two common string methods:
     **str.upcase converts each character of a string to uppercase
