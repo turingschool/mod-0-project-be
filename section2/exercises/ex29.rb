@@ -28,5 +28,5 @@ if people <= dogs
 end
 
 if people == dogs
-  puts "People are dogs."
+  puts  "People are dogs."
 end
