@@ -21,7 +21,7 @@
   elsif weather == 'icy'
     p "yak traks"
   else
-    p "good to go!"
+    p  "good to go!"
   end
 
 # Experiment with manipulating the value held in variable 'weather'
