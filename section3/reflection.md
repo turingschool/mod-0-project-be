@@ -10,12 +10,12 @@ My workflow felt very different this week. Taking short breaks about every 45min
 A hash is a non order collection of key-value pairs.  It is like an array except indexing is done by arbitrary keys instead of integers.
 
 4. In the space below, create a Hash stored to a variable named `pet_store`.  This hash should hold an inventory of items and the number of that item that you might find at a pet store.  
-`pet_store = {
-  "dog_food" => 10,
-  "cat_food" => 12,
-  "chew_toy" => 3,
-  "cat_liter" => 5,
-  "hamster" => 6
+`pet_store = {  
+  "dog_food" => 10,  
+  "cat_food" => 12,  
+  "chew_toy" => 3,  
+  "cat_liter" => 5,  
+  "hamster" => 6  
 }`
 
 5. Given the following `states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}`, how would you access the value `"Iowa"`?
