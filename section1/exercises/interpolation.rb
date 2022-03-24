@@ -24,7 +24,7 @@ slow_poke = "tortoise"
 speedy = "hare"
 
 sentence2 = "In a predictable result, the #{slow_poke} beat the #{speedy}!"
-
+puts sentence2
 
 # YOU DO:
 # Declare three variables, name/content/data type of your choice. Think carefully

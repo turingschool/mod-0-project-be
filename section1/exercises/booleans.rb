@@ -5,15 +5,20 @@
 
 # EXAMPLE: print to the terminal the result of 1 is equal to 2:
 p 1 === 2
+# print false
 
 # EXAMPLE: print to the terminal the result of 7 is greater than 2:
 p 7 > 2
+# print true
 
 # YOU DO: print to the terminal the result of "hello" is equal to "Hello":
-hello = "Hello"
-puts hello
+p "hello" === "Hello"
+# print false because h != H
+
 # YOU DO: print to the terminal the result of 3 is not equal to 4:
-puts 3 != 4
+p 3 != 4
+# print true
+
 # YOU DO: print to the terminal the result of 4 is less than or equal to 5:
-4 <= 5
-puts "#{4 <= 5}"
+p 4 <= 5
+# print true

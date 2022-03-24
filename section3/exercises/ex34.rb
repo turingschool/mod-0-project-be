@@ -1,6 +1,6 @@
 # array practice
-animals = ['bear', 'ruby', 'peacock', 'kangaroo', 'whale', 'platypus']
-# 1. animal at 1: should be ruby
+animals = ['bear', 'rabbit', 'peacock', 'kangaroo', 'whale', 'platypus']
+# 1. animal at 1: should be rabbit
 puts animals[1]
 # 2. third animal: should be peacock
 puts animals[2]

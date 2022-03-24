@@ -45,7 +45,7 @@ puts "#{first_name + is_hungry} and has #{number_of_pets} pets."
 
 # I decided to use strings for the first two data types because they are
 # supposed to convey meaningful information in plain English, and I chose
-# numbers for the last variable to be able to plug a simple integer into the
+# numbers for the last variable to be able to plug a simple integer in for the
 # printed output.
 
 # YOU DO:
@@ -53,8 +53,8 @@ puts "#{first_name + is_hungry} and has #{number_of_pets} pets."
 # different values (but same data type).
 # Print all three variables to the terminal.
 first_name = "Inigo Montoya "
-is_hungry = "is not hungry"
-number_of_pets = 3
+is_hungry = "is very, very hungry"
+number_of_pets = 200
 puts "#{first_name + is_hungry} and has #{number_of_pets} pets."
 
 # YOU DO:

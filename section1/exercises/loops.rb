@@ -19,6 +19,5 @@ end
   puts "She sells seashells down by the seashore"
 end
 
-
 # Write code that prints the result of 5 + 7 a total of 9 times
 9.times {puts 5 + 7}

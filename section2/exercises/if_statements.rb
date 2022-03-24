@@ -22,16 +22,19 @@
     p "You should bring a coat."
   elsif weather == 'icy'
     p "You should bring yak traks."
+  elsif weather == 'cold'
+    p "You should bring a sweater."
   else
     p "You're good to go!"
   end
 
   print "> "
-  continue = gets.chomp
+  continue1 = gets.chomp
 
 # Experiment with manipulating the value held in variable 'weather'
 # to print something other than 'coat'
 
+# Done
 
 ##################
 # Using the num_quarters variable defined below, determine
@@ -64,7 +67,7 @@ else
 end
 
 print "> "
-continue = gets.chomp
+continue2 = gets.chomp
 
 #####################
 # Using the variables defined below, write code that will tell you

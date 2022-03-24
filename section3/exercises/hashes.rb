@@ -63,7 +63,7 @@ eli = {
   message: []
 }
 
-# email priority, perhaps better as an array...
+# email priority, likely better as an array...
 priority = {
   'None' => 0,
   'Low' => 1,
@@ -132,9 +132,10 @@ posts = [
   }
 ]
 
-#p posts
-#p posts[0]
-
+puts posts
+puts '-' * 10
+# puts posts[0]
+# puts '-' * 10
 
 # The code snippet above shows an Array with 2 elements. Each element in the Array is a
 # Hash. Each of those Hashes has 4 key-value pairs. This may LOOK

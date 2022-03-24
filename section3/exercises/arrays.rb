@@ -67,7 +67,7 @@ foods = ['Cake', 'Pie', 'Donut', 'Bagel', 'Zucchini', 'Avocado']
 # YOU DO: Write code below that will print the number of elements in the array of
 # foods from above.
 
-puts foods.count()
+puts foods.count
 
 puts '-' * 10
 
@@ -82,7 +82,7 @@ puts '-' * 10
 # YOU DO: Write code below that removes the last item of food from the foods array and
 # print the changed array to verify that item has been removed
 
-foods.pop()
+foods.pop
 puts foods
 
 puts '-' * 10
@@ -101,8 +101,6 @@ puts '-' * 10
 foods.shift()
 # or foods.delete_at(0)
 puts foods
-
-puts '-' * 10
 
 #-------------------
 # PART 3: Where are Arrays used?
