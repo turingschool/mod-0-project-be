@@ -32,7 +32,7 @@ puts "My favorite animal is the #{animal}."
 
 8. What method is used to get input from a user?
 
-`gets.chomp`
+`gets`
 
 9. Name and describe two common string methods:
 
