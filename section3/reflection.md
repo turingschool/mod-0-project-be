@@ -4,7 +4,7 @@
 My workflow felt very different this week. Taking short breaks about every 45min, allowed me to stay more focused for longer periods of time over all.
 
 2. Regarding the work you did around setting intentions in Step 1 of the Pomodoro technique - how did that go? Were you surprised by anything (did you find yourself way more focused than you realized, more distracted that you thought you'd be, estimating times accurately or totally off, etc)?  
-I am still having difficulty setting intentions.  None of them seem real.  I need to get better at picking intentions that ore more outside of my comfort zone. I am finding myself better at estimating times to complete tasks the more i use a stop watch to time my exercises.
+I am still having difficulty setting intentions.  None of them seem real.  I need to get better at picking intentions that are more outside of my comfort zone. I am finding myself better at estimating times to complete tasks the more I use a stop watch to time my exercises.
 
 
 3. What is a Hash, and how is it different from an Array?  
