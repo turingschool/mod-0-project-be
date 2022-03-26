@@ -70,18 +70,21 @@ end
 
 #Study Drills
 #New game
-
+#gets user name and assigns it to the variable "name"
 puts "Please enter your name."
 name = gets.chomp
 
+#gets user answer to "shall we play a game? and assigns it to the variable decision"
+#downcases decision to elimnate case problems with answer
 puts "Hello #{name}, shall we play a game? Y/N"
 decision = gets.chomp.downcase
 
-
+#if variable decision is equal to the string "y" then it clears the screen
+# and puts the game menu to the terminal
 if decision == "y"
   system "clear"
   puts "What would you like to play?"
-  puts "========================================"
+  puts "=" * 40
   puts "== 1. Tic Tac Toe                     =="
   puts "== 2. Checkers                        =="
   puts "== 3. Poker                           =="
@@ -89,29 +92,50 @@ if decision == "y"
   puts "== 5. Gorilla warefare                =="
   puts "== 6. Theater Wide Chemical Warefare  =="
   puts "== 7. Global Thermo Nuclear War       =="
-  40.times {print "="}
+  puts "=" * 40
 
+#gets input from the terminal and assigns the string to the variable game_choice
   game_choice = gets.chomp
 
+#puts tic tac toe reponse to the terminal if variable game_choice is equal
+#to the string "1"
   if game_choice == "1"
     puts "Tic Tac Toe 3 in a row. I win!"
+#puts Checkers reponse to the terminal if variable game_choice is equal
+#to the string "2"
   elsif game_choice == "2"
     puts "King me.  I win!"
+#puts poker reponse to the terminal if variable game_choice is equal
+#to the string "3"
   elsif game_choice ==  "3"
     puts "Royal Flush. I win!"
+#puts poker reponse to the terminal if variable game_choice is equal
+#to the string "4"
   elsif game_choice == "4"
     puts "Checkmate.  I win!"
+#puts gorillia Warefare reponse to the terminal if variable game_choice is equal
+#to the string "5"
   elsif game_choice == "5"
     puts "Bang Bang. I win"
+#puts chemical warefare reponse to the terminal if variable game_choice is equal
+#to the string "6"
   elsif game_choice == "6"
     puts "sssssssss. Cough Cough.  I win!"
+#puts nuclear reponse to the terminal if variable game_choice is equal
+#to the string "7"
   elsif game_choice == "7"
     puts "BOOM  I win!"
+#puts I do not understand response to the terminal if variable game_choise
+#is equal to any other string
   else
     puts "I do not understand.  Please try again."
   end
+#if variable decision is n puts "Sometimes the best choice is not to play at all."
+#to the terminal
 elsif decision == "n"
   puts "Sometimes the best choice is not to play at all."
 else
+# puts "input not recognized" to the terminal if any other string is assigned
+#to the variable decision
   puts "Input not recognized."
 end
