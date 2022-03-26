@@ -5,8 +5,8 @@
 
 # Example: Write code that saves your name to a variable and
 # prints what that variable holds to the terminal:
-name = "Chris Lyman"
-p name
+full_name = "Chris Lyman"
+p full_name
 
 # Write code that saves the string 'Dobby' to a variable and
 # prints what that variable holds to the terminal:
@@ -46,7 +46,7 @@ p number_of_pets
 
 # Explain.
 # I decided to use string for the first two variables as the answers were likly to be strings
-# and an integer for the lst one as it was likly to be an integer.
+# and an integer for the last one as it was likly to be a number.
 
 
 # YOU DO:
