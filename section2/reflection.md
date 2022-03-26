@@ -17,7 +17,7 @@ until
 ```
 
 4. Why might you want to use an if-statement?  
-To decide whether a certain statement or block of statements is executed or not.  
+To decide whether a certain statement or block of statements is executed or not. To make a decision.
 
 5. What is the Ruby syntax for an if statement?  
 ```  
