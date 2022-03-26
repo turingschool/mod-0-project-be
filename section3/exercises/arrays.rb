@@ -21,7 +21,7 @@ print animals
 
 # EXAMPLE: Write code below that will print "Zebra" from the animals array
 # YOUR CODE HERE
-print animals[0]
+puts animals[0]
 
 # YOU DO: Write code below that will print the number of elements in array of
 # animals from above.
@@ -88,6 +88,6 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 # may be storing data? Come up with 3 examples - they could be from different web applications or
 # all from the same one.
 
-# 1: Shutterfly
+# 1: Shutterfly (Previously seen pictures)
 # 2: Jefit (exercise routines)
 # 3: Amazon (previously seen items)
