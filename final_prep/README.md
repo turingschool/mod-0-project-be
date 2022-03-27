@@ -61,7 +61,6 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 - [x] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
   - [x] Add link to your gist here:[Mentorship DTR Prep Gist](https://gist.github.com/ChrisLyman/5288aaf22988753b22d674d4e566a263)
->>>>>>> b519af644f31b3285b0a63a84da28cab713b9304
 
 ## Lesson Prep
 
