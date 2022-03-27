@@ -43,8 +43,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 - [x] Personal, Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
-
-- `Add Week 1 Screenshot Here`
+  
+  Week 1 Calendar
+![Week 1 Calendar](https://user-images.githubusercontent.com/96599939/160292466-616f928e-0270-4e22-a039-9f5f3cb26430.png)
 - `Add Week 2 Screenshot Here`
 - `Add Week 3 Screenshot Here`
 
