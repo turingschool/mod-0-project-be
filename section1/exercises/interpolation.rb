@@ -3,7 +3,7 @@
 # file by entering the following command in your terminal:
 # `ruby section1/exercises/interpolation.rb``
 
-# Example: Write code that uses the variables below to form a string that reads
+# Example:  Write code that uses the variables below to form a string that reads
 # "The Chudley Cannons are Ron's favorite Quidditch team":
 name = "Ron"
 team = "Chudley Cannons"

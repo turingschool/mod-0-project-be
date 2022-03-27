@@ -3,7 +3,7 @@
 # file by entering the following command in your terminal:
 # `ruby section1/exercises/strings.rb`
 
-# Example: Write code that prints your name to the terminal:
+# Example:  Write code that prints your name to the terminal:
 p "Chris Lyman"
 
 # Write code that prints `Welcome to Turing!` to the terminal:

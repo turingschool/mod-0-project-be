@@ -3,7 +3,7 @@
 # file by entering the following command in your terminal:
 # `ruby section1/exercises/booleans.rb``
 
-# EXAMPLE: print to the terminal the result of 1 is equal to 2:
+# EXAMPLE:  print to the terminal the result of 1 is equal to 2:
 p 1 === 2
 
 # EXAMPLE: print to the terminal the result of 7 is greater than 2:
