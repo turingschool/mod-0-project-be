@@ -12,7 +12,7 @@ cars_not_driven = cars - drivers
 cars_driven = drivers
 # setting the variable "carpool_capacity equal to the number of cars driven timse the space in a car"
 carpool_capacity = cars_driven * space_in_a_car
-# setting the variable "average_passengers" equal to the number of passengers divided by the cars cars_driven
+# setting the variable  "average_passengers" equal to the number of passengers divided by the cars cars_driven
 average_passengers_per_car = passengers / cars_not_driven
 
 puts "There are #{cars} cars available."
