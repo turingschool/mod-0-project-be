@@ -28,6 +28,6 @@ Interpolation is the substition of code into a string using #{}.
 8. What method is used to get input from a user?  
 `gets.chomp`
 
-9. Name and describe two common string methods:    
+9. Name  and describe two common string methods:    
 `.length` is used to return a string length  
 `.split` needs an argument and splits a string at the arguments location returning an array of strings.
