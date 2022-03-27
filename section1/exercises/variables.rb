@@ -15,7 +15,8 @@ puts house_elf
 
 # Write code that saves the string 'Harry Potter must not return to Hogwarts!'
 # and prints what that variable holds to the terminal:
-# YOUR CODE HERE
+dobby_line = "Harry Potter must not return to Hogwarts!"
+puts dobby_line 
 
 # Write code that adds 2 to the `students` variable and
 # prints the result:
