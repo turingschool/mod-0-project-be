@@ -8,27 +8,33 @@
 name = "Ron"
 team = "Chudley Cannons"
 
-p "The #{team} are #{name}'s favorite Quidditch team"
+puts "The #{team} are #{name}'s favorite Quidditch team"
 
 # Write code that uses the variables below to form a string that reads
 # "The quick red fox jumped over the lazy brown dog":
 speedy = "quick red fox"
 slow_poke = "lazy brown dog"
 
-p # YOUR CODE HERE
+puts "The #{speedy} jumped over the #{slow_poke}"
 
 # Write code that uses the variables below to form a string that reads
 # "In a predictable result, the tortoise beat the hare!":
 slow_poke = "tortoise"
 speedy = "hare"
 
+puts "In a predictable result, the #{slow_poke} beat the #{speedy}!"
 # YOUR CODE HERE
 
 
 # YOU DO:
-# Declare three variables, name/content/data type of your choice. Think carefully 
-# about what you name the variables. Remember, the goal is to be concise but 
-# descriptive (it's a hard balance!) Then, print ONE sentence that incorporates 
+# Declare three variables, name/content/data type of your choice. Think carefully
+# about what you name the variables. Remember, the goal is to be concise but
+# descriptive (it's a hard balance!) Then, print ONE sentence that incorporates
 # all THREE variables.
 
 # YOUR CODE HERE
+lebowski= "Mr. Lebowski!"
+jeff_lebowski = "The Dude!"
+mr_lebowski = "I am not Mr. Lebowski!"
+
+puts "Let me explain something to you. #{mr_lebowski}, you are #{lebowski} I am #{jeff_lebowski}"
