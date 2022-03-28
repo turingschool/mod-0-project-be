@@ -24,3 +24,5 @@ if people > trucks
 else
   puts "Fine, let's stay home then."
 end
+
+#Changed the number of trucks and cars per the study drill. 
