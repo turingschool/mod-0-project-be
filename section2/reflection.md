@@ -7,12 +7,12 @@ Proximal development is an idea I hadn't thought about before. Learning and grow
 
 
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
-    
+3. 
 	I decided to go to Turing because I thought I would work better in this environment rather than a self taught one. I'd like to start setting specific measurable goals in my learning process which i'm not good about. 	
 
 
 3. What is a conditional statement? Give three examples.
-
+	
 	Conditional statements are snippets of code that depend on a variable being true or false.The most common conditional operators are == (equal), > (greater than), >= (greater than or equal to), < (less than), and <= (less than or equal to).
 
 ```def water_status(minutes)
@@ -49,8 +49,8 @@ end
 
 
 4. Why might you want to use an if-statement?
-
-If you ask a user for input, and you want to provide different responses based on what the user input is. 
+5. 
+	If you ask a user for input, and you want to provide different responses based on what the user input is. 
 
 5. What is the Ruby syntax for an if statement?
  ```if conditional [then]
@@ -63,17 +63,16 @@ end
 ```
 
 6. How do you add multiple conditions to an if statement?
-
-
- The ```&&``` operator lets you add multiple conditions to an if statement. 
+7. 
+	The ```&&``` operator lets you add multiple conditions to an if statement. 
  
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
 
-```if conditional [then]
-   code...
-[elsif conditional [then]
-   code...]...
-[else
-   code...]
-end
-```
+	```if conditional [then]
+   	code...
+	[elsif conditional [then]
+  	 code...]...
+	[else
+  	 code...]
+	end
+	```
