@@ -62,12 +62,21 @@ end
 
 # Experiment with manipulating the value held within both variables
 # to make sure all above conditions output what you expect.
+puts "I want to make a pizza!"
+puts "How many cups of flour do I have?"
+cups_of_flour = gets.to_i
 
-cups_of_flour = 2
-has_sauce = false
+puts "Do I have sauce? Y/N?"
+sauce = gets.chomp
+
+if sauce == "Y" || sauce == "y"
+  has_sauce = true
+else
+  has_sauce = false
+end
 
 if cups_of_flour == 1 || has_sauce == false
-  puts "I cannot make pizza"
+  puts "I cannot make pizza... 🥺️ "
 else
-  puts "I can make pizza"
+  puts "I can make pizza! 😍 "
 end

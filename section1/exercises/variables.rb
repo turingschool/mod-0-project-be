@@ -11,21 +11,21 @@ p name
 # Write code that saves the string 'Dobby' to a variable and
 # prints what that variable holds to the terminal:
 house_elf = "Dobby"
-# YOUR CODE HERE
+
 p house_elf
 # Write code that saves the string 'Harry Potter must not return to Hogwarts!'
 # and prints what that variable holds to the terminal:
-# YOUR CODE HERE
 danger = "Harry Potter must not return to Hogwarts!"
+
 # Write code that adds 2 to the `students` variable and
 # prints the result:
 students = 22
-# YOUR CODE HERE
+
 p students
 p students + 2
+
 # Write code that subracts 2 from the `students` variable and
 # prints the result:
-# YOUR CODE HERE
 p students - 2
 
 
@@ -33,14 +33,16 @@ p students - 2
 # Declare three variables, named `first_name`, `is_hungry` and `number_of_pets`.
 # Store the appropriate data types in each.
 # print all three variables to the terminal.
+
 first_name = "Brenna"
 is_hungry = true
-number_of_pets = 1
+num_of_pets = 1
 
-p "It's #{is_hungry} that #{first_name} is hungry, and she has #{number_of_pets} pets."
+p "It's #{is_hungry} that #{first_name} is hungry, and she has #{num_of_pets} pet."
+
 # IN WORDS:
 # How did you decide to use the data type you did for each of the three variables above?
-explanation = "A name is a string. 'Is hungry' is a yes or no (or true/false) question. Number of pets is an integer."
+explanation = "A name is a string. 'Is hungry' is a yes or no (or true/false; boolean) question. Number of pets is an integer."
 # Explain.
 p explanation
 
@@ -52,9 +54,7 @@ first_name = "Ned"
 is_hungry = false
 number_of_pets = 42
 
-p first_name
-p is_hungry
-p number_of_pets
+p first_name, is_hungry, number_of_pets
 
 # YOU DO:
 # Using the variables below, print the total number of snacks to the terminal:

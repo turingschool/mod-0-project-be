@@ -22,7 +22,9 @@ states.values
 
 7. What is another example of when we might use a hash?  In your example, why is a hash better than an array?
 You could use it as a way to store profile information for users.
-Hashes are maybe more versatile, but I wouldn't call them "better." Hashes make more sense for the way we access information as humans.They are capable of storing and easily accessing large amounts of data without having to worry about indices. I would suspect that this also reduces the size of the program since multiple objects and their values can be stored in a single variable.
+Hashes are maybe more versatile, but I wouldn't call them "better." Hashes are capable of storing and easily accessing large amounts of data without having to worry about indices. I would suspect that this also reduces the size of the program since multiple objects and their values can be stored in a single variable, but I could be wrong.
 
 8. What questions do you still have about hashes?
 How to .dig deep(ly nested values).
+
+...or fetch them. Either way getting to a deeply nested value seems tricky when they're within multiple hashes and arrays.

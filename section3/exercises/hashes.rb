@@ -43,16 +43,16 @@ zoo["rhino"] = 1
 email = {sender: "from@email.com", recipient: "to@email.com", subject: "hello world", sent_time: "1:00 PM EST", sent_date: "May 1, 2022"}
 
 # Write code that prints your email hash to the terminal.
-puts email
+p email
 
 # Write code that prints all of the 'keys' of the email hash
 # you created above:
 # YOUR CODE HERE
-puts email.keys
+p email.keys
 # Write code that prints all of the 'values' of the email hash
 # you created above:
 # YOUR CODE HERE
-puts email.values
+p email.values
 
 #-------------------
 # Part 3: Many Emails - OPTIONAL EXTENSION

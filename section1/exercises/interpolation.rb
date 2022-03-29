@@ -32,6 +32,6 @@ p "In a predictable result, the #{slow_poke} beat the #{speedy}!"
 # all THREE variables.
 
 show = "Formula 1: Drive to Survive"
-episodes = 40
-bingeing = true
-p "It's #{bingeing}, I've been bingeing all #{episodes} episodes of #{show}."
+num_eps = 40
+fact = true
+p "It's #{fact} - I've been bingeing all #{num_eps} episodes of #{show}."
