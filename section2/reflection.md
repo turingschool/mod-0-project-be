@@ -51,7 +51,25 @@ end
 4. Why might you want to use an if-statement?
 
 5. What is the Ruby syntax for an if statement?
+ ```if conditional [then]
+   code...
+[elsif conditional [then]
+   code...]...
+[else
+   code...]
+end
+```
 
 6. How do you add multiple conditions to an if statement?
-
+ The ```&&``` operator lets you add multiple conditions to an if statement. 
+ 
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
+
+```if conditional [then]
+   code...
+[elsif conditional [then]
+   code...]...
+[else
+   code...]
+end
+```
