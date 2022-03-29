@@ -50,6 +50,8 @@ end
 
 4. Why might you want to use an if-statement?
 
+If you ask a user for input, and you want to provide different responses based on what the user input is. 
+
 5. What is the Ruby syntax for an if statement?
  ```if conditional [then]
    code...
@@ -61,6 +63,8 @@ end
 ```
 
 6. How do you add multiple conditions to an if statement?
+
+
  The ```&&``` operator lets you add multiple conditions to an if statement. 
  
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
