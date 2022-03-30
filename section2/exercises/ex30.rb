@@ -22,7 +22,7 @@ end
 if trucks > cars
 # then print this string
   puts "That's too many trucks."
-#or if trucks is less than cars
+# or if trucks is less than cars
 elsif trucks < cars
 # then print this string
   puts "Maybe we could take the trucks."
@@ -62,7 +62,7 @@ end
 
 #1. The first condition of the if statement is printed if it is true. If it false
 # then the condition of elseif is considered. If it is true then it is printed. If the if and elsif
-# conditions are false then the code under else will printed. It makes it so no matter what a line
+# conditions are false then the code under else will be printed. It makes it so no matter what a line
 # of code will be printed.
 
 #2. I changed people = 35 , cars = 30 , trucks = 31. The results were:

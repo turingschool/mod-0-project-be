@@ -40,7 +40,7 @@ end
 # If it is false it will not print
 
 # 2. The indentation helps you see what block of code it belongs to. Lets the person looking at it know where
-#the line of code underneath the condition beings and ends.
+# the line of code underneath the condition beings and ends.
 
 # 3. If there is no indentation the code will still run as intended. I tried this and it still worked.
 # It does't work if you intend to have another block of code
@@ -58,4 +58,4 @@ if ep < lp
   puts "This record is an LP."
 end
 # 5. If the variables are changed then the string that satisfies the statement as true will print out. If
-#we changed people to 40 cats to 25 then the string "Not too many cats! The world is saved!" will print.
+# we changed people to 40 cats to 25 then the string "Not too many cats! The world is saved!" will print.

@@ -10,14 +10,14 @@
   # if it is snowy, print "coat"
   # if it is icy, print "yak traks"
 
-  weather = 'snowy'
+  weather = 'sunny'
 
   if weather == 'sunny'
     p "sunscreen"
   elsif weather == 'rainy'
     p "umbrella"
   elsif weather == 'snowy'
-    p "Beanie"
+    p "coat"
   elsif weather == 'icy'
     p "yak traks"
   else
