@@ -7,5 +7,5 @@ puts "I could have code like this." # and the comment after is ignored
 # puts "This won't run."
 
 puts "This will run."
-# octothrope tells Ruby to ignore anything after it when running your code.
+# octothrope - tells Ruby to ignore anything that comes after it when running your code.
 # Good for adding comments and troubleshooting lines of code

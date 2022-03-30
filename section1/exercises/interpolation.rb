@@ -34,4 +34,4 @@ p "In a predictable result, the #{slow_poke} beat the #{speedy}!"
 city = "Denver"
 concerts = 3
 venue = "Red Rocks"
-p "Last night in #{city} there was #{3} different concerts. I went to #{venue}."
+p "Last night in #{city} there were #{3} different concerts. I went to the one at #{venue}."

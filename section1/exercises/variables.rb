@@ -39,6 +39,7 @@ puts number_of_pets
 
 # IN WORDS:
 # How did you decide to use the data type you did for each of the three variables above?
+
 #string: a string tells the terminal to print a specific line of text, like a name or a sentence. Something a person could read.
 #boolean: the statement is_hungry can be represented as true or false.
 #number: integers are a number data type. We could also solve equations using numbers in Ruby
