@@ -8,24 +8,26 @@ foods = {apples: 23, grapes: 507, eggs: 48}
 p foods
 
 # Write code that prints a hash holding zoo animal inventory:
-zoo = #YOUR CODE HERE
+
+zoo = {penguins: 200, polar_bears: 4, giraffes:6}
 p zoo
 
 # Write code that prints all of the 'keys' of the zoo variable 
 # you created above:
 # YOUR CODE HERE
-
+puts zoo.keys.inspect
 # Write code that prints all of the 'values' of the zoo variable 
 # you created above:
-# YOUR CODE HERE
+puts zoo.values.inspect
 
 # Write code that prints the value of the first animal of the zoo variable 
 # you created above:
 # YOUR CODE HERE
-
+puts zoo.values[0]
 # Write code that adds an animal to the zoo hash. 
 # Then, print the updated hash:
-# YOUR CODE HERE
+zoo[:parakeets] = 12
+puts zoo
 
 
 #-------------------
@@ -40,15 +42,15 @@ p zoo
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
 
 # Write code that prints your email hash to the terminal.
-
+email = {sender: 1, subject: 1, CCs: 3, replies: 5, drafts: 1}
 
 # Write code that prints all of the 'keys' of the email hash 
 # you created above:
-# YOUR CODE HERE
+puts email.keys.inspect
 
 # Write code that prints all of the 'values' of the email hash 
 # you created above:
-# YOUR CODE HERE
+puts email.values.inspect
 
 
 #-------------------
@@ -99,3 +101,31 @@ p posts[0]
 # YOU DO: Create an array of at least 3 EMAIL Hashes, using the same 
 # key-value pairs you used in your email Hash above.
 # Then, print the email Array to the terminal.
+#email = {sender: 1, subject: 1, CCs: 3, replies: 5, drafts: 1}
+
+emails = [
+  {
+    sender: "testemail@test.com"
+    subject:"Last Week's Work"
+    CCs: "testemail2@test.com, testemail3@test.com"
+    replies: 5
+    drafts: 0
+  },
+  {
+    sender: "testemail4@test.com"
+    subject:"Next Week"
+    CCs: "testemail2@test.com", "testemail3@test.com", "testemail4@test.com"
+    replies: 6
+    drafts: 1
+  },
+  {
+    sender: "testemail4@test.com"
+    subject: "Pizza Party!"
+    CCs: "testemail2@test.com", "testemail3@test.com", "testemail4@test.com", "testemail@test.com"
+    replies: 15
+    drafts: 0
+  }
+
+]
+
+puts emails 
