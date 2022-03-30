@@ -45,9 +45,15 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
+**Note to instructional staff:**
+All three weeks are the same. As of right now I don't have any commitments to
+in the future. My weeks are more or less dedicated to Turing. Not sure what else I could add or adjust.
 - `Add Week 1 Screenshot Here`
+![Mod1W1](https://user-images.githubusercontent.com/36166420/160914609-22b66055-af9a-4ba6-a292-25f42e4c0b61.png)
 - `Add Week 2 Screenshot Here`
+![Mod1W2](https://user-images.githubusercontent.com/36166420/160914716-f4ceabdf-8390-4a1b-a236-e5686dcb9efe.png)
 - `Add Week 3 Screenshot Here`
+![Mod1W3](https://user-images.githubusercontent.com/36166420/160914797-6e805929-ac4d-4e65-9278-d1f4811c6cc2.png)
 
 ## Mentorship Prep
 
@@ -56,7 +62,7 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 - [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
   - [ ] Add link to your gist here:
-
+[Kevin's Mentor/Mentee response](https://gist.github.com/KevinT001/91c6c3513d741e0c325eea4ab0e844db)
 ## Lesson Prep
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
