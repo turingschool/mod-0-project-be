@@ -32,8 +32,7 @@ fruit.each do |fruits|
 end
 
 #Study Drill
-# 3. .at method - Allows you access a particular part of an elements.
-#    fetch - raise an error or provide a default value when an index is out of the array bounds.
+# 3. .at method - Allows you access a particular part of an element.
 #    first and last will return the respective elements of an array.
 #    Length tells you the number of elements in an array.
 #    push or << adds items to an array.

@@ -92,6 +92,6 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 # may be storing data? Come up with 3 examples - they could be from different web applications or
 # all from the same one.
 
-# 1: allrecipes.com - recipe = ["list of ingredients", "cooking instructions", "imagine of finished product"]
+# 1: allrecipes.com - recipe = ["list of ingredients", "cooking instructions", "image of finished product"]
 # 2: Buzzfeed.com - top_10 = ["ranking", "image", "body of text"]
-# 3: Ign.com - best_reviewed_games = ["video by reviewer", "images from game", "written review text", "review score"] 
+# 3: Ign.com - best_reviewed_games = ["video by reviewer", "images from game", "written review text", "review score"]
