@@ -23,9 +23,9 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
-- [ ] I have refactored my `section2` exercises to the best of my ability
-- [ ] I have refactored my `section3` exercises to the best of my ability
+- [ x] I have refactored my `section1` exercises to the best of my ability
+- [ x] I have refactored my `section2` exercises to the best of my ability
+- [ x] I have refactored my `section3` exercises to the best of my ability
 
 ## Gearing Up for Gear Ups
 
@@ -59,24 +59,25 @@ in the future. My weeks are more or less dedicated to Turing. Not sure what else
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
-- [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
-- [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here:
+- [ X] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
+- [X ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
+  - [ X] Add link to your gist here:
 [Kevin's Mentor/Mentee response](https://gist.github.com/KevinT001/91c6c3513d741e0c325eea4ab0e844db)
 ## Lesson Prep
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
-- [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+- [ x] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
+  - [ x] Add a link to your gist here:
+  [pre teach gist](https://gist.github.com/KevinT001/eb715fd5d2bbd4cc9b2eea64d194a81e)
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
-- [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here:
-
+- [ x] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
+  - [ x] Add a link to your gist here:
+[DTR gist](https://gist.github.com/KevinT001/279ff0e05dcbbbe669508b243f9bd9e6)
 ## Mod 0 Project Submission
 
 When you have completed *ALL* the activities described above, follow the steps below to submit your Mod 0 Project. _Note that the images may not match the exact names of repos and directories you have._
@@ -101,12 +102,26 @@ You can absolutely do both, but to do so successfully, **you need a plan**. We r
 What is your plan and how are you going to hold yourself to it? Specifically...
 
 - What are you going to work on?
+I will be reviewing the mod 0 material, definitely with arrays and hashes. The out of mod0 extension work will also be done.
+
 - What days are you going to work?
+I will try and dedicate 3 days a week to go over these materials. There is also a Ruby tutorial I plan on watching.
+[Ruby in 4 hours](https://www.youtube.com/watch?v=t_ispmWmdjY)
+
 - What times on those days are you going to work?
+Usually the times I like to work are from 1pm - 4pm
+
 - Where you going to be sitting/standing as you do this?
+I have a dedicate work space/ desk at home for this.
+
 - Where are you documenting this plan? Google Calendar, calendar on your wall, your journal?
+I use google calendar and a white board by my desk.
+
 - Do any stakeholders in your life know about this plan? (The answer needs to be yes by the time you answer this...)
+My girlfriend and I are in communication with our school work and family gatherings that usually happen on Sundays.
+
 - What personal items/events are important to you during this time? How are you going to make sure those are not neglected? (Hint, block time on the calendar for them!)
+Only major events happening are a wedding in September. My 2022 calendar for leisure is blocked off so I can focus on completing Turing school.
 
 ### Extensions
 
