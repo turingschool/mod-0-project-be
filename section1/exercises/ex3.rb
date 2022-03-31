@@ -29,3 +29,4 @@ puts "is it less or equal? #{5.0 <= -2.0}"
 #octothrope lines above
 
 puts "I ate 4 apples out of 5 how many do I have left? #{5.0 - 1.0}"
+#Refactor check
