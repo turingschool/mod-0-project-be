@@ -6,7 +6,7 @@ Congrats on making it to the Final Prep section of your Mod 0 Project! The work 
 - [Gearing Up for Gear Ups](#gearing-up-for-gear-ups)
 - [Mentorship Prep](#mentorship-prep)
 - [Group Work Prep](#group-work-prep)
-- [Time Management Prep](#time-management-prep)
+- [Time Management Prep](#time-management-prep-lesson-prep)
 - [Lesson Prep](#lesson-prep)
 - [Mod 0 Project Submission](#mod-0-project-submission)
 - [Next Steps](#next-steps)
@@ -52,7 +52,34 @@ As part of Turing's project-based learning approach, you will often be working i
     - [x]  Add a link to your gist here:
     - [x]  [https://gist.github.com/brennacodes/17bd871fe992a4e093e7758a0c701b17](https://gist.github.com/brennacodes/17bd871fe992a4e093e7758a0c701b17)
 
-## Time Management Prep
+## Time Management Prep & Lesson Prep
+
+*I've lumped these two sections together, as they are one and the same for me.* 
+
+Before Mod 0 started, I created a system to help ensure my success. I continue to maintain and improve this system as I progress through each session. Below is a bit about the system I use...
+
+#### Tools:
+1. [**Notion**](https://www.notion.so/)
+  - Notion is a powerful markdown editor that includes features like relational databases and an open API. 
+  - I use Notion as my primary "point of contact" for all things Turing, including:
+    + As a gathering place for all in-class lessons
+    + As a gathering place for anything assigned via Trello
+    + As a place to store and access vocabulary notes
+    + As a place to track any questions that arise
+    + As a task-managment/project tracking system
+    + As a calendar for important due dates
+    + As a way to track and access relevant contact information as it relates to Turing
+    + As a place to track and share resources I come across
+    + As a blog to help me review and remember new or important concepts as I learn them
+  - That's a lot of things, I know. I'll provide a glimpse into how this works for me further below.
+2. [**Rocketbooks**](https://getrocketbook.com/)
+  - Rocketbooks are reusable notebooks. You can write and erase as many times as you want on its pages, and each page is able to be uploaded or sent to a location or recipient of your choice. The scanning system itself can act as a table of contents of sorts. I also purchased some of their index cards, but later realized this was a waste of money when I found...
+3. [**Cardless**](https://apps.apple.com/us/app/cardless-future-of-credit/id1532270655)
+  - Cardless is an app that uses your phone's camera to scan any index card into your phone. You can save the index cards into categories however you see fit. It uses a spaced repetition system to aid learning, but it's mostly a way for me to study on-the-go if I'm waiting around somewhere.
+4. Index Cards!
+  - Sometimes low-tech is the best tech. Index cards help me reinforce new concepts and terminoligy. I have mine grouped into categories of "New," "Learning," and "Learned." This helps me know which cards I need to practice the most, and which ones I've successfully recalled the past few times I've gone over them. It also serves as a nice physical, visual reminder of how much I'm learning and how far I've come!
+
+
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
 
