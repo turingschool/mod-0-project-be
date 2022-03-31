@@ -22,3 +22,5 @@ kg = 'pounds'
 
 puts "1 #{cm} in centimeters is #{1 * 2.54}. "
 puts "1 #{kg} in kilograms is #{1 / 2.205}."
+
+#Refactor check
