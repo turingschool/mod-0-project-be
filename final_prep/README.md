@@ -58,7 +58,7 @@ As part of Turing's project-based learning approach, you will often be working i
 
 Before Mod 0 started, I created a system to help ensure my success. I continue to maintain and improve this system as I progress through each session. Below is a bit about the system I use...
 
-#### Tools:
+### Tools:
 1. [**Notion**](https://www.notion.so/)
   - Notion is a powerful markdown editor that includes features like relational databases and an open API. 
   - I use Notion as my primary "point of contact" for all things Turing, including:
