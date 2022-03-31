@@ -15,3 +15,5 @@ p "hello" == "Hello"
 p 3 != 4
 # YOU DO: print to the terminal the result of 4 is less than or equal to 5:
 p 4 <= 5
+
+#Refactor check 
