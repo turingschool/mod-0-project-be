@@ -43,4 +43,6 @@ elements.each {|i| puts "Element was: #{i}"}
 the_count = [1, 2, 3, 4, 5]
 the_count.each do |count|
   puts "This is the count #{count}"
-end 
+end
+
+#Refactor check 
