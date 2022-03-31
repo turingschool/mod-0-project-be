@@ -10,7 +10,7 @@
   # if it is snowy, print "coat"
   # if it is icy, print "yak traks"
 
-  weather = 'snowy'
+  weather = 'icy'
 
   if weather == 'sunny'
     p "sunscreen"
@@ -77,3 +77,5 @@ elsif cups_of_flour >= 2 and has_sauce == false
 elsif cups_of_flour <= 2 and has_sauce == false
   puts "I cannot make pizza"
 end
+
+#Refactor check 
