@@ -1,15 +1,15 @@
-#variables are being defined as numeric or text
+# variables are being defined as numeric or text
 types_of_people = 10
 x = "There are #{types_of_people} types of people."
 binary = "binary"
 do_not = "don't"
 y = "Those who know #{binary} and those who #{do_not}."
 
-#print value of "x and y"
+# print value of "x and y"
 puts x
 puts y
 
-#print value of variable x and y in sentences
+# print value of variable x and y in sentences
 puts "I said: #{x}."
 puts "I also said: '#{y}'."
 
@@ -31,3 +31,4 @@ puts w + e
 
 # Study Drills
 #done
+#Refactor check
