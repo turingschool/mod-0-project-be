@@ -93,3 +93,5 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 # 1: Netflix streaming uses arrays to categorize genres.
 # 2: Email applications use arrays for important emails, spam, contact lists, etc.
 # 3: Bank account/ statment. There are arrays/ lists of what type of spending you did,what is owed, deposits, withdrawals.
+
+#Refactor check 
