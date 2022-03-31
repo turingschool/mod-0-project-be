@@ -32,4 +32,6 @@ puts "The mouse looks similiar to a #{animal}."``
 
 9. Name and describe two common string methods:
 Concat string method : is when one string is joined to the end of another string.
-equals string method : a method to test if two objects are equal to each other. 
+equals string method : a method to test if two objects are equal to each other.
+
+refactor check
