@@ -11,12 +11,12 @@ p name
 # Write code that saves the string 'Dobby' to a variable and
 # prints what that variable holds to the terminal:
 house_elf = "Dobby"
-
+p house_elf
 
 # Write code that saves the string 'Harry Potter must not return to Hogwarts!'
 # and prints what that variable holds to the terminal:
 snape = "Harry Potter must not return to Hogwarts!"
-
+p snape
 # Write code that adds 2 to the `students` variable and
 # prints the result:
 students = 22
@@ -62,7 +62,7 @@ puts "The #{Kevin} student seems to eat #{always} with his pet #{one}."
 healthy_snacks = 6;
 junk_food_snacks = 8;
 
-p "#{healthy_snacks + junk_food_snacks}"
+p "The number of snacks is #{healthy_snacks + junk_food_snacks}"
 
 #-------------------
 # FINAL CHECK
@@ -70,5 +70,6 @@ p "#{healthy_snacks + junk_food_snacks}"
 
 # Did you run this file in your terminal to make sure everything printed out
 # to the terminal as you would expect?
-
 # Everything came out correct with no errors.
+
+#Refactor check 
