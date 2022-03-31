@@ -26,3 +26,4 @@ mood.each do |mood|
 
 puts "I am so #{mood}"
 end
+#Refacto check 
