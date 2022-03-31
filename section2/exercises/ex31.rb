@@ -71,9 +71,11 @@ elsif pokemon == "2"
   if Pikachu == "yes"
     puts "Time to shock the world! Let's go!"
   elsif Pikachu == "no"
-    puts "Rechoose?"
+    puts "Re-choose?"
   else
     puts "I guess you'll just have to be a researcher."
 
   end
 end
+
+#Refactor check 
