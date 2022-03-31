@@ -4,10 +4,10 @@ Congrats on making it to the Final Prep section of your Mod 0 Project! The work 
 
 - [Refactor Previous Work](#refactor-previous-work)
 - [Gearing Up for Gear Ups](#gearing-up-for-gear-ups)
-- [Time Management Prep](#time-management-prep)
 - [Mentorship Prep](#mentorship-prep)
-- [Lesson Prep](#lesson-prep)
 - [Group Work Prep](#group-work-prep)
+- [Time Management Prep](#time-management-prep)
+- [Lesson Prep](#lesson-prep)
 - [Mod 0 Project Submission](#mod-0-project-submission)
 - [Next Steps](#next-steps)
 
@@ -35,6 +35,23 @@ Gear Up is a part of our curriculum where we talk about topics such as privilege
   - [x] Add a link for your gist here:
   - [Link to my gist](https://gist.github.com/brennacodes/cc4fd4f1851eab748cb4fe10e85b92b4#reflect-2)
 
+## **Mentorship Prep**
+
+Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
+
+- [x]  [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
+- [x]  Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
+    - [x]  Add link to your gist here:
+    - [x]  [https://gist.github.com/brennacodes/f66d005169125b1449809b4499856566](https://gist.github.com/brennacodes/f66d005169125b1449809b4499856566)
+
+## **Group Work Prep**
+
+As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
+
+- [x]  Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
+    - [x]  Add a link to your gist here:
+    - [x]  [https://gist.github.com/brennacodes/17bd871fe992a4e093e7758a0c701b17](https://gist.github.com/brennacodes/17bd871fe992a4e093e7758a0c701b17)
+
 ## Time Management Prep
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
@@ -49,15 +66,6 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 - `Add Week 2 Screenshot Here`
 - `Add Week 3 Screenshot Here`
 
-## **Mentorship Prep**
-
-Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
-
-- [x]  [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
-- [x]  Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-    - [x]  Add link to your gist here:
-    - [x]  [https://gist.github.com/brennacodes/f66d005169125b1449809b4499856566](https://gist.github.com/brennacodes/f66d005169125b1449809b4499856566)
-
 ## **Lesson Prep**
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
@@ -65,14 +73,6 @@ You've learned a lot about how to take strong notes during Mod 0. Show us your s
 - [x]  Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
     - [x]  Add a link to your gist here:
     - [x]  [https://gist.github.com/brennacodes/c66fc3129bc72a598264c613d5cfe01a](https://gist.github.com/brennacodes/c66fc3129bc72a598264c613d5cfe01a)
-
-## **Group Work Prep**
-
-As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
-
-- [x]  Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-    - [x]  Add a link to your gist here:
-    - [x]  [https://gist.github.com/brennacodes/17bd871fe992a4e093e7758a0c701b17](https://gist.github.com/brennacodes/17bd871fe992a4e093e7758a0c701b17)
 
 ## Mod 0 Project Submission
 
