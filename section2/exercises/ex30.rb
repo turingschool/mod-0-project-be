@@ -7,13 +7,13 @@ trucks = 4
 if cars > people
   #If the car has a greater value then print the below statement.
   puts "We should take the cars."
-  #option 2 if cars has a lower value then people, print below statment.
+  #Option 2 if cars has a lower value then people, print below statment.
 elsif cars < people
   puts "We should not take the cars."
   #If none of the parameters are met above, print statement below.
 else
   puts "We can't decide."
-  #end block of code for elsif statements.
+  #End block of code for elsif statements.
 end
 
 #Similiar to block of code above.
@@ -37,3 +37,5 @@ end
 # Elsif is an option if a condition is met. While Else is if none of the conditions are met and that is the remaining option.
 
 #2) Changed numbers
+
+#Refactor check 
