@@ -23,12 +23,19 @@ slow_poke = "tortoise"
 speedy = "hare"
 
 # YOUR CODE HERE
-
+puts "In a predictable result, the #{slow_poke} beat the #{speedy}!"
 
 # YOU DO:
-# Declare three variables, name/content/data type of your choice. Think carefully 
-# about what you name the variables. Remember, the goal is to be concise but 
-# descriptive (it's a hard balance!) Then, print ONE sentence that incorporates 
+# Declare three variables, name/content/data type of your choice. Think carefully
+# about what you name the variables. Remember, the goal is to be concise but
+# descriptive (it's a hard balance!) Then, print ONE sentence that incorporates
 # all THREE variables.
 
 # YOUR CODE HERE
+trainer = "Ash Ketchum"
+pokemon = "Pikachu"
+attack = "Thunderbolt"
+
+puts "New comer #{trainer}, sent out #{pokemon}. The first move was #{attack}!"
+
+#Refactor check
