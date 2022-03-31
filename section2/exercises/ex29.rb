@@ -48,3 +48,5 @@ end
 #4) EX 27 was not in our lesson plan
 
 #25) If the intial values were changeed it could give different printed or ommited results.
+
+#Refactor check 
