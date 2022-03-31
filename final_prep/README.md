@@ -32,7 +32,7 @@ Take your time as you go back and refactor your exercises from each section. We'
 Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry. 
 
 - [X] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [X] Add a link for your gist here:[Nick Jones Gear Up Assignment] (https://gist.github.com/nlj77/ef76b149c0b933ee199211df5844e664)
+  - [X] Add a link for your gist here: [Nick Jones Gear Up Assignment] (https://gist.github.com/nlj77/ef76b149c0b933ee199211df5844e664)
 
 ## Time Management Prep
 
