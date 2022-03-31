@@ -7,11 +7,11 @@ The flow of the work did seem to be a little less stressful with being able to w
 
 2. Regarding the work you did around setting intentions in Step 1 of the Pomodoro technique - how did that go? Were you surprised by anything (did you find yourself way more focused than you realized, more distracted that you thought you'd be, estimating times accurately or totally off, etc)?
 
-The task I wanted to focus on was working on the mod 0 project. With it being a lengthier project, I thought it would be good to try and implement the pomodoro technique and give myself some short breaks. I did find myself focused and less strain on my eyes from being in front a computer so long. It helped give me a breather to walk away for about 5-10 minutes.
+The task I wanted to focus on was working on the mod 0 project. With it being a lengthier project, I thought it would be good to try and implement the Pomodoro technique and give myself some short breaks. I did find myself focused and less strain on my eyes from being in front a computer so long. It helped give me a breather to walk away for about 5-10 minutes.
 
 3. What is a Hash, and how is it different from an Array?
 
-A hash is different from an array because it the items in the list have assigned numerical values.
+A hash is different from an array because it the items in the list have assigned numerical values. A Hash can also  in an array as well.
 
 4. In the space below, create a Hash stored to a variable named `pet_store`.  This hash should hold an inventory of items and the number of that item that you might find at a pet store.
 
@@ -42,3 +42,5 @@ A hash is better than an array due to it being more specific and informative on 
 8. What questions do you still have about hashes?
 
 Are there any specific times where hashes are not ideal or can not be used when trying to list out items and values?
+
+Refactor check 
