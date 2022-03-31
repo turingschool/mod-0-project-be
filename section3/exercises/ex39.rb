@@ -119,3 +119,5 @@ state = states ['Colorado']
 if !state
   puts "Brick... No Colorado."
 end
+
+#Refactor check
