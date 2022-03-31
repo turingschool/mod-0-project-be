@@ -42,13 +42,13 @@ end
 ```
 
 4. Why might you want to use an if-statement?
- You would want to use an "if-statement" if there can be a variety of answers/ outcomes depnding on the user input/ various conditions.
+ You would want to use an "if-statement" if there can be a variety of answers/ outcomes depending on the user input/ various conditions.
 
 5. What is the Ruby syntax for an if statement?
 
-if (conditions)
+``if (conditions)
   #statements
-  end
+  end``
 
 6. How do you add multiple conditions to an if statement?
 You would use multiple elsif
@@ -56,8 +56,10 @@ and else if none of the conditions are met.
 
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
 
-if (conditions)
+``if (conditions)
   #instructions
 else
   #instructions
-end
+elsif
+  #instructions
+end``
