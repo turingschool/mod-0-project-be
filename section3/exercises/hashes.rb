@@ -100,6 +100,25 @@ p posts[0]
 # YOU DO: Create an array of at least 3 EMAIL Hashes, using the same
 # key-value pairs you used in your email Hash above.
 # Then, print the email Array to the terminal.
-email = ["spam", "attachments", "contacts"]
+email = [
+  {
+  type: "spam",
+  sender: "Nigerian prince",
+  subject: "You have $10K waiting to be claimed! Hurry!"
+  },
+  {
+  type: "attachment",
+  sender: "Mistress",
+  subject: "Our little secret"
+  },
+  {
+  type: "important",
+  sender: "Employer",
+  subject: "Health insurance sign up"
+  }
+]
+
 print email
-print email [0]
+print email[1]
+
+#Refactor check
