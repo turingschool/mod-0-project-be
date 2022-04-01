@@ -36,7 +36,7 @@ end
         elsif leg2 == "1" && leg1 == "2" && opponent == "1"
           puts "You try but you can't catch Casper..punk!"
         elsif leg2 == "2" && leg1 == "2" && opponent == "1"
-          puts "You're out of turbo.  Casper punked you!'"
+          puts "You're out of turbo.  Casper punked you!"
       #ponyboy conditionals
         elsif leg2 == "1" && leg1 == "1" && opponent == "2"
           puts "You can't catch Ponyboy..sorry!"

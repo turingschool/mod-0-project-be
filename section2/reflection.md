@@ -23,7 +23,7 @@
 if pandas == 30
   puts "There are lots of pandas here."
 else
-  puts "Need more pandas"
+  puts "Need more pandas."
 end
 ```
 **Example 2**
