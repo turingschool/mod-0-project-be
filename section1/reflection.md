@@ -30,7 +30,8 @@ animal = "zebra"
 
     **Example:**
     ```ruby
-    puts "The #{animal} ran away very quickly.```
+    puts "The #{animal} ran away very quickly."
+    ```
 
 8. What method is used to get input from a user?
   ```ruby
