@@ -44,7 +44,7 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- [Week_1](https://user-images.githubusercontent.com/95776577/161319641-33c009ed-b03e-439c-8974-0befe96095f2.png)
+- [Week_1](https://user-images.githubusercontent.com/95776577/161320631-e07cfd4f-497e-4766-972d-a3f76310ac19.png)
 - [Week_2](https://user-images.githubusercontent.com/95776577/161319804-e20864a6-4679-4566-8748-e57322b0c62a.png)
 - [Week_3](https://user-images.githubusercontent.com/95776577/161319922-29d757c0-c44c-485a-a815-2c0d8fdff74e.png)
 
