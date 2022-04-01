@@ -88,6 +88,6 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 # may be storing data? Come up with 3 examples - they could be from different web applications or
 # all from the same one.
 
-# 1:  Spotify--using lists to store songs?
-# 2:  Lyft-using lists to keep track of ride history
-# 3:  DoorDash-using lists to output order
+# 1:  Spotify--using lists to store songs in order on an album
+# 2:  Lyft-using lists to keep track of ride history in chronological history
+# 3:  DoorDash-using lists to output order sorted by when items were added to cart

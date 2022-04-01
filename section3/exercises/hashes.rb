@@ -43,17 +43,17 @@ puts zoo
 
 # Declare a variable that stores hash. Each key should be an attribute of an email and each
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
-email_info = {'date': 'February 2','time': 2345, 'sender':'president@ceo.com' , 'subject': 'wifi down?', 'urgent': true}
+email= {'date': 'February 2','time': 2345, 'sender':'president@ceo.com' , 'subject': 'wifi down?', 'urgent': true}
 
 # Write code that prints your email hash to the terminal.
-puts email_info
+puts email
 # Write code that prints all of the 'keys' of the email hash
-email_info.each do |k,v|
+email.each do |k,v|
   puts "#{k}"
 end
 # Write code that prints all of the 'values' of the email hash
 # you created above:
-email_info.each do |k,v|
+email.each do |k,v|
   puts "#{v}"
 end
 
@@ -106,13 +106,13 @@ p posts[0]
 # key-value pairs you used in your email Hash above.
 # Then, print the email Array to the terminal.
 
-emails_3_20 = [
+emails = [
   {date: 'February 2, 2012', time: 2300, sender: 'president@corporation.net', subject: 'TPS reports', urgent: true},
   {date: 'March 5, 2013', time: 1700, sender: 'finance@corporation.net', subject: 'Payroll Issues', urgent: true},
   {date: 'April 4, 2014', time: 0300, sender: 'advisor@corporation.net', subject: 'Wifi down?', urgent: true}
 ]
 
 
-puts emails_3_20[2]
-emails_3_20.push({date: 'April 15, 2016', time: 1300, sender: 'jeffrey@corporation.net', subject: 'Wifi still down?', urgent: true})
-puts emails_3_20
+puts emails[2]
+emails.push({date: 'April 15, 2016', time: 1300, sender: 'jeffrey@corporation.net', subject: 'Wifi still down?', urgent: true})
+puts emails

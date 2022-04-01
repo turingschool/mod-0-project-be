@@ -8,7 +8,7 @@ abbreviations['SC'] = 'South Carolina'
 abbreviations['MD'] = 'Maryland'
 
 #example-reference to values
-puts "#{abbreviations['VA']} is where I am from (just outside Washington DC)"
+puts "#{abbreviations['VA']} is where I am from (five minutes from Washington DC)"
 #example-reference to values
 puts "The capital of North Carolinia is #{states['North Carolina']}"
 
