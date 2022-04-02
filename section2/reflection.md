@@ -25,19 +25,24 @@
 
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
 
-def water_status(minutes)
+   def water_status(minutes)
  
-if minutes < 7
+   if minutes < 7
  
-puts "The water is not boiling yet."
+   puts "The water is not boiling yet."
 
-elsif minutes == 7
+   elsif minutes == 7
 
-puts "It's just barely boiling"
+   puts "It's just barely boiling"
 
-elsif minutes == 
-puts "It's boiling!"
-else
-puts "Hot! Hot! Hot!"
-end
-end
+   elsif minutes == 
+
+   puts "It's boiling!"
+
+   else
+
+   puts "Hot! Hot! Hot!"
+
+   end
+
+   end
