@@ -24,7 +24,8 @@
   `puts "Hello, #{animal}!"``
 
 8. What method is used to get input from a user?
-`=`
+`print
+X = gets.chomp`
 9. Name and describe two common string methods:
 `s == "true" or "false"`
 `s <= "less than or equal to"`
