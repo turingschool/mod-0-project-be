@@ -45,11 +45,11 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 - `Add Week 1 Screenshot Here`
-- [Mod 1 Week 1](https://user-images.githubusercontent.com/101689311/161449270-b39d69e8-23d6-463d-9d3b-b8569b7493b4.png)
+- ![Mod 1 Week 1](https://user-images.githubusercontent.com/101689311/161449270-b39d69e8-23d6-463d-9d3b-b8569b7493b4.png)
 - `Add Week 2 Screenshot Here`
-- [Mod 1 Week 2](https://user-images.githubusercontent.com/101689311/161449301-26f14fa1-21a6-4e00-abcc-31b3ea6789b3.png)
+- ![Mod 1 Week 2](https://user-images.githubusercontent.com/101689311/161449301-26f14fa1-21a6-4e00-abcc-31b3ea6789b3.png)
 - `Add Week 3 Screenshot Here`
-- [Mod 2 Week 3](https://user-images.githubusercontent.com/101689311/161449313-84a71a57-0aea-4003-92a0-9586d5c0058e.png)
+- ![Mod 2 Week 3](https://user-images.githubusercontent.com/101689311/161449313-84a71a57-0aea-4003-92a0-9586d5c0058e.png)
 
 ## Mentorship Prep
 
@@ -64,7 +64,7 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
 - [X] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [X] Add a link to your gist here:
+  - [X] Add a link to your gist here: [link to preteaching gist](https://gist.github.com/b-shears/b38611d65768c4db7060ef2bd3c60501)
 
 ## Group Work Prep
 
