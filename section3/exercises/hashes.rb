@@ -25,9 +25,8 @@ end# YOUR CODE HERE
 
 # Write code that prints the value of the first animal of the zoo variable
 # you created above:
-#zoo[:walruses]
-#  puts "#{value}"
-  # YOUR CODE HERE
+print zoo.values[0]
+puts ""  # YOUR CODE HERE
 
 # Write code that adds an animal to the zoo hash.
 # Then, print the updated hash:
