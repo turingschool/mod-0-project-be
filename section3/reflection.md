@@ -49,4 +49,4 @@
 ###
 8. What questions do you still have about hashes?
 ###
-- Right now, I don't have more questions. I just think over the next month I need to practice using hashes more before Mod 1.
+- Right now, I don't have more questions. I just think over the next month I need to practice using hashes more before Mod 1!

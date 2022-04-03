@@ -117,7 +117,7 @@ puts posts[0]
 
 # YOU DO: Create an array of at least 3 EMAIL Hashes, using the same
 # key-value pairs you used in your email Hash above.
-# Then, print the email Array to the terminal.
+# Then, print the email Array to the terminal.#
 emails = ["image at beach", "W2 Attachement", "To: Tax Man", "From: Bryan"]
 emails = [
   {
