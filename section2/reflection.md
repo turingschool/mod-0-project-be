@@ -2,10 +2,10 @@
 
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
 
-  1. I really liked how Ms. Popoviciu developed a system when she ran into problem
+  - I really liked how Ms. Popoviciu developed a system when she ran into problem
   of trying to break it down and identify the specific part she was stuck on.
   Instead of freezing or giving up.
-  2. I also liked the concept of only evaluating your own progress against where
+  - I also liked the concept of only evaluating your own progress against where
   you started versus where other people are in their journey.
 
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
