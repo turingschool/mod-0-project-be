@@ -75,15 +75,14 @@ Before Mod 0 started, I created a system to help ensure my success. I continue t
   - Rocketbooks are reusable notebooks. You can write and erase as many times as you want on its pages, and each page is able to be uploaded or sent to a location or recipient of your choice. The scanning system itself can act as a table of contents of sorts. I also purchased some of their index cards, but later realized this was a waste of money when I found...
 3. [**Cardless**](https://apps.apple.com/us/app/cardless-future-of-credit/id1532270655)
   - Cardless is an app that uses your phone's camera to scan any index card into your phone. You can save the index cards into categories however you see fit. It uses a spaced repetition system to aid learning, but it's mostly a way for me to study on-the-go if I'm waiting around somewhere.
-  <img src="https://user-images.githubusercontent.com/98294995/161410097-1fe53d7b-d530-4467-afb7-923255f985cf.jpeg" width="240">
+    <p float="left">
+      <img src="https://user-images.githubusercontent.com/98294995/161410191-642bfbac-d25a-41a2-9872-753d6bfaed8a.PNG" width="140">
+      <img src="https://user-images.githubusercontent.com/98294995/161410098-8d9f8de4-1cec-4531-924e-a715f48c47af.jpeg" width="140">
+      <img src="https://user-images.githubusercontent.com/98294995/161410099-95e3e7c8-5c36-49e8-9f39-bd26ded741bd.jpeg" width="140">
+    </p>
 4. Index Cards!
   - Sometimes low-tech is the best tech. Index cards help me reinforce new concepts and terminoligy. I have mine grouped into categories of "New," "Learning," and "Learned." This helps me know which cards I need to practice the most, and which ones I've successfully recalled the past few times I've gone over them. It also serves as a nice physical, visual reminder of how much I'm learning and how far I've come!
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/98294995/161410191-642bfbac-d25a-41a2-9872-753d6bfaed8a.PNG" width="140">
-  <img src="https://user-images.githubusercontent.com/98294995/161410098-8d9f8de4-1cec-4531-924e-a715f48c47af.jpeg" width="140">
-  <img src="https://user-images.githubusercontent.com/98294995/161410099-95e3e7c8-5c36-49e8-9f39-bd26ded741bd.jpeg" width="140">
-</p>
-                                                                                                                              
+    <img src="https://user-images.githubusercontent.com/98294995/161410097-1fe53d7b-d530-4467-afb7-923255f985cf.jpeg" width="240">                                                                                                                              
 ### Below is a short video that shows how I use Notion for Turing:
 
 https://user-images.githubusercontent.com/98294995/161409911-390230de-0c9e-44a5-8da0-8c8c8d25239c.mp4
