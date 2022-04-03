@@ -7,7 +7,6 @@ Congrats on making it to the Final Prep section of your Mod 0 Project! The work 
 - [Mentorship Prep](#mentorship-prep)
 - [Group Work Prep](#group-work-prep)
 - [Time Management & Lesson Prep](#time-management--lesson-prep)
-- [Time Management & Lesson Prep](#time-management-&-lesson-prep)
 - [Mod 0 Project Submission](#mod-0-project-submission)
 - [Next Steps](#next-steps)
 
@@ -80,8 +79,8 @@ Before Mod 0 started, I created a system to help ensure my success. I continue t
   - Sometimes low-tech is the best tech. Index cards help me reinforce new concepts and terminoligy. I have mine grouped into categories of "New," "Learning," and "Learned." This helps me know which cards I need to practice the most, and which ones I've successfully recalled the past few times I've gone over them. It also serves as a nice physical, visual reminder of how much I'm learning and how far I've come!
 
 ### Below is a short video that shows how I use Notion for Turing:
-[![Brenna's Notion for Turing (YouTube)](/images/notion-screenshot.jpg)](https://youtu.be/40oSp55HUE8)
 
+https://user-images.githubusercontent.com/98294995/161409911-390230de-0c9e-44a5-8da0-8c8c8d25239c.mp4
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
 
