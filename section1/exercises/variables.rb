@@ -33,9 +33,13 @@ p students - 2
 # Declare three variables, named `first_name`, `is_hungry` and `number_of_pets`.
 # Store the appropriate data types in each.
 # print all three variables to the terminal.
-p first_name
-p is_hungry
-p number_of_pets
+first_name = "Rob"
+is_hungry = "True"
+number_of_pets = "2"
+p string "#{first_name}"
+p boolean "#{is_hungry}"
+p integer "#{number_of_pets}"
+
 # IN WORDS:
 # How did you decide to use the data type you did for each of the three variables above?
 
@@ -53,7 +57,7 @@ p number_of_pets
 healthy_snacks = 6;
 junk_food_snacks = 8;
 
-print "#{healthy_snacks}" + "#{junk_food_snacks}"
+print "#{healthy_snacks} + #{junk_food_snacks}"
 #-------------------
 # FINAL CHECK
 #-------------------
