@@ -6,8 +6,8 @@ Congrats on making it to the Final Prep section of your Mod 0 Project! The work 
 - [Gearing Up for Gear Ups](#gearing-up-for-gear-ups)
 - [Mentorship Prep](#mentorship-prep)
 - [Group Work Prep](#group-work-prep)
-- [Time Management Prep](#time-management-prep-lesson-prep)
-- [Lesson Prep](#lesson-prep)
+- [Time Management & Lesson Prep](#time-management--lesson-prep)
+- [Time Management & Lesson Prep](#time-management-&-lesson-prep)
 - [Mod 0 Project Submission](#mod-0-project-submission)
 - [Next Steps](#next-steps)
 
@@ -52,7 +52,7 @@ As part of Turing's project-based learning approach, you will often be working i
     - [x]  Add a link to your gist here:
     - [x]  [https://gist.github.com/brennacodes/17bd871fe992a4e093e7758a0c701b17](https://gist.github.com/brennacodes/17bd871fe992a4e093e7758a0c701b17)
 
-## Time Management Prep & Lesson Prep
+## Time Management & Lesson Prep
 
 *I've lumped these two sections together, as they are one and the same for me.* 
 
@@ -71,7 +71,7 @@ Before Mod 0 started, I created a system to help ensure my success. I continue t
     + As a way to track and access relevant contact information as it relates to Turing
     + As a place to track and share resources I come across
     + As a blog to help me review and remember new or important concepts as I learn them
-  - That's a lot of things, I know. I'll provide a glimpse into how this works for me further below.
+  - That's a lot of things, I know. [I'll provide a glimpse into how this works for me in the short video below.](#below-is-a-short-video-that-shows-how-i-use-notion-for-turing)
 2. [**Rocketbooks**](https://getrocketbook.com/)
   - Rocketbooks are reusable notebooks. You can write and erase as many times as you want on its pages, and each page is able to be uploaded or sent to a location or recipient of your choice. The scanning system itself can act as a table of contents of sorts. I also purchased some of their index cards, but later realized this was a waste of money when I found...
 3. [**Cardless**](https://apps.apple.com/us/app/cardless-future-of-credit/id1532270655)
@@ -79,6 +79,8 @@ Before Mod 0 started, I created a system to help ensure my success. I continue t
 4. Index Cards!
   - Sometimes low-tech is the best tech. Index cards help me reinforce new concepts and terminoligy. I have mine grouped into categories of "New," "Learning," and "Learned." This helps me know which cards I need to practice the most, and which ones I've successfully recalled the past few times I've gone over them. It also serves as a nice physical, visual reminder of how much I'm learning and how far I've come!
 
+### Below is a short video that shows how I use Notion for Turing:
+[![Brenna's Notion for Turing (YouTube)](/images/notion-screenshot.jpg)](https://youtu.be/40oSp55HUE8)
 
 
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
