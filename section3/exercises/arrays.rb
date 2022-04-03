@@ -65,6 +65,7 @@ puts "Here are all the foods: #{foods}"
 
 # YOU DO: Remove the food that is in index position 0.
 foods.shift
+puts foods
 
 #-------------------
 # PART 3: Where are Arrays used?

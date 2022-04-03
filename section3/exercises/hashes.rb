@@ -40,7 +40,11 @@ puts zoo
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
 
 # Write code that prints your email hash to the terminal.
-email_data = {name: "Mary Turpin", address: "blank@gmail.com", subject: "IMPORTANT: DO NOT DELETE", spam_filter: true, date_sent: 2022}
+email_data = {name: "Mary Turpin",
+  address: "blank@gmail.com",
+  subject: "IMPORTANT: DO NOT DELETE",
+  spam_filter: true,
+  date_sent: 2022}
 puts email_data
 
 # Write code that prints all of the 'keys' of the email hash
