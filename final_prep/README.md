@@ -54,7 +54,7 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 - [X] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [X] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [X] Add link to your gist here: 
+  - [X] Add link to your gist here: [Link to gist](https://gist.github.com/b-shears/2421c5719d0340a4298b9caf269aba3f)
 
 ## Lesson Prep
 
@@ -68,7 +68,7 @@ You've learned a lot about how to take strong notes during Mod 0. Show us your s
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
 - [X] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [X] Add a link to your gist here: [Link to gist](https://gist.github.com/b-shears/2421c5719d0340a4298b9caf269aba3f)
+  - [X] Add a link to your gist here: 
 
 
 ## Mod 0 Project Submission
