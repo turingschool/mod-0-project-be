@@ -29,7 +29,7 @@ p animal
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 
 An interpolation is printing a variable inside of a string.
-p "#{animal}"
+p "this is #{animal}"
 
 8. What method is used to get input from a user?
 

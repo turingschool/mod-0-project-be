@@ -33,9 +33,11 @@ p students
 # YOU DO:
 # Declare three variables, named `first_name`, `is_hungry` and `number_of_pets`.
 first_name = "Mary"
-is_hungry = "not"
+is_hungry = false
 number_of_pets = 0
-puts "#{first_name} is #{is_hungry} hungry, and has #{number_of_pets} pets."
+p first_name
+p is_hungry
+p number_of_pets
 
 # IN WORDS:
 # How did you decide to use the data type you did for each of the three variables above?
@@ -50,7 +52,7 @@ puts "#{first_name} is #{is_hungry} hungry, and has #{number_of_pets} pets."
 # different values (but same data type).
 # Print all three variables to the terminal.
 first_name = 'Virginia'
-is_hungry = 'yes'
+is_hungry = true
 number_of_pets = 26
 p first_name
 p is_hungry
