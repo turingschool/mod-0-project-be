@@ -10,7 +10,7 @@ p "Hello World!"
 ```
 
 3. What character is used to indicate comments in a ruby file?
-*  ```ruby
+```ruby
 #
 ```
 
@@ -18,12 +18,12 @@ p "Hello World!"
 *  Integers are whole counting numbers, floats include a decimal point
 
 5. In the space below, create a variable `animal` that holds the string `"zebra"`
-*  ```ruby
+```ruby
 animal = "zebra"
 ```
 
 6. How would you print the string `"zebra"` using the variable that you created above?
-*  ```ruby
+```ruby
 p animal
 ```
 
