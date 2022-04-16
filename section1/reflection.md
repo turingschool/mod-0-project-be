@@ -22,7 +22,7 @@ animal = "zebra"
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
  Interpolation is a way to add strings together, especially if you are using a variable to hold a string. It uses fewer characters to type than straight concatenation
 
- ex: `A black and white striped horse is called a #{zebra}`
+ ex: `puts "A black and white striped horse is called a #{zebra}"`
 
 8. What method is used to get input from a user?
 `gets` and `gets.chomp`
