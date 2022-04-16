@@ -4,7 +4,7 @@
  * I usually have no problem asking questions, but sometimes struggle with timing.  If I'm in class, I may ask them too soon.  When I'm working on a problem, I may waste too much time searching for an answer before asking for help.
 
 2. How would you print the string `"Hello World!"` to the terminal?
- * `puts "Hello World!"``
+ * `puts "Hello World!"`
 
 3. What character is used to indicate comments in a ruby file?
  * The hashtag #
@@ -22,8 +22,10 @@ animal = "zebra"
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
  Interpolation is a way to add strings together, especially if you are using a variable to hold a string. It uses fewer characters to type than straight concatenation
 
+ ex: `A black and white striped horse is called a #{zebra}`
+
 8. What method is used to get input from a user?
-gets and gets.chomp
+`gets` and `gets.chomp`
 
 9. Name and describe two common string methods:
-.length is a method to return how many characters a string has, .split is a method to split a string into an array at each space in the string, or with a different split character.
+`.length` is a method to return how many characters a string has, `.split` is a method to split a string into an array at each space in the string, or with a different split character.
