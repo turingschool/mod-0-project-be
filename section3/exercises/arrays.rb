@@ -53,14 +53,16 @@ foods.push("broccoli")
 puts foods
 # YOU DO: Write code below that removes the last item of food from the foods array and
 # print the changed array to verify that item has been removed
-
+foods.delete("broccoli")
 
 # YOU DO: Write code to add 3 new foods to the array.
   # There are several ways to do this - choose whichever you'd like!
 # Then, print the changed array to verify the new items have been added
 
+foods.push("tofu", "eggs", "chocolate")
+puts foods
 # YOU DO: Remove the food that is in index position 0.
-
+foods.delete(0)
 #-------------------
 # PART 3: Where are Arrays used?
 #-------------------
@@ -81,6 +83,6 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 # may be storing data? Come up with 3 examples - they could be from different web applications or
 # all from the same one.
 
-# 1:
-# 2:
-# 3:
+# 1: Lists of what to do on a calender
+# 2: Possibly lists on a note app
+# 3: Lists photo albums
