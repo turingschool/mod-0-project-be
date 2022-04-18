@@ -12,7 +12,8 @@ demonstrate a growth mindset by waiting too long to ask for help.***
 ***A conditional statement is  a a feature of programming languages that tell the computer to execute an action as long as a specific condition is met***
 **Examples**
 ### Example 1
-```weather = 'snowy'
+```
+weather = 'snowy'
 
 if weather == 'sunny'
   p "sunscreen"
@@ -27,7 +28,8 @@ else
 end
 ```
 ### Example 2
-```dog = 'dirty'
+```
+dog = 'dirty'
 
 if dog == dirty
   puts "time for a bath."
@@ -36,7 +38,8 @@ elsif dog == 'not dirty'
 end
 ```
 ### Example 3
-```cat = 'angry'
+```
+cat = 'angry'
 
 if cat == 'angry'
   puts "Don't pet the cat"
@@ -52,7 +55,8 @@ end
 to user information.***
 5. What is the Ruby syntax for an if statement?
 
-```if conditional [then]
+```
+if conditional [then]
   code...
 end
 ```
@@ -61,7 +65,8 @@ end
 To add multiple conditions to a an if statement, utilitze the elsif and else functions.***
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
 
-```if conditional [then]
+```
+if conditional [then]
   code...
 elsif conditional [then]
   code...
