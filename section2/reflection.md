@@ -2,9 +2,9 @@
 
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
   1. "Understanding that experience and practice is essential for growth and success"
-    - I'm definitely someone who wants to be good at something the first time I try it and get dejected or frustrated if I'm not. Learning to programming will be very much like learning a new skill or game -- I won't be good at it instantly and will most likely get frustrated, but I'll need to practice and keep coming back in order to gain mastery and experience.  
+      - I'm definitely someone who wants to be good at something the first time I try it and get dejected or frustrated if I'm not. Learning to programming will be very much like learning a new skill or game -- I won't be good at it instantly and will most likely get frustrated, but I'll need to practice and keep coming back in order to gain mastery and experience.  
   2. "If you get stuck on a problem, one thing you learn is to keep on trying to solve it"
-    - I really liked this section from the second article regarding perseverance and not giving up. If I were in a situation where a missed semicolon or something simple caused code not to run, I would be the type to view it as a failure and waste of time. This section gives some important insight on how a shift in perspective can be helpful and healthy for a Growth Mindset.
+      - I really liked this section from the second article regarding perseverance and not giving up. If I were in a situation where a missed semicolon or something simple caused code not to run, I would be the type to view it as a failure and waste of time. This section gives some important insight on how a shift in perspective can be helpful and healthy for a Growth Mindset.
 
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
   - Do:
