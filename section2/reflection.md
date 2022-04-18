@@ -1,8 +1,8 @@
 ## Section 2 Reflection
 
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
-***-
-- A growth mindset can greatly improve your ability to tackle new challenges
+
+***- A growth mindset can greatly improve your ability to tackle new challenges
 - A growth mindset implies that seeking help is a strength and not a weakness.
   Don't be afraid to ask for help, it's part of your professional growth.***
 2. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
@@ -11,7 +11,7 @@ demonstrate a growth mindset by waiting too long to ask for help.***
 3. What is a conditional statement? Give three examples.
 ***A conditional statement is  a a feature of programming languages that tell the computer to execute an action as long as a specific condition is met***
 **Examples**
-
+### Example 1
 weather = 'snowy'
 
 if weather == 'sunny'
@@ -25,7 +25,7 @@ elsif weather == 'icy'
 else
   p "good to go!"
 end
----
+### Example 2
 dog = 'dirty'
 
 if dog == dirty
@@ -33,7 +33,7 @@ if dog == dirty
 elsif dog == 'not dirty'  
   puts "no bath required."
 end
----
+### Example 3
 cat = 'angry'
 
 if cat == 'angry'
@@ -43,7 +43,7 @@ elsif cat == 'happy'
 else
   puts "Better play it safe. Don't pet the cat."
 end
----
+
 4. Why might you want to use an if-statement?
 ***If statements are useful if you want the program to take action in response
 to user information.***
@@ -58,10 +58,10 @@ end
 To add multiple conditions to a an if statement, utilitze the elsif and else functions.***
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
 
-if conditional [then]
+```if conditional [then]
   code...
 elsif conditional [then]
   code...
 else
   code...
-end
+end```
