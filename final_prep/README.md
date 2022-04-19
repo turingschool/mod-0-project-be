@@ -100,12 +100,19 @@ You can absolutely do both, but to do so successfully, **you need a plan**. We r
 What is your plan and how are you going to hold yourself to it? Specifically...
 
 - What are you going to work on?
+  - Practice familarizing myself with mac and with some common methods
 - What days are you going to work?
+  - Every other day until mod 1 starts
 - What times on those days are you going to work?
+  - In the mornings from 7am-830am
 - Where you going to be sitting/standing as you do this?
+  -I have an office in my home
 - Where are you documenting this plan? Google Calendar, calendar on your wall, your journal?
+  -Google calender
 - Do any stakeholders in your life know about this plan? (The answer needs to be yes by the time you answer this...)
+   -Yes my husband and mother-in-law are aware of my schedule and are ready to support me through it.
 - What personal items/events are important to you during this time? How are you going to make sure those are not neglected? (Hint, block time on the calendar for them!)
+  -My kids are the most important people to me since they are still young this time with them is crucial. I made sure to plan out my schedule so that I get to spend at least a day and a half with them.
 
 ### Extensions
 
