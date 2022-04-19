@@ -48,7 +48,11 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 - ![Screen Shot 2022-04-19 at 9 29 07 AM](https://user-images.githubusercontent.com/103013480/164040924-983c13d1-f3b5-473e-ac09-7b0785decf2a.png)
 
 - `Add Week 2 Screenshot Here`
+- ![Screen Shot 2022-04-19 at 9 29 59 AM](https://user-images.githubusercontent.com/103013480/164041040-0725bedf-c1de-4ca5-80d8-4763003fb8ee.png)
+
 - `Add Week 3 Screenshot Here`
+- ![Screen Shot 2022-04-19 at 9 30 19 AM](https://user-images.githubusercontent.com/103013480/164041085-272c66dc-91cf-4550-881d-046961185cb6.png)
+will merge mod 1 calender with this one.
 
 ## Mentorship Prep
 
