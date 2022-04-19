@@ -26,7 +26,7 @@ Using the Terminal, open the local copy of the repository that you created durin
 
 Read/watch one or both of the following:
 - This [2-part blog post series](https://blog.mindsetworks.com/entry/how-having-a-growth-mindset-can-help-you-learn-to-code) discusses how having a growth mindset is helpful when learning to code, and how coding promotes a growth mindset!
-- This [video interview](https://dev.to/hackflix_dev/how-to-hack-a-growth-mindset-b1g) where an experienced Front-End engineer discusses learning about the concept of Growth Mindset and how that's changed how she sees her work and career. (The first 7 minutes are intros and a discussion on Developer Relations. After that, the conversation about Growth Midnset begins.)
+- This [video interview](https://dev.to/hackflix_dev/how-to-hack-a-growth-mindset-b1g) where an experienced Front-End engineer discusses learning about the concept of Growth Mindset and how that's changed how she sees her work and career. (The first 7 minutes are intros and a discussion on Developer Relations. After that, the conversation about Growth Mindset begins.)
 
 Then, consider on the following questions. We will ask you to share some of these responses at the end of this section.
 - What are two points from the article or video that either resonated with you, or were brand new to you?
@@ -43,13 +43,13 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
 
-    - [ ] [What If?](https://learnrubythehardway.org/book/ex29.html) from Learn Ruby the Hard Way.
+    - [ x ] [What If?](https://learnrubythehardway.org/book/ex29.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Else and If](https://learnrubythehardway.org/book/ex30.html) from Learn Ruby the Hard Way.
+    - [ x ] [Else and If](https://learnrubythehardway.org/book/ex30.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Making Decisions](https://learnrubythehardway.org/book/ex31.html) from Learn Ruby the Hard Way.
+    - [ x ] [Making Decisions](https://learnrubythehardway.org/book/ex31.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Conditionals](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals) from Ruby in 100 Minutes.
+    - [ x ] [Conditionals](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals) from Ruby in 100 Minutes.
 
 1. Work through the `if_statements.rb` file in the `section2/exercises` directory.
 
