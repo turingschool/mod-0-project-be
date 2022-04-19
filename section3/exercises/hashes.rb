@@ -1,8 +1,3 @@
-pet_store = {collars:52, toys:76, leashes:32}
-puts
-print pet_store
-
-
 
 # In the below exercises, write code that achieves
 # the desired result. To check your work, run this
@@ -19,12 +14,10 @@ p zoo
 
 # Write code that prints all of the 'keys' of the zoo variable
 # you created above:
-# YOUR CODE HERE
 foods.each { |key, values| puts key}
 # Write code that prints all of the 'values' of the zoo variable
 # you created above:
 puts
-# YOUR CODE HERE
 foods.each { |key, values| puts values}
 puts
 puts
@@ -35,7 +28,6 @@ p zoo[:elephants]
 
 # Write code that adds an animal to the zoo hash.
 # Then, print the updated hash:
-# YOUR CODE HERE
 zoo.merge! :bear => 4, :rhino => 6 #found this way as well
 zoo[:tiger] = 3
 p zoo
@@ -58,14 +50,12 @@ puts email
 
 # Write code that prints all of the 'keys' of the email hash
 # you created above:
-# YOUR CODE HERE
 email.each { |key,value | puts key}
 
 # Write code that prints all of the 'values' of the email hash
 # you created above:
 
 email.each {|key, value| puts value}
-# YOUR CODE HERE
 puts
 
 #-------------------
