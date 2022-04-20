@@ -7,7 +7,7 @@
  * print "Hello World!"
 
 3. What character is used to indicate comments in a ruby file?
- * If it ends as an .rb file
+ * If it has the # symbol at the start
 
 4. Explain the difference between an integer and a float?
  * An integer is a number without a decimal while a float is a number with a decimal
