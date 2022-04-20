@@ -35,11 +35,10 @@ animals[-1] = "Gorilla"
 p animals
 # YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 
-animals[3] = "Tiger"
+animals.insert(3, "Tiger")
 p animals
 # YOU DO: Write code that will print the String "Elephant" in the animals array
-
-animals[4] = "Elephant"
+animals.push "Elephant" #"Elephant" was reassigned to "Gorilla" so must be re added
 p animals[4]
 #-------------------
 # PART 2: Foods: Array Methods
@@ -93,4 +92,4 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 
 # 1: a banking app where transactions are listed
 # 2: strava stores my activity along with corresponding times, heartrate, etc
-# 3: airline app stores flight numbers and flight times 
+# 3: airline app stores flight numbers and flight times
