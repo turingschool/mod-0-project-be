@@ -7,7 +7,7 @@
   - puts "Hello World!"
 
 3. What character is used to indicate comments in a ruby file?
-  - #
+  - hashtag(#)
 4. Explain the difference between an integer and a float?
   - The difference between and integer and a float is that an integer is a whole number without a decimal point where as the float has a decimal attached to it similar to a balance in your bank
 5. In the space below, create a variable `animal` that holds the string `"zebra"`
