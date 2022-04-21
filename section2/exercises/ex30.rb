@@ -1,9 +1,9 @@
-#asiigns vcariables
+#asigns variables
 people = 40
 cars = 40
 trucks = 40
 
-#asks programs is the car variable is greater than, or less than people.
+#asks programs is the car vari  able is greater than, or less than people.
 #If they are the same it goes to the else statement
 if cars > people || trucks < cars
   puts "We should take the cars."

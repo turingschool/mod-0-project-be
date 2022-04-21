@@ -7,7 +7,7 @@
 2. How would you print the string `"Hello World!"` to the terminal?
 
 ```ruby
-p "Hello World"``
+puts "Hello World"``
 ```
 
 3. What character is used to indicate comments in a ruby file?
@@ -27,15 +27,15 @@ animal = "zebra"
 6. How would you print the string `"zebra"` using the variable that you created above?
 
 ```ruby
-p animal
+puts animal
 ```
 
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 
->interpolation is the insertion of data often a variable into a string.
+>interpolation is the insertion of data, often a variable, into a string.
 
 ```ruby
-p "One example of an animal with strips is a #{animal}"
+puts "One example of an animal with strips is a #{animal}"
 ```
 
 

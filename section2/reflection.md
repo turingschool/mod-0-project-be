@@ -37,20 +37,23 @@
 
 5. What is the Ruby syntax for an if statement?
 
+  ```ruby
     if true
-          some code goes Here
+          #some code goes Here
     end
-
+  ```
 6. How do you add multiple conditions to an if statement?
 
-    with the and (&&) or or (||) operators
+*  with the and (&&) or or (||) operators
 
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
 
+```ruby
     if x > 10
-            do something
+            #do something
     elsif x > 5
-            do a second thing instead
+          #  do a second thing instead
     else
-            do something crazy
+          #  do something crazy
     end
+  ```

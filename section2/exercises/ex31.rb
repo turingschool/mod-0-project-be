@@ -1,6 +1,7 @@
 puts "You enter a dark room with two doors.  Do you go through door #1 or door #2?"
 
 print "> "
+#$stdin is for standard input.  I think if it is removed this is the default 
 door = $stdin.gets.chomp
 
 if door == "1"
@@ -30,6 +31,7 @@ elsif door == "2"
 
   if insanity == "1" || insanity == "2"
     puts "Your body survives powered by a mind of jello.  Good job!"
+
   elsif insanity == "3"
     puts "you are confused but now find yourself alone in a field. there is a hill to your right and a stream to your left"
     puts "1. climb the hill"
@@ -40,17 +42,21 @@ elsif door == "2"
 
     if travel == "1"
       puts "on the hill you find that you have a great view of a nearby nuclear explotion, you smile as your body vaporizes.  Good job!"
+
     elsif travel == "2"
       puts "The current in the stream is much stronger than you expected. it pulls you towards a waterfall."
       puts "1. swim harder towards the other side"
       puts "2. relax and let the stream take you"
       print ">"
       water = $stdin.gets.chomp
+
         if water == "1"
           puts "you try so hard and got so far. But in the end it doesnt even matter.  you fall and die.  Good job!"
+
         else
           puts "you relax the water pulls you to the edge of the waterfall, but you start to fly rather than fall.  you soar high.  Congrats, you win I think!"
         end
+
     else
       puts "you stay in place unsure of what to do.  you never recover from your indecision and eventually die.  A tree one day grows from that very spot."
     end

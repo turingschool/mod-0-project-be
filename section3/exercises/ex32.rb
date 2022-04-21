@@ -8,7 +8,7 @@ change = [1, 'pennies', 2, 'dimes', 3, 'quarters']
 #   puts "This is count #{number}"
 # end
 
-#the_count array for loop redone using .each method
+#the_count array for loop redone using the prefered .each method
 the_count.each do |number|
   puts "this is the count #{number}"
 end

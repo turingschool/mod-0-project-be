@@ -1,8 +1,10 @@
+#code examples of comparitors
+#assigns variables
 people = 20
 cats = 30
 dogs = 15
 
-
+#compares variables and prints some lines to show result.
 if people < cats
   puts "Too many cats! The world is doomed!"
 end

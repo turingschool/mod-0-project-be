@@ -1,3 +1,7 @@
+#a game based on ex31
+#a choose your own adventure game.  I dont recommend you play it.
+#IT doesnt recommend you play it.
+
 puts "You are in a terrbile game"
 puts "enter 1 to continue"
 puts "enter anything else to lose"
