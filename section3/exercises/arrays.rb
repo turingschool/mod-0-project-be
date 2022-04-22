@@ -19,8 +19,8 @@
 animals = ["Zebra", "Giraffe", "Elephant"]
 print animals
 puts "\n"
+
 # EXAMPLE: Write code below that will print "Zebra" from the animals array
-# YOUR CODE HERE
 puts animals[0]
 
 # YOU DO: Write code below that will print the number of elements in array of

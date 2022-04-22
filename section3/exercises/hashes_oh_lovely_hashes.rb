@@ -93,3 +93,4 @@ end
 states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}
 puts states["IA"]
 puts states.keys
+puts states.values
