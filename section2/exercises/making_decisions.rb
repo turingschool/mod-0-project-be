@@ -12,11 +12,11 @@ if door == "1"
   bear = $stdin.gets.chomp
 
   if bear == "1"
-    puts "The bear eats your face off.  Good job!"
+    puts "The bear eats your face off. Good job!"
   elsif bear == "2"
-    puts "The bear eats your legs off.  Good job!"
+    puts "The bear eats your legs off. Good job!"
   else
-    puts "Well, doing %s is probably better.  Bear runs away." % bear
+    puts "Well, doing %s is probably better. Bear runs away." % bear
   end
 
 elsif door == "2"
@@ -29,9 +29,9 @@ elsif door == "2"
   insanity = $stdin.gets.chomp
 
   if insanity == "1" || insanity == "2"
-    puts "Your body survives powered by a mind of jello.  Good job!"
+    puts "Your body survives powered by a mind of jello. Good job!"
   else
-    puts "The insanity rots your eyes into a pool of muck.  Good job!"
+    puts "The insanity rots your eyes into a pool of muck. Good job!"
   end
 
 elsif door == "3"
