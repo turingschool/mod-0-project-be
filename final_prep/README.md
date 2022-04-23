@@ -32,11 +32,11 @@ Take your time as you go back and refactor your exercises from each section. We'
 Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry.
 
 - [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-<<<<<<< HEAD
+
   - [ ] Add a link for your gist here: [My Gear Up Intro](https://gist.github.com/bensjsilverstein/9159c547cc1a14381e3e5f287b62c567)
-=======
+
   - [ ] Add a link for your gist here: [My Gear Up Intro Gist](https://gist.github.com/bensjsilverstein/9159c547cc1a14381e3e5f287b62c567)
->>>>>>> cbd761c8348ac237ecf2a061ef0cf5fc4ae1ab90
+
 
 ## Time Management Prep
 
@@ -62,11 +62,11 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 - [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-<<<<<<< HEAD
+
   - [ ] Add link to your gist here:
-=======
+
   - [ ] Add link to your gist here: [Mentee Gist](https://gist.github.com/bensjsilverstein/dad5f2db88549fab56f242a01a468b3c)
->>>>>>> cbd761c8348ac237ecf2a061ef0cf5fc4ae1ab90
+
 
 ## Lesson Prep
 
