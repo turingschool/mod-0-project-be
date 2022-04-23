@@ -20,7 +20,7 @@
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 ***Interpolation is the use of a variable within a another variable or the use of a variable within a string to assign a evaluate that string or variable.***
 
-p "The #{animal} ran from the lion and caught up with the herd of #{animal}s."
+`p "The #{animal} ran from the lion and caught up with the herd of #{animal}s."`
 
 8. What method is used to get input from a user?
 ***The gets.chomp command is used to get info from the user.***
