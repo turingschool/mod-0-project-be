@@ -22,10 +22,10 @@ puts "We can transport #{carpool_capacity} people today."
 puts "We have #{passengers} to carpool today."
 puts "We need to put about #{average_passengers_per_car} in each car."
 
-#ex4.rb:14: undefined local variable or method `carpool_capacity' for
+# ex4.rb:14: undefined local variable or method `carpool_capacity' for
 #    main:Object (NameError)
-#The above error occured because carpool_capacity was not established as a variable
-# 1. If it's just 4, the result will only a whole number (integer). May be
+# The above error occured because carpool_capacity was not established as a variable
+# 1. If it's just 4, the result will only be a whole number (integer). May be
 # problematic depending on if the result rounds up or down in the event that
 # there's a remainder.
 

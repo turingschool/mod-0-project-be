@@ -33,7 +33,7 @@ puts w + e
 
 
 #4. Adding the two strings creates a longer string because the data types are
-  # the same.
+# the same.
 
 #5. The single quote still works, but unless it's implemented at the beginning
 #   of typing a string, you need to check to make sure there are no extra
