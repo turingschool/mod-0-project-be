@@ -18,3 +18,5 @@ puts "If I add #{age}, #{height_inches}, and #{weight_lbs}, I get #{age + height
 weight_kilograms = weight * 0.453592
 height_centimeters = height * 2.54
 puts "I weigh #{weight_kilograms} kilograms and I'm #{height_centimeters} centimeters tall"
+
+# I added descriptions to the height and weight variables
