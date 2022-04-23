@@ -13,7 +13,7 @@ Congrats on making it to the Final Prep section of your Mod 0 Project! The work 
 
 ## Refactor Previous Work
 
-You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to **refactor** your code - which is the process of adjusting or improving your code for readability and accuracy. 
+You've learned A LOT over the last few weeks as it relates to technical content - chances are, you probably have some code from your previous exercises that is either sloppy, incorrect, poorly named, etc. Before starting Mod 1, we want you to **refactor** your code - which is the process of adjusting or improving your code for readability and accuracy.
 
 Some things to consider as you refactor include...
 
@@ -29,10 +29,10 @@ Take your time as you go back and refactor your exercises from each section. We'
 
 ## Gearing Up for Gear Ups
 
-Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry. 
+Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry.
 
 - [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-  - [ ] Add a link for your gist here: 
+  - [ ] Add a link for your gist here: [GearUp Pre-work](https://gist.github.com/sunny-moore/3f49a6a642f4ea7cf674c1a6e639bef5)
 
 ## Time Management Prep
 
@@ -45,8 +45,13 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
 - `Add Week 1 Screenshot Here`
+![8EB54962-504C-4E1F-A193-D64DFCD49038](https://user-images.githubusercontent.com/102932532/164861719-40acf9fc-fee7-4fa3-9f30-23201e896430.jpeg)
+
 - `Add Week 2 Screenshot Here`
+![9F1159E8-DF49-439E-A0C4-594CA6E03AB0](https://user-images.githubusercontent.com/102932532/164861725-6cfc3a89-c235-4df0-9232-aa9bf85be77c.jpeg)
+
 - `Add Week 3 Screenshot Here`
+![8CEC5213-FDD3-4A67-9773-943750ACBED1](https://user-images.githubusercontent.com/102932532/164861731-f67008bf-5b3e-42a0-ba49-a12d6b346845.jpeg)
 
 ## Mentorship Prep
 
@@ -54,21 +59,22 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 - [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+  - [ ] Add link to your gist here:
+  [Sunny's Gist](https://gist.github.com/sunny-moore/eb7024a2c6d03d24ff75200c2608b504)
 
 ## Lesson Prep
 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 
 - [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+  - [ ] Add a link to your gist here:  [My Pre-teaching Gist](https://gist.github.com/sunny-moore/440f039a7318f3f5ebc0c767ffda672f)
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+  - [ ] Add a link to your gist here: [My DTR Gist](https://gist.github.com/sunny-moore/5dbe22e4725cf58de11c0d68249e5905)
 
 ## Mod 0 Project Submission
 
