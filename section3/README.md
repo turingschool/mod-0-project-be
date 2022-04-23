@@ -33,10 +33,13 @@ One challenge learners in a new environment/content area face is feeling like th
 So this week, we would like you to start self-monitoring your progress. Before you start on the technical work, reflect back on how the project has gone so far.
 
 - Have the time estimates matched up with your experience?
+A. I have generally completed tasks in less time than what has been estimated.
 - When you sit down to start working, do you have a clear goal of what you want to accomplish and in how much time? If so, how aligned is that to what actually happens?
+A. I have sat down with goal of working in time blocks, but when I have begun hitting my stride, I often worked past what my time blocks were and completed more work than I expected.
 - How do you work best - in 2 hour blocks, 4 hour blocks, etc? Do you take breaks regularly? Do you have a system to hold yourself accountable to taking breaks?
+A. I work best in 4+ hours blocks, with some breaks. I don't have a system for holding myself accountable for taking breaks.
 
-You've probably heard of the Pomodoro Technique in Mod 0 classes (and elsewhere, maybe!). During this final section of the project, we are going to ask that you follow this technique. Please read about it [here](https://www.dovico.com/blog/2020/08/26/the-pomodoro-technique-how-to-manage-your-work-time-and-flow-the-easy-way/). 
+You've probably heard of the Pomodoro Technique in Mod 0 classes (and elsewhere, maybe!). During this final section of the project, we are going to ask that you follow this technique. Please read about it [here](https://www.dovico.com/blog/2020/08/26/the-pomodoro-technique-how-to-manage-your-work-time-and-flow-the-easy-way/).
 
 The article doesn't mention writing down Step 1 (`Decide on the task to be performed`), but we ask that you find a special spot in your notebook where you do this for each work session. In the deliverables, we will ask that you share what you wrote down for Step 1 of the technique each time you started a new task.
 
@@ -48,7 +51,7 @@ Today you will learn about two common data types: Arrays and Hashes.
 
 When you are all done with the lessons, exercises, and questions for today, you will once again use git to save your work locally, and then push your work to GitHub.
 
-1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory. 
+1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
     - [ ] Read about what an [array](https://learnrubythehardway.org/book/ex32.html) is from Learn Ruby the Hard Way.
 
     - [ ] Learn how arrays are [index-based](https://learnrubythehardway.org/book/ex34.html) from Learn Ruby the Hard Way.
