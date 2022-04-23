@@ -33,13 +33,9 @@ You can find all information on the curriculum and job search support [on the Ca
 - [The Module 5 section](https://careerdev.turing.edu/module-5/index), which covers what job search support looks like once you’ve graduated from Turing.
 1. Reflect on the following questions in the survey you’ll submit:
 - How do you feel about the expectations of the professional development curriculum?
-  - I think it is a very fair expectation to set and considering the feedback and reviews I've heard around Colorado regarding Turing - I believe Turing will indeed prepare me for the workforce.
-
 - What are you excited about when it comes to professional development?
-  - I'm most excited about learning how to prepare and excel in the technical reviews that come with this field. I've worked in other careers (health care, customer service, etc) and have never had a multi day/level interview before so that's what I'm most excited to learn how to do well with.
-
 - What are your questions or concerns about these expectations?
-  - I think it is very fair for me to be expected to engage in my small groups and follow up with my peers and instructors when struggling with a given task.
+
 
 ## Part B: Pairin Survey
 
