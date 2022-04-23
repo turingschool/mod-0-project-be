@@ -1,3 +1,5 @@
+#The below is my version of a game that was asked to be completed in the
+#study drill for Excercise 31.
 puts "You wake up from a loud noise in another room. Do you 1. get up and check or 2. go back to sleep?"
 
 print "> "
