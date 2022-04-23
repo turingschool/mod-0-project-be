@@ -31,19 +31,12 @@ Take your time as you go back and refactor your exercises from each section. We'
 
 Gear Up is a part of our curriculum where we talk about topics such as privilege and power, and ethical issues in the tech industry.
 
-<<<<<<< HEAD
-- [ ] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
-<<<<<<< HEAD
-  - [ ] Add a link for your gist here: [My Gear Up Intro](https://gist.github.com/bensjsilverstein/9159c547cc1a14381e3e5f287b62c567)
-=======
-  - [ ] Add a link for your gist here: [My Gear Up Intro Gist](https://gist.github.com/bensjsilverstein/9159c547cc1a14381e3e5f287b62c567)
->>>>>>> cbd761c8348ac237ecf2a061ef0cf5fc4ae1ab90
-=======
+
+
 - [ X] [Complete this assignment](https://github.com/turingschool/gear-up/blob/main/m0/Intro.To.GearUp.md)
 
   - [ X] Add a link for your gist here: [My Gear Up Intro Gist](https://gist.github.com/bensjsilverstein/9159c547cc1a14381e3e5f287b62c567)
 
->>>>>>> 6d33592c2d53b51c727688e10eca27821549a027
 
 ## Time Management Prep
 
@@ -67,21 +60,12 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
-<<<<<<< HEAD
-- [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
-- [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-<<<<<<< HEAD
-  - [ ] Add link to your gist here:
-=======
-  - [ ] Add link to your gist here: [Mentee Gist](https://gist.github.com/bensjsilverstein/dad5f2db88549fab56f242a01a468b3c)
->>>>>>> cbd761c8348ac237ecf2a061ef0cf5fc4ae1ab90
-=======
+
 - [ X] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [ X] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
 
   - [ X] Add link to your gist here: [Mentee Gist](https://gist.github.com/bensjsilverstein/dad5f2db88549fab56f242a01a468b3c)
 
->>>>>>> 6d33592c2d53b51c727688e10eca27821549a027
 
 ## Lesson Prep
 
@@ -94,18 +78,9 @@ You've learned a lot about how to take strong notes during Mod 0. Show us your s
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
-<<<<<<< HEAD
-- [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-<<<<<<< HEAD
-  - [ ] Add a link to your gist here:
-=======
-  - [ ] Add a link to your gist here: [DTR Guiding Questions Gist](https://gist.github.com/bensjsilverstein/b43ac7c4c11a497bd4b26a42d3b6d7eb)
->>>>>>> cbd761c8348ac237ecf2a061ef0cf5fc4ae1ab90
-=======
 - [ X] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
 
   - [ X] Add a link to your gist here: [DTR Guiding Questions Gist](https://gist.github.com/bensjsilverstein/b43ac7c4c11a497bd4b26a42d3b6d7eb)
->>>>>>> 6d33592c2d53b51c727688e10eca27821549a027
 
 ## Mod 0 Project Submission
 
