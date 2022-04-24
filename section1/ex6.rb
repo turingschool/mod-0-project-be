@@ -20,4 +20,4 @@ e = "a string with a right side."
 
 puts w + e # prints w then e with no space aside from what was in the string
 
-# This is the 5th exercise but we skipped to Ex6: Strings and Text
+# I did exercise 6 before exercise 5, i thought we were doing 6 + 7 not 5 + 6.
