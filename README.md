@@ -10,7 +10,7 @@ Each section has a folder containing a `README.md` file with instructions for th
 * [Section 1 - ASKING QUESTIONS, Terminal and Ruby Foundations](section1)
 * [Section 2 - GROWTH MINDSET, Conditionals](section2)
 * [Section 3 - HOW YOU SPEND YOUR TIME, Arrays & Hashes](section3)
-* [Final Prep - Final Deliverables and Submission](final_prep)
+* [Section 4 - Final Deliverables and Submission](final_prep)
 
 ## What to Expect
 
