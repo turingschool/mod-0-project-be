@@ -14,10 +14,10 @@
 3. What is a conditional statement? Give three examples.
 
   >  A conditional statement is a statement which evaluates as either _true_ or _false_.
-    Three examples:
-    * `5 > 2` _true_
-    * `5 != 5` _false_
-    * `1 == 2 || 3 == 3` _true_
+  >  Three examples:
+  >  * `5 > 2` _true_
+  >  * `5 != 5` _false_
+  >  * `1 == 2 || 3 == 3` _true_
 
 
 4. Why might you want to use an if-statement?
