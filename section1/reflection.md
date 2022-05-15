@@ -27,7 +27,7 @@
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 
   >Interpolation is a way to include the value of a variable within a string.  
-  >`puts "My favorite animal at the zoo is a #{zebra}!"`
+  >`puts "My favorite animal at the zoo is a #{animal}!"`
 
 8. What method is used to get input from a user?
 
