@@ -99,6 +99,6 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 # may be storing data? Come up with 3 examples - they could be from different web applications or
 # all from the same one.
 
-# 1:
-# 2:
-# 3:
+# 1: Arrays could be a good way to display statistics on a sports website, allowing for easy comparisons between players.
+# 2: Arrays might also be used on apps like Facebook to keep track of friends and allow for lookup of connections between people.
+# 3: A note keeping app might store notes by pushing strings on to the end of an array and keeping track of them by their relative positions.
