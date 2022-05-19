@@ -1,3 +1,11 @@
+stuff = {'name' => 'Zed'}
+puts stuff['name']
+
+
+
+puts "-" * 10
+puts "-" * 10
+puts "-" * 10
 states = {
   'Oregon' => 'OR',
   'Florida' => 'FL',
