@@ -38,9 +38,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+![Week 1](https://user-images.githubusercontent.com/104221777/169578895-d23eebc7-aefd-4445-b8ef-5a23c92090d2.png)
+![Week 2](https://user-images.githubusercontent.com/104221777/169578910-59e6ae66-5269-4e7b-883a-7ece7476985c.png)
+![Week 3](https://user-images.githubusercontent.com/104221777/169578924-390d39c8-5ad1-40d5-829c-9283640ed770.png)
 
 ## Letter to Instructors
 
@@ -54,6 +54,8 @@ Create a new Gist. In it, write a letter introducing yourself to your future ins
 - What did you learn about yourself, as a person and a student, during Mod 0?
 
 Make sure to include your full name and pronouns.
+
+### [Letter to my Future Instructors](https://gist.github.com/ajkrumholz/030bc0d020260fe8fe397a2e8344df63)
 
 ## Mentorship Prep
 
