@@ -16,7 +16,7 @@ An integer is a whole number while a float is a number that contains a floating 
 animal = "zebra"
 
 6. How would you print the string `"zebra"` using the variable that you created above?
-p animal
+puts animal
 
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
 Interpolation is a method used to insert strings into other strings using the variables that contain them.

@@ -11,11 +11,11 @@ puts "I said: #{x}."
 puts "I also said: '#{y}'."
 
 hilarious = false
-joke_evaluation = "Isn't that joke so funny?! #{hilarious}"
+joke_evaluation = "Isn't that joke so funny?! " + "#{hilarious}.".capitalize
 
 puts joke_evaluation
 
-w = "This is the left side of..."
+w = "This is the left side of... "
 e = "a string with a right side."
 
 puts w + e

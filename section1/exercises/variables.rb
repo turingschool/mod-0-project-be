@@ -7,27 +7,32 @@
 # prints what that variable holds to the terminal:
 name = "Harry Potter"
 p name
+puts " "
 
 # Write code that saves the string 'Dobby' to a variable and
 # prints what that variable holds to the terminal:
 house_elf = "Dobby"
 p house_elf
+puts " "
 
 # Write code that saves the string 'Harry Potter must not return to Hogwarts!'
 # and prints what that variable holds to the terminal:
 imperative = "Harry Potter must not return to Hogwarts!"
 p imperative
+puts " "
 
 # Write code that adds 2 to the `students` variable and
 # prints the result:
 students = 22
 # YOUR CODE HERE
 p students + 2
+puts " "
 
 # Write code that subracts 2 from the `students` variable and
 # prints the result:
 # YOUR CODE HERE
 p students - 2
+puts " "
 
 
 # YOU DO:
@@ -40,6 +45,7 @@ number_of_pets = 0
 p first_name
 p is_hungry
 p number_of_pets
+puts " "
 
 
 # IN WORDS:
@@ -60,6 +66,7 @@ number_of_pets = 30
 p first_name
 p is_hungry
 p number_of_pets
+puts " "
 
 # YOU DO:
 # Using the variables below, print the total number of snacks to the terminal:
