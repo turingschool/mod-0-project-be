@@ -35,4 +35,4 @@ p string.length
 Using string[n..n1] will return all the characters within the specified range.
 string = "12345678"
 p string[0..5]
-# "123456"
+# 123456
