@@ -55,6 +55,8 @@ Create a new Gist. In it, write a letter introducing yourself to your future ins
 
 Make sure to include your full name and pronouns.
 
+###[Letter to my Future Instructors](https://gist.github.com/ajkrumholz/030bc0d020260fe8fe397a2e8344df63)
+
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
