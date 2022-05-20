@@ -71,7 +71,7 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+  - [ ] Add a link to your gist here: [DTR Guiding Questions Response](https://gist.github.com/ajkrumholz/3e7658730e6b4b4e9dd8e7a36d09975d)
 
 ## Mod 0 Project Submission
 
