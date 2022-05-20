@@ -23,7 +23,7 @@
   else
     p "good to go!"
   end
-
+puts " "
 # Experiment with manipulating the value held in variable 'weather'
 # to print something other than 'coat'
 
@@ -48,7 +48,7 @@ if num_quarters >= 2
 else
   puts "I don't have enough money for a gumball"
 end
-
+puts " "
 #####################
 # Using the variables defined below, write code that will tell you
 # if you have the ingredients to make a pizza. A pizza requires
