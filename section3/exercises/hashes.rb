@@ -44,18 +44,28 @@ puts "-" * 10
 
 # Declare a variable that stores hash. Each key should be an attribute of an email and each
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
+time = Time.new
+email = {address: "krumholz.alan@gmail.com", subject: "Questions regarding hashes", recipient: "redbaron666@geocities.com", body: "I'm having some trouble getting my hashes to work! Can you help me?", date_sent: "#{time.month}/#{time.day}/#{time.year}", time_sent: "#{time.hour}:#{time.min}",}
+puts "-" * 10
+
 
 # Write code that prints your email hash to the terminal.
-
+puts email
+puts "-" * 10
 
 # Write code that prints all of the 'keys' of the email hash
 # you created above:
-# YOUR CODE HERE
+email.each do |key, value|
+  puts key
+end
+puts "-" * 10
 
 # Write code that prints all of the 'values' of the email hash
 # you created above:
-# YOUR CODE HERE
-
+email.each do |key, value|
+  puts value
+end
+puts "-" * 10
 
 #-------------------
 # Part 3: Many Emails - OPTIONAL EXTENSION
@@ -92,8 +102,8 @@ posts = [
   }
 ]
 
-#p posts
-#p posts[0]
+p posts
+p posts[0]
 
 
 # The code snippet above shows an Array with 2 elements. Each element in the Array is a
@@ -105,3 +115,34 @@ posts = [
 # YOU DO: Create an array of at least 3 EMAIL Hashes, using the same
 # key-value pairs you used in your email Hash above.
 # Then, print the email Array to the terminal.
+puts "-" * 10
+
+time = Time.new
+email = [
+  {
+    address: "krumholz.alan@gmail.com",
+    subject: "Questions regarding hashes",
+    recipient: "redbaron666@geocities.com",
+    body: "I'm having some trouble getting my hashes to work! Can you help me?",
+    date_sent: "#{time.month}/#{time.day}/#{time.year}",
+    time_sent: "#{time.hour}:#{time.min}"
+  },
+  {
+    address: "bumblethorpe@excite.net",
+    subject: "Lost socks",
+    recipient: "sockthief420@zappos.com",
+    body: "Did you steal my socks?",
+    date_sent: "#{time.month}/#{time.day}",
+    time_sent: "#{time.hour}:#{time.min}"
+  },
+  {
+    address: "hungrydog@woof.com",
+    subject: "My dinner",
+    recipient: "puppyparent@pets.com",
+    body: "Is it dinner time or what????",
+    date_sent: "#{time.month}/#{time.day}",
+    time_sent: "#{time.hour}:#{time.min}"
+  }
+]
+
+p email
