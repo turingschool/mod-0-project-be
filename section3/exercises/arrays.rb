@@ -92,7 +92,6 @@ puts foods
 
 # The post itself likely has more complex data, but here is one way we can think about it:
 
-
 posts = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"]
 
 # YOU DO: Think of a web application you commonly use. Where do you see LISTS utilized, where arrays
