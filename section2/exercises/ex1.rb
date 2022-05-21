@@ -29,7 +29,7 @@ if people <= dogs
 end
 
 if people == dogs
-puts "people are dogs."
+  puts "people are dogs."
 end
 
 # if code only runs the code between it and "end" if the if statement is true.
