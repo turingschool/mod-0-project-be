@@ -67,7 +67,7 @@ city = cities ['TX']
 city ||= 'Does Not Exist'
 puts "The city for the state 'tx' is: #{city}"
 
-# can I make a hash of hashes? yes I can
+# can I make a hash of hashes? yes
 # can I make a hash of a hashes of hashes? yup
 users = {
   tom: {
@@ -85,7 +85,7 @@ users = {
     pronouns: {
       subjective: "they",
       objective: "them",
-      possessive: "their"
+      possessive: "theirs"
     }
   },
   allie: {
