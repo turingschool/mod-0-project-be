@@ -18,7 +18,7 @@
 
 5. In the space below, create a variable `animal` that holds the string `"zebra"`
 
-  >`animal = 'zebra'`
+  >`animal = "zebra"`
 
 6. How would you print the string `"zebra"` using the variable that you created above?
 
