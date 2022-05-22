@@ -20,7 +20,9 @@ You would want to use an if statement if you need the conditions to be met in or
 
 variables
 if condition
+<br>
   puts ""
+  <br>
 end
 
 6. How do you add multiple conditions to an if statement?
@@ -38,9 +40,15 @@ people = 950
 
 
 if people > capacity
+<br>
   puts "entry will not be granted"
+ <br>
 elsif people < capacity
+<br>
   puts "entry will be granted"
+ <br>
 else
+<br>
   puts "we lost count"
-end. 
+<br>
+end
