@@ -28,13 +28,20 @@ end
 
 6. How do you add multiple conditions to an if statement?
 if condition
-
+<br>
 variables
+<br>
   else
+  <br>
     puts ""
+  <br>
   elsif
+  <br>
     puts ""
+   <br>
   end  
+  <br>
+  
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
 capacity = 1000
 <br>
