@@ -19,6 +19,7 @@ You would want to use an if statement if you need the conditions to be met in or
 5. What is the Ruby syntax for an if statement?
 
 variables
+<br>
 if condition
 <br>
   puts ""
@@ -36,6 +37,7 @@ variables
   end  
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
 capacity = 1000
+<br>
 people = 950
 
 
