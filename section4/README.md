@@ -38,9 +38,14 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `![Screen Shot 2022-05-24 at 1 59 49 PM](https://user-images.githubusercontent.com/105073232/170122784-9cfb6f1f-7a68-49c9-95b1-c519ce1f47d2.png)`
-- `![Screen Shot 2022-05-24 at 1 59 57 PM](https://user-images.githubusercontent.com/105073232/170122850-709b5071-37de-442e-80f8-5e0274853585.png)`
-- `![Screen Shot 2022-05-24 at 2 00 05 PM](https://user-images.githubusercontent.com/105073232/170122917-9f777525-a5c6-45e0-bf22-8015c085a031.png)`
+
+![Calendar1](https://user-images.githubusercontent.com/105073232/170123470-447df8e1-0e21-4b4c-a92f-1b90432aaddb.png)
+
+![Calendar2](https://user-images.githubusercontent.com/105073232/170123393-c9532a7c-077f-44bd-b03e-e2f60e5f5a02.png))
+
+
+![Calendar3](https://user-images.githubusercontent.com/105073232/170123518-b2cc4f41-da78-4c79-a228-b918a802723b.png)
+
 
 ## Letter to Instructors
 
