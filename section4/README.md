@@ -38,9 +38,14 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+
+![Calendar1](https://user-images.githubusercontent.com/105073232/170123470-447df8e1-0e21-4b4c-a92f-1b90432aaddb.png)
+
+![Calendar2](https://user-images.githubusercontent.com/105073232/170123393-c9532a7c-077f-44bd-b03e-e2f60e5f5a02.png))
+
+
+![Calendar3](https://user-images.githubusercontent.com/105073232/170123518-b2cc4f41-da78-4c79-a228-b918a802723b.png)
+
 
 ## Letter to Instructors
 
@@ -61,14 +66,14 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 
 - [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+  - [ ] Add link to your gist here: [gist!](https://gist.github.com/ashuhleyt/aaaeab396a8b2e54730f130d433356cc)
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+  - [ ] Add a link to your gist here: [gist!] (https://gist.github.com/ashuhleyt/a8662057b5544e0de5791b25fede86ce)
 
 ## Mod 0 Project Submission
 

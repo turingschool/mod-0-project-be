@@ -19,28 +19,45 @@ You would want to use an if statement if you need the conditions to be met in or
 5. What is the Ruby syntax for an if statement?
 
 variables
+<br>
 if condition
+<br>
   puts ""
+  <br>
 end
 
 6. How do you add multiple conditions to an if statement?
 if condition
-
+<br>
 variables
+<br>
   else
+  <br>
     puts ""
+  <br>
   elsif
+  <br>
     puts ""
+   <br>
   end  
+  <br>
+  
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
 capacity = 1000
+<br>
 people = 950
 
 
 if people > capacity
+<br>
   puts "entry will not be granted"
+ <br>
 elsif people < capacity
+<br>
   puts "entry will be granted"
+ <br>
 else
+<br>
   puts "we lost count"
-end. 
+<br>
+end
