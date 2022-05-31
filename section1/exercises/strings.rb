@@ -4,13 +4,11 @@
 # `ruby section1/exercises/strings.rb`
 
 # Example: Write code that prints your name to the terminal:
-p "Alan Turing"
+puts "Taryn O"
 
 # Write code that prints `Welcome to Turing!` to the terminal:
-p #YOUR CODE HERE
-
+puts "Welcome to Turing"
 # Write code that prints `99 bottles of pop on the wall...` to the terminal:
-# YOUR CODE HERE
-
+puts "99 bottles of pop on the wall..."
 # Write out code to print one line from your favorite song or movie.
-# YOUR CODE HERE
+print "They're just ninos trying to release their wiggles"
