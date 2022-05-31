@@ -59,6 +59,7 @@ Create a new Gist. In it, write a letter introducing yourself to your future ins
 - What did you learn about yourself, as a person and a student, during Mod 0?
 
 Make sure to include your full name and pronouns.
+[Letter to instructors!](https://gist.github.com/ashuhleyt/1c566f0c9d57a8aeaa22177b2875e88d)
 
 ## Mentorship Prep
 
