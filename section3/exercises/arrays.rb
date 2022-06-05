@@ -42,26 +42,31 @@ print animals[2]
 #-------------------
 
 # YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
-
+french_cheeses = ["Reblochon", "Comte", "Langres", "Epoisses"]
 
 # YOU DO: Write code below that will print the number of elements in the array of
 # foods from above.
-
+puts "number of cheeses : #{french_cheeses.count}"
 
 # YOU DO: Write code below that uses a method to add "broccoli" to the foods array and
 # print the changed array to verify "broccoli" has been added
-
+french_cheeses << "broccoli"
 
 # YOU DO: Write code below that removes the last item of food from the foods array and
 # print the changed array to verify that item has been removed
-
+french_cheeses.pop
 
 # YOU DO: Write code to add 3 new foods to the array.
   # There are several ways to do this - choose whichever you'd like!
 # Then, print the changed array to verify the new items have been added
+french_cheeses << "Livarot"
+french_cheeses << "Tomme de Savoie"
+french_cheeses << "Abbaye de Belloc"
+
+puts french_cheeses
 
 # YOU DO: Remove the food that is in index position 0.
-
+french_cheeses.delete_at(0)
 #-------------------
 # PART 3: Where are Arrays used?
 #-------------------
@@ -82,6 +87,6 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 # may be storing data? Come up with 3 examples - they could be from different web applications or
 # all from the same one.
 
-# 1:
-# 2:
-# 3:
+# 1: pinterest
+# 2: etsy
+# 3: wordpress
