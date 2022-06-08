@@ -24,7 +24,7 @@ animal = "zebra"
 
 6. How would you print the string `"zebra"` using the variable that you created above?
 ```ruby
-puts zebra
+puts animal
 ```
 
 7. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
