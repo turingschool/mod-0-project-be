@@ -1,12 +1,4 @@
-#i will have to come back later to refactor the mess i made. i think i should always start a conditional
-#by typing both the first if statement and end, then fill in the middle. that way
-#i won't get confused wondering if i put an end inside of my recursions.
-#i will use the octothorpe to inactivate some code and help me parse small blocks of code at a time
-#and run the active code to make sure it works
-#i learned some things though! in an expression evaluating the vairbales, i can't
-#use integers! i guess there is a step to convert the player's input from string
-#to integer that i don't know yet, or maybe that's too complicated, or wouldn't work
-#anyway
+#i spent some more time refactoring and i think all is well, but i want to come back and spend some more timw on my endless loop!
 
 puts "You enter a dark room with two doors.  Do you go through door #1, door #2, or door #3?"
 
@@ -45,16 +37,18 @@ elsif door == "2"
   if insanity == "1" || insanity == "2"
     puts "Your body survives powered by a mind of jello.  Good job!"
   elsif insanity == "4"
-    puts "A disembodied voice thunders 'I admire your courage but yor hubris is folly' before you are
-    eviserated and then vaporized."
+    puts "A disembodied voice thunders 'I admire your courage but your hubris is folly' before you are
+    flayed and eviscerated, and the remains vaporized."
   else
     puts "The insanity rots your eyes into a pool of muck.  Good job!"
+  end
 
-elsif door == "3"
+ elsif door == "3"
   puts "You enter a dark room with three doors again.  Do you go through door #1, door #2, or door #3?"
 
   print "> "
   door_again = $stdin.gets.chomp
+
 
   if door_again == "1"
     puts "The door does not open. Choose again."
@@ -65,8 +59,8 @@ elsif door == "3"
     endless_loop = $stdin.gets.chomp
 
     if endless_loop == "2"
-      puts "the coder went to lunch and didn't write any more options for you. you are stuck in limbo forever. Good job!"
-    else
+      puts "The coder went to lunch and didn't write any more options for you. You are stuck in limbo forever. Good job!"
+    elsif endless_loop == "3"
       puts "You enter a dark room with three doors again.  Do you go through door #1, door #2, or door #3?"
 
       print "> "
@@ -78,19 +72,19 @@ elsif door == "3"
         puts "3."
 
         print "> "
-        endless_loop = $stdin.gets.chomp
-
+        eternity = $stdin.gets.chomp
+          if eternity == "1"
+            puts "The coder went to lunch and didn't write any more options for you. You are stuck in limbo forever. Good job!"
+          else
+            puts "There has been a glitch and you are now stuck between dimensions with no way out. Enjoy an eternity of darkness!"
+          end
       else
-          puts "the coder went to lunch and didn't write any more options for you. you are stuck in limbo forever. Good job!"
+          puts "The coder went to lunch and didn't write any more options for you. You are stuck in limbo forever. Good job!"
       end
     end
- end
-  elsif door == "2"
-    puts "The bear eats your legs off.  Good job!"
-  elsif door == "3"
-    puts "The bear invites you to enjoy the cake with them. After all, it's their birthday. Good job!"
+
   else
-    puts "Well, doing %s is probably better.  Bear runs away." % bear
+    puts "There has been a glitch and you are now stuck between dimensions with no way out. Enjoy an eternity of darkness!"
   end
 
 else
