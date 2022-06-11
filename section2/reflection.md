@@ -32,7 +32,7 @@ end
 - elsif
 
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
-- for example:
+for example:
 if predators > prey
   puts "We won't survive against them."
 elsif predators < prey
