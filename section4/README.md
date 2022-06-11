@@ -40,7 +40,7 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 
 - `Add Week 1 Screenshot Here`
 - `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+<img width="1134" alt="Screen Shot 2022-06-11 at 11 09 20 AM" src="https://user-images.githubusercontent.com/106449394/173193516-50126562-81a0-49d2-a167-ff450c3497cc.png">
 
 ## Letter to Instructors
 
