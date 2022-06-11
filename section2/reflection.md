@@ -21,15 +21,15 @@ The way I do _not_
 - based on what you are working on you might want to test if the conditionals are true in your code for your project or company.
 5. What is the Ruby syntax for an if statement?
 - if conditional [then]
-code...
-[elsif conditional [then]
-code...]...
-[else
-code...]
+  code
+elsif conditional [then]
+  code
+else
+  code
 end
 
 6. How do you add multiple conditions to an if statement?
-- elsif, else
+- elsif
 
 7. Provide an example of the Ruby syntax for an if/elsif/else statement:
 - for example:
