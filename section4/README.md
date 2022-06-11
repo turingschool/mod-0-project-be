@@ -57,7 +57,7 @@ Make sure to include your full name and pronouns.
 
 Provide link to your Gist here:
 
-[Letter][https://github.com/torlemann/mod-0-project-be/blob/22b23f951268122e33b48e7847328ac0c55f101b/section4/letter_to_instructors.md]
+[Letter](https://github.com/torlemann/mod-0-project-be/blob/22b23f951268122e33b48e7847328ac0c55f101b/section4/letter_to_instructors.md)
 
 ## Mentorship Prep
 
