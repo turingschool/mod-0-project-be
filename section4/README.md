@@ -57,6 +57,8 @@ Make sure to include your full name and pronouns.
 
 Provide link to your Gist here:
 
+[Letter][https://github.com/torlemann/mod-0-project-be/blob/22b23f951268122e33b48e7847328ac0c55f101b/section4/letter_to_instructors.md]
+
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
