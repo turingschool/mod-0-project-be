@@ -64,8 +64,9 @@ Provide link to your Gist here:
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
 - [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
+- I attempted to do this but the community page became unresponsive during registration, so hopefully it completed. I messaged @Karen about the error.
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+  - [ ] Add link to your gist here:  [Mentor Letter](https://gist.github.com/torlemann/bf9ed32159d1ba9134579c64d37fbe0b)
 
 ## Group Work Prep
 
