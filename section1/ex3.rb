@@ -31,3 +31,12 @@ puts "How about some more."
 puts "Is it greater? #{5.0 > -2.0}"
 puts "Is it greater or equal? #{5.0 >= -2.0}"
 puts "Is it less or equal? #{5.0 <= -2.0}"
+
+
+#Study Drills:
+# 1: See above.
+
+# 2: Done in 'irb' nothing to show here.
+# 3: I dont want to create an additional file... can I just do it here?
+puts (8 + (8.75 - 1.75) + 8.75 + 5.5) - 40
+# 4: See above.

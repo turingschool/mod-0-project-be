@@ -5,7 +5,7 @@
 
 # Example: Write code that saves your name to a variable and
 # prints what that variable holds to the terminal:
-name = "Aleisha Mork"
+name = "Harry Potter"
 p name
 
 # Write code that saves the string 'Dobby' to a variable and
@@ -16,6 +16,7 @@ puts house_elf
 # Write code that saves the string 'Harry Potter must not return to Hogwarts!'
 # and prints what that variable holds to the terminal:
 house_elf_warning = "Harry Potter must not return to Hogwarts!"
+p house_elf_warning
 
 # Write code that adds 2 to the `students` variable and
 # prints the result:
@@ -32,7 +33,7 @@ puts students - new_students
 # Declare three variables, named `first_name`, `is_hungry` and `number_of_pets`.
 # Store the appropriate data types in each.
 # print all three variables to the terminal.
-first_name = "Billy"
+first_name = "Elizabeth"
 is_hungry = "Time to make dinner!"
 number_of_pets = 3
 
@@ -40,10 +41,11 @@ puts first_name
 puts is_hungry
 puts number_of_pets
 
+
 # IN WORDS:
 # How did you decide to use the data type you did for each of the three variables above?
 p "I decided to use these data types based on the variable names provided and what seems like you would expect to be attached."
- 
+
 # Explain.
 p "The variable 'first_name' would inticate a string is needed to provid the first name of the user."
 p "The variable 'is_hungry' would suggest that somthing to do with food wich would also be a text string should be associated with the name."

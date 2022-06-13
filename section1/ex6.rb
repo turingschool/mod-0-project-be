@@ -29,3 +29,18 @@ e = "a string with a right side."
 
 # Prints the assigned string values for each variable. Combining them to make 1 printed string
 puts w + e
+
+
+# Study Drills:
+
+# 1 & 2: - See Above
+
+# 3:
+# This works because you are adding the values of the variables
+# assigned to 'w' & 'e' so it's kinda working like
+# "put this and also put this"
+
+# 4: 
+# Some still work. But the ones that don't I think its because
+# the computer does not know how to tell when its the end of
+# a string vs an apostrophe or quotes within a statement.

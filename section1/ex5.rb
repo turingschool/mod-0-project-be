@@ -1,5 +1,5 @@
 name = 'Zed A. Shaw'
-age = 35 # not a lie in 2009
+age = 35
 height = 74 # inches
 weight = 180 # lbs
 eyes = 'Blue'
@@ -13,5 +13,12 @@ puts "Actually that's not too heavy."
 puts "He's got #{eyes} eyes and #{hair} hair."
 puts "His teeth are usually #{teeth} depending on the coffee."
 
-#this line is tricky, try to get it exactly right
 puts "If I add #{age}, #{height}, and #{weight} I get #{age + height + weight}."
+
+
+# Study Drills:
+
+# 1: See above - removed the 'my_'
+# 2:
+puts "#{74 * 2.54} - Is Zed's height in centimeters."
+puts "#{180 / 2.205} - Is Zed's weight in kilograms."

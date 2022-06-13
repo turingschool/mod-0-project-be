@@ -12,13 +12,16 @@ p "The #{team} are #{name}'s favorite Quidditch team"
 
 # Write code that uses the variables below to form a string that reads
 # "The quick red fox jumped over the lazy brown dog":
+
 speedy = "quick red fox"
 slow_poke = "lazy brown dog"
 
 p "The #{speedy} jumped over the #{slow_poke}"
 
+
 # Write code that uses the variables below to form a string that reads
 # "In a predictable result, the tortoise beat the hare!":
+
 slow_poke = "tortoise"
 speedy = "hare"
 
@@ -31,7 +34,6 @@ p "In a predictable result, the #{slow_poke} beat the #{speedy}!"
 # descriptive (it's a hard balance!) Then, print ONE sentence that incorporates
 # all THREE variables.
 
-# YOUR CODE HERE
 name = "Deb"
 activity = "to the mall"
 time = "weekend"
