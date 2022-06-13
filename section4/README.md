@@ -38,9 +38,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+<img width="1129" alt="Screen Shot 2022-06-11 at 11 14 56 AM" src="https://user-images.githubusercontent.com/106449394/173193708-b871f5d8-c4f3-40c2-8bff-8bc5fa98d989.png">
+<img width="1133" alt="Screen Shot 2022-06-11 at 11 09 02 AM" src="https://user-images.githubusercontent.com/106449394/173193610-d9948e11-3ee3-48e5-aa6a-7b51edd0398e.png">
+<img width="1134" alt="Screen Shot 2022-06-11 at 11 09 20 AM" src="https://user-images.githubusercontent.com/106449394/173193516-50126562-81a0-49d2-a167-ff450c3497cc.png">
 
 ## Letter to Instructors
 
@@ -57,20 +57,23 @@ Make sure to include your full name and pronouns.
 
 Provide link to your Gist here:
 
+[Letter](https://github.com/torlemann/mod-0-project-be/blob/22b23f951268122e33b48e7847328ac0c55f101b/section4/letter_to_instructors.md)
+
 ## Mentorship Prep
 
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 
 - [ ] [Create a profile on Turing Community Connect by following these directions](https://docs.google.com/document/d/1vpyKGu92l1HGkJzULNcyyE72946f4QO1DhQgIz3v1E0/edit?usp=sharing)
+- I attempted to do this but the community page became unresponsive during registration, so hopefully it completed. I messaged @Karen about the error.
 - [ ] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
-  - [ ] Add link to your gist here: 
+  - [ ] Add link to your gist here:  [Mentor Letter](https://gist.github.com/torlemann/bf9ed32159d1ba9134579c64d37fbe0b)
 
 ## Group Work Prep
 
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 
 - [ ] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
-  - [ ] Add a link to your gist here: 
+  - [ ] Add a link to your gist here: [DTR Qs](https://gist.github.com/torlemann/f15a39d9a0e52de53dc8be752bcc7472)
 
 ## Mod 0 Project Submission
 
