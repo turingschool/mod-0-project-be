@@ -68,9 +68,9 @@ end
 
 
 
+# Study Drills:
 
-# Study Drills: # 1:
-
+# 1:
 puts "-" * 10
 regions = {
   'Kent' => 'KEN',
@@ -136,15 +136,16 @@ puts "The city for the region 'NBL' is: #{city}"
 
 
 
-# Study Drills #2:
-# Check if 2 hash's contain the same keys and values
-puts regions == citys
-# Setup a proces to run as defult when hash value does not exit and retern would normally be nil
-regions.default_proc = proc do |regions, abbr|
-  regions[abbr] = abbr + " does not have an abbreviation."
-end
-  puts regions['Fife']
+#2:
+  # Check if 2 hash's contain the same keys and values
+    puts regions == citys
+  # Set up a process to run as default when hash value does not exist and return value
+  # would normally be nil
+    regions.default_proc = proc do |regions, abbr|
+      regions[abbr] = abbr + " does not have an abbreviation."
+    end
+      puts regions['Fife']
 
 
-# Study Drills #3:
-# puts regions[4]
+# 3:
+  # puts regions[4]   # Commented out so that error does not run when checking in terminal

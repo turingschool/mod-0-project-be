@@ -24,10 +24,15 @@ puts animals[5]
 # The fifth animal is a whale and is at 4. The animal at 4 is a whale and is the fifth animal.
 puts animals[4]
 
+
 # Study Drills:
-# 1: I would think that year are not arrays they have to be in order so they are cronological. So it would be like counting not random order.
+
+# 1:
+  # I would think that year are not arrays they have to be in order so they are
+  # cronological. So it would be like counting not somthing that can be in a random order.
+
 # 2 & 3:
-drinks = ['water', 'tea', 'coffee', 'juice', 'wine', 'soda']
-puts drinks[1] # should return 'tea' - the 2nd element
-puts drinks[5] # should return ´soada´ - the 6th element
-puts drinks[3] # should return 'juice' - the 4th element
+  drinks = ['water', 'tea', 'coffee', 'juice', 'wine', 'soda']
+  puts drinks[1] # should return 'tea' - the 2nd element
+  puts drinks[5] # should return ´soada´ - the 6th element
+  puts drinks[3] # should return 'juice' - the 4th element

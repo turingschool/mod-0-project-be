@@ -33,40 +33,45 @@ end
 # now we can print them out too
 elements.each {|i| puts "Element was: #{i}" }
 
+
 # Study Drills:
 
-# 1: When using (..) in a range it will include the end point provided eg: (1..5) will include 1, 2, 3, 4, 5.
-# => When using (...) in a range it will include up to but not inluding the end point. eg: (1...5) will include 1, 2, 3, 4.
-# =>  site: geeksforgeeks.org/ruby-oranges
+# 1:
+  # - When using (..) in a range it will include the end point provided eg: (1..5)
+  # will include 1, 2, 3, 4, 5.
+  # - When using (...) in a range it will include up to but not inlcuding the
+  # end point. eg: (1...5) will include 1, 2, 3, 4.
+    # =>  site: geeksforgeeks.org/ruby-oranges
 
-# 2: see update to line 7
+# 2: See update to line 7
 
-# 3: .push or << adds a new item to end of array
-fruits.push('strawberry')
-fruits.each do |fruit|
-  puts "A fruit of type: #{fruit}"
-end
+# 3:
+  # .push or << adds a new item to end of array
+    fruits.push('strawberry')
+    fruits.each do |fruit|
+      puts "A fruit of type: #{fruit}"
+    end
 
-fruits << 'blueberry'
-fruits.each do |fruits|
-  puts "The #{fruits}"
-end
+    fruits << 'blueberry'
+    fruits.each do |fruits|
+      puts "The #{fruits}"
+    end
 
-# .unshift - adds a new item to beginning of array
-fruits.unshift('peach')
-puts fruits
+  # .unshift - adds a new item to beginning of array
+    fruits.unshift('peach')
+    puts fruits
 
-# .insert - you can add a new item to an arry at any position, OR insert multiple values
-fruits.insert(3, 'purple')
-fruits.each do |fruit|
-  puts "All the #{fruit}"
-end
+  # .insert - you can add a new item to an arry at any position, OR insert multiple values
+    fruits.insert(3, 'purple')
+    fruits.each do |fruit|
+      puts "All the #{fruit}"
+    end
 
-fruits.insert(6, 'green', 'pink', 'mango')
-fruits.each do |fruit|
-  puts "List the fruit: #{fruit}"
-end
+    fruits.insert(6, 'green', 'pink', 'mango')
+    fruits.each do |fruit|
+      puts "List the fruit: #{fruit}"
+    end
 
-# .delete removes a particular item anywhere in array
-fruits.delete('strawberry')
-puts fruits
+  # .delete removes a particular item anywhere in array
+    fruits.delete('strawberry')
+    puts fruits
