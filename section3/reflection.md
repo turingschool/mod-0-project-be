@@ -19,41 +19,48 @@
 
 4. In the space below, create a Hash stored to a variable named `pet_store`.  This hash should hold an inventory of items and the number of that item that you might find at a pet store.
 
-```Ruby
-pet_store = {'dog_food' => 20, 'chew_toys' => 6, 'fish' => 100}
-```
+    ```Ruby
+    pet_store = {'dog_food' => 20, 'chew_toys' => 6, 'fish' => 100}
+    ```
 
 5. Given the following `states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}`, how would you access the value `"Iowa"`?
-  `states["IA"]`
+
+    `states["IA"]`
 
 6. With the same hash above, how would we get all the keys?  How about all the values?
 
-`states.keys`
-`states.values`
+    `states.keys`
+
+    `states.values`
 
 7. What is another example of when we might use a hash?  In your example, why is a hash better than an array?
     - A hash could be used when storing user profile data (eg: name, age, member since, etc.). It has multiple data points that you would want to reference. It would be better than an Array because it is how the data relates to each other that matters. Not what order that data is stored in and in a hash you can give more meaning to what pieces of data represent.
 
 8. What questions do you still have about hashes?
-    - In the ruby documentation they reference using `@auther = author` in "Hash Keys" I did not understand this section or what the `@` signs were doing. Is this adding items to the Hash, somehow?
-    - I also was a little confused by:
-  ``` Ruby
-  states.each do |state, abbrev|
-    puts "#{state} is abbreviated #{abbrev}"
-  ```
-      - Why are we able to name the keys and values whatever we want here using `||`? Can this be used at any point to name the keys and values or only with specific methods?
-    -  Also from that same exercise #39:
-  ```Ruby
-  if !state
-    puts "Sorry, no Texas."
-  end
-  ```
-      - The `!value` was not in the ruby documentation or Ruby in 100 as far as I could tell is this just a different way of doing `grades.default = 0` per the ruby documentation?
-      - Or is it a shorthand way of doing:
-  ```Ruby
-  regions.default_proc = proc do |regions, abbr|
-    regions[abbr] = abbr + " does not have an abbreviation."
-  end
+  * In the ruby documentation they reference using `@auther = author` in "Hash Keys" I did not understand this section or what the `@` signs were doing. Is this adding items to the Hash, somehow?
+  * I also was a little confused by:
 
-  puts regions['Fife']
-  ```
+      ``` Ruby
+      states.each do |state, abbrev|
+        puts "#{state} is abbreviated #{abbrev}"
+      ```
+
+    * Why are we able to name the keys and values whatever we want here using `||`? Can this be used at any point to name the keys and values or only with specific methods?
+  * Also from that same exercise #39:
+
+      ```Ruby
+      if !state
+        puts "Sorry, no Texas."
+      end
+      ```
+
+    * The `!value` was not in the ruby documentation or Ruby in 100 as far as I could tell is this just a different way of doing `grades.default = 0` per the ruby documentation?
+    * Or is it a shorthand way of doing:
+
+      ```Ruby
+      regions.default_proc = proc do |regions, abbr|
+        regions[abbr] = abbr + " does not have an abbreviation."
+      end
+
+      puts regions['Fife']
+      ```
