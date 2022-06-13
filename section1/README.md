@@ -183,19 +183,19 @@ This will open the `section1` directory in Atom. You should be able to see the d
 
 2. Check off the items below as you complete the steps you just read for each lesson. ***Remember to create a file containing your work for each lesson!***
 
-    - [X] [A Good First Program](https://learnrubythehardway.org/book/ex1.html)
+    - [ ] [A Good First Program](https://learnrubythehardway.org/book/ex1.html)
 
-    - [X] [Comments in Code](https://learnrubythehardway.org/book/ex2.html)
+    - [ ] [Comments in Code](https://learnrubythehardway.org/book/ex2.html)
 
-    - [X] [Numbers and Math](https://learnrubythehardway.org/book/ex3.html)
+    - [ ] [Numbers and Math](https://learnrubythehardway.org/book/ex3.html)
 
-    - [X] [Variables and Names](https://learnrubythehardway.org/book/ex4.html)
+    - [ ] [Variables and Names](https://learnrubythehardway.org/book/ex4.html)
 
-    - [X] [Strings](https://learnrubythehardway.org/book/ex5.html)
+    - [ ] [Strings](https://learnrubythehardway.org/book/ex5.html)
 
-    - [X] [More Strings](https://learnrubythehardway.org/book/ex6.html)
+    - [ ] [More Strings](https://learnrubythehardway.org/book/ex6.html)
 
-    - [X] [Asking for Input](https://learnrubythehardway.org/book/ex11.html)
+    - [ ] [Asking for Input](https://learnrubythehardway.org/book/ex11.html)
 
 
 3. Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into the Terminal and type in the code snippets provided.
