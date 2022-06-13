@@ -5,7 +5,8 @@ cars = 30
 # Assigns the integer to the variable named trucks
 trucks = 20
 
-# Starts the 'if-statement' indicating that if the variable cars is greater then the variable people then do what follows
+# Starts the 'if-statement' indicating that if the variable cars is greater than
+# the variable people then do what follows
 if cars > people
 # Indicates if the above boolean is true then print the following string
   puts "We should take the cars."
@@ -17,7 +18,7 @@ elsif cars < people
 else
 # If the above booleans both returned false then print this string
   puts "We can't decide."
-# Ends this block of 'if-statements' so the computer know it is moving to it next set of instructions.
+# Ends this block of 'if-statements' - Tells the computer to move to the next set of instructions.
 end
 
 # Indicates the start of a new 'if statement' to evaluate for truth
@@ -28,7 +29,7 @@ if trucks > cars
 elsif trucks < cars
 # If the above boolean is tru print this string
   puts "Maybe we could take the trucks."
-# If both above boolean are false then do the following thing rather
+# If both above boolean are false then do this thing
 else
 # If both above booleans are false then print this string
   puts "We still can't decide."
@@ -46,9 +47,17 @@ else
 # Ends the 'if-statement' code block
 end
 
-#Study Drill # 1.
-# `else` and `elsif` are adding additional if statements to the original if statement.
-#Study Drill #3:
-if cars > people || trucks < cars
-  puts "We will all be in cars today."
-end
+
+# Study Drills:
+
+# 1.
+  # `else` and `elsif` are adding additional if statements to the original if statement.
+
+#2: - See Above - Modified values for the variables
+
+#3:
+  if cars > people || trucks < cars
+    puts "We will all be in cars today."
+  end
+
+#4: - See Above

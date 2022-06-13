@@ -24,12 +24,14 @@
 4. Why might you want to use an if-statement?
   - You would want to use them to provide output that reflects a current state or selection made that specific to the user or situation, especially if that state could change. Such as :
     * To determine what result will be shown when a user fills in a form or questionnaire
-    * Or (like the example in the section 4 class) to provide an indicator if a payment was made and what message will show based on this.
+    * Or (like the example in the session 4 class) to provide an indicator if a payment was made and what message will show based on this.
 
 5. What is the Ruby syntax for an if statement?
+
   `if` variable with boolean
     instructions to follow - usually includes a `puts`
   `end` (to indicate end of code block for specific if statement)
+
   __Example:__
 ```Ruby
 if time >= "10:30pm"
@@ -41,8 +43,9 @@ end
   - After initial `if statement` use:
     * `elsif` _(if any)_ include variable with boolean
   __and/or__
-    * `else` (if any)
+    * `else` _(if any)_
   - Instructions need to follow any `elsif` _and/or_ `else` statement provided
+
   __Example:__
   ```Ruby
   elsif variable > "10"
