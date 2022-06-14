@@ -58,8 +58,7 @@ Create a new Gist. In it, write a letter introducing yourself to your future ins
 
 Make sure to include your full name and pronouns.
 
-Provide link to your Gist here: [
-](https://gist.github.com/KaelinSleevi/6712ea9bea7598fce680dd07b6d77a2a)
+Provide link to your Gist here: https://gist.github.com/KaelinSleevi/6712ea9bea7598fce680dd07b6d77a2a
 
 ## Mentorship Prep
 
