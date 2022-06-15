@@ -38,9 +38,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- <img src = "Screen Shot 2022-06-15 at 2.27.19 PM (2).png">
-- <img src = "Screen Shot 2022-06-15 at 2.39.28 PM (2).png">
-- <img src = "Screen Shot 2022-06-15 at 2.39.38 PM (2).png">
+- <img src = "Screen Shot 2022-06-15 at 2.27.19 PM (2).png/">
+- <img src = "Screen Shot 2022-06-15 at 2.39.28 PM (2).png/">
+- <img src = "Screen Shot 2022-06-15 at 2.39.38 PM (2).png/">
 
 ## Letter to Instructors
 
