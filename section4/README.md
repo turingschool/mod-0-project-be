@@ -38,9 +38,12 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- <img src = "Screen Shot 2022-06-15 at 2.27.19 PM (2).png/">
-- <img src = "Screen Shot 2022-06-15 at 2.39.28 PM (2).png/">
-- <img src = "Screen Shot 2022-06-15 at 2.39.38 PM (2).png/">
+- Week 1:
+![Week 1](https://drive.google.com/file/d/1p7p1kC_12LbTLYoTS1ALZBsDYbJf9o2j/view?usp=sharing "week1")
+- Week 2:
+![Week 2](https://drive.google.com/file/d/1-6rHVjvw1HlSUUmCdLtMdAz7J6a8HxPZ/view?usp=sharing "week2")
+- Week 3:
+![Week 3](https://drive.google.com/file/d/1JmJ6Sr8Xrg-ql4ofsUvfuBkFg-ypgFMX/view?usp=sharing "week3")
 
 ## Letter to Instructors
 
