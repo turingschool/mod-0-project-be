@@ -1,4 +1,4 @@
-Exercise
+#Exercise
 
 Hashes practice
 irb(main):001:0> produce = {"grapes" => 221, "oranges" => 6, "carrots" => 12}

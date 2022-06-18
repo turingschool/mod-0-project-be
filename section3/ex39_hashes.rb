@@ -82,10 +82,10 @@ city = cities['TX']
 city ||= 'Does Not Exist'
 puts "The city for the state 'TX' is: #{city}"
 
-Study Drills
+#Study Drills
 
-1. Do this same kind of mapping with cities and states/regions in your country or some other country.
-  -states = {
+#1. Do this same kind of mapping with cities and states/regions in your country or some other country.
+  states = {
     'Colorado' => 'CO',
     'Illinois' => 'IL',
     'Washington' => 'WA',
@@ -120,8 +120,8 @@ Study Drills
     puts "#{state} is abbreviated #{abbrev} and has city #{city}"
   end
 
-2. Find the Ruby documentation for hashes and try to do even more things to them.
-  - kay = {
+#2. Find the Ruby documentation for hashes and try to do even more things to them.
+  kay = {
     'First name' => 'Kaelin',
     'Last name' => 'Sleevi',
     'Age' => 23,
@@ -164,6 +164,6 @@ Study Drills
   puts grades['Dorothy Doe']
   puts grades['Timmy Doe']
 
-3. Find out what you can't do with hashes. A big one is that they do not have order, so try playing with that.
-    - Apparently, as of Ruby version 1.9 hashes maintain an order in which they are stored. But it can not tore data in a specific order.
-    - We also cannot rely on just an index number to look or call the hashes out, so we use keys.
+#3. Find out what you can't do with hashes. A big one is that they do not have order, so try playing with that.
+    #- Apparently, as of Ruby version 1.9 hashes maintain an order in which they are stored. But it can not tore data in a specific order.
+    #- We also cannot rely on just an index number to look or call the hashes out, so we use keys.
