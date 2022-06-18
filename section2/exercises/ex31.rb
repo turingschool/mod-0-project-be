@@ -38,7 +38,7 @@ else
   puts "You stumble around and fall on a knife and die.  Good job!"
 end
 
-1. Make new parts of the game and change what decisions people can make. Expand the game out as much as you can before it gets ridiculous.
+#1. Make new parts of the game and change what decisions people can make. Expand the game out as much as you can before it gets ridiculous.
 puts "You enter a dark room with two doors.  Do you go through door #1 or door #2?"
 
 print "> "
@@ -83,7 +83,7 @@ else
   puts "You stumble around and fall on a knife and die.  Good job!"
 end
 
-2. Write a completely new game. Maybe you don't like this one, so make your own. This is your computer; do what you want.
+#2. Write a completely new game. Maybe you don't like this one, so make your own. This is your computer; do what you want.
 puts "You are driving down the road at night and hit a fork.  Do you drive down the left or right?"
 
 print "> "

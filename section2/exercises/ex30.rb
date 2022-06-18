@@ -30,23 +30,23 @@ else
   puts "Fine, let's stay home then."
 end
 
-1.  Try to guess what elsif and else are doing.
-  - I would guess elsif is being used or is giving a second possibilty for another true or false statement. Else is a third option if neither the if or elsif statements are true.
-2.  Change the numbers of cars, people, and trucks, and then trace through each if-statement to see what will be printed.
-  - If people is changed to 50 the printed would be:
-    - "We should not take the cars."
-    - "Maybe we could take the trucks."
-    - "Alright, let's just take the trucks"
-  - If cars is changed to 10 the printed would be:
-    - "We should not take the cars."
-    - "That's too many trucks."
-    - "Alright, let's just take the trucks."
-  - If trucks changed to 30 the printed would be:
-    - "We should take the cars."
-    - "Maybe we could take the trucks."
-    - "Fine, let's stay home then."
-3.  Try some more complex boolean expressions like cars > people || trucks < cars.
-  - if cars > people || trucks < cars
+#1.  Try to guess what elsif and else are doing.
+  #- I would guess elsif is being used or is giving a second possibilty for another true or false statement. Else is a third option if neither the if or elsif statements are true.
+#2.  Change the numbers of cars, people, and trucks, and then trace through each if-statement to see what will be printed.
+  #- If people is changed to 50 the printed would be:
+    #- "We should not take the cars."
+    #- "Maybe we could take the trucks."
+    #- "Alright, let's just take the trucks"
+  #- If cars is changed to 10 the printed would be:
+    #- "We should not take the cars."
+    #- "That's too many trucks."
+    #- "Alright, let's just take the trucks."
+  #- If trucks changed to 30 the printed would be:
+    #- "We should take the cars."
+    #- "Maybe we could take the trucks."
+    #- "Fine, let's stay home then."
+#3.  Try some more complex boolean expressions like cars > people || trucks < cars.
+  if cars > people || trucks < cars
     puts "Let's just take the cars."
   elsif cars < people || trucks > cars
     puts "Alright, let's take the trucks"
@@ -54,4 +54,4 @@ end
     puts "Let's stay home."
   end
 
-4.  Above each line write an English description of what the line does.
+#4.  Above each line write an English description of what the line does.
