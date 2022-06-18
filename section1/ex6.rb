@@ -1,4 +1,4 @@
-Exercise
+#Exercise
 # this assigns the variable "types_of_people" to the number. That way you have 10 types of people for the equation
 types_of_people = 10
 # this is assigning the variable "x" to a sting that includes the variable types_of_people to print as a statement
@@ -27,15 +27,14 @@ e = "a string with a right side."
 # this action will print the strings assigned to w and e together. We know that because the two are being added together below. The addition of the two will print in the Terminal
 puts w + e
 
-Study Drills
-1. Go through this program and write a comment above each line explaining it.
+#Study Drills
+#1. Go through this program and write a comment above each line explaining it.
 
-2. Find all the places where a string is put inside a string.
-  - Lines 5, 16, 17, and 21
-3. Are you sure there are only four places? How do you know? Maybe I like lying.
-  - Yes, the rest of the lines are just assigned to one string (there is not another defined variable within the other assignments) or are the action of puts and the variable assigned.
-4. Explain why adding the two strings w and e with + makes a longer string.
-  - It is adding two defined variables that are defined with strings together into one output.
-5. What happens when you change the strings to use ' (single-quote) instead of " (double-quote)? Do they still work? Try to guess why.
-  - It depends, in some cases here it will make no difference, but in the strings that include an apostrophe the single quotations will open and close the strings in the wrong places. It will not print the same.
-  
+#2. Find all the places where a string is put inside a string.
+  #- Lines 5, 16, 17, and 21
+#3. Are you sure there are only four places? How do you know? Maybe I like lying.
+  #- Yes, the rest of the lines are just assigned to one string (there is not another defined variable within the other assignments) or are the action of puts and the variable assigned.
+#4. Explain why adding the two strings w and e with + makes a longer string.
+  #- It is adding two defined variables that are defined with strings together into one output.
+#5. What happens when you change the strings to use ' (single-quote) instead of " (double-quote)? Do they still work? Try to guess why.
+  #- It depends, in some cases here it will make no difference, but in the strings that include an apostrophe the single quotations will open and close the strings in the wrong places. It will not print the same.
