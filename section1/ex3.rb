@@ -1,4 +1,4 @@
-Exercise
+#Exercise
 #prints the statement so I know what the code/equation is doing
 puts "I will now count my chickens:"
 #the amount of hens and roosters(integer) are calculated by the equation below
@@ -24,8 +24,8 @@ puts "Is it greater? #{5.2 > -2.0}"
 puts "Is it greater or equal? #{5.2 >= -2.0}"
 puts "Is it less or equal? #{5.2 <= -2.0}"
 
-Study Drills
-1. Above each line, use the # to write a comment to yourself explaining what the line does.
-2. Remember in Exercise 0 when you started irb? Start irb this way again and, using the math operators, use Ruby as a calculator.
-3. Find something you need to calculate and write a new .rb file that does it.
-4. Rewrite ex3.rb to use floating point numbers so it's more accurate. 20.0 is floating point.
+#Study Drills
+#1. Above each line, use the # to write a comment to yourself explaining what the line does.
+#2. Remember in Exercise 0 when you started irb? Start irb this way again and, using the math operators, use Ruby as a calculator.
+#3. Find something you need to calculate and write a new .rb file that does it.
+#4. Rewrite ex3.rb to use floating point numbers so it's more accurate. 20.0 is floating point.
